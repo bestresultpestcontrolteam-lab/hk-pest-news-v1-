@@ -64,7 +64,7 @@ footer{font-size:12px;color:var(--sub);text-align:center;padding:24px 18px 40px}
     <aside>
       <h3>搜尋</h3>
       <input type="search" id="q" placeholder="關鍵字，如：食肆、深水埗">
-      <h3>管理關注度</h3><div class="chips" id="fPri"></div>
+      <div class="chips" id="fPri" hidden></div>
       <h3>蟲害類別</h3><div class="chips" id="fCat"></div>
       <h3>日期範圍</h3>
       <select id="fDays"><option value="1">過去24小時</option><option value="3">過去3日</option>
@@ -78,7 +78,7 @@ footer{font-size:12px;color:var(--sub);text-align:center;padding:24px 18px 40px}
     <main>
       <div class="tabs"><button class="tab on" data-v="list" type="button">新聞</button><button class="tab" data-v="trend" type="button">趨勢統計</button></div>
       <div class="bar"><span id="count"></span>
-        <select id="sort"><option value="time">按時間（新→舊）</option><option value="pri">按關注度</option><option value="src">按報道數量</option></select></div>
+        <select id="sort"><option value="time">按時間（新→舊）</option><option value="src">按報道數量</option></select></div>
       <div id="list"></div>
       <div id="trend" class="trend" hidden></div>
     </main>
@@ -140,7 +140,7 @@ function stats(items){
   const day = DATA.items.filter(i => Date.now()-new Date(i.first_seen) < 864e5);
   const media = new Set(items.flatMap(i => i.sources.map(s=>s.media)));
   $("stats").innerHTML = [
-    ["今日新事件", day.length, ""], ["今日高關注", day.filter(i=>i.priority==="高").length, "hi"],
+    ["今日新事件", day.length, ""], 
     ["篩選結果", items.length, ""], ["涉及媒體", media.size, ""],
     ["鼠患事件", items.filter(i=>(i.categories||[]).includes("鼠患")).length, ""],
     ["蚊患／病媒", items.filter(i=>(i.categories||[]).includes("蚊患及病媒疾病")).length, ""]
@@ -148,8 +148,8 @@ function stats(items){
 }
 function card(i){
   const srcs = i.sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">↗ ${esc(s.media)}</a>`).join("");
-  return `<article class="card p${esc(i.priority)}">
-    <div class="meta"><span class="pr ${esc(i.priority)}">${esc(i.priority)}關注</span>
+  return `<article class="card" style="border-left-color:#2f7d52">
+    <div class="meta">
       ${i.tier==="official"?'<span class="off">官方</span>':""}
       ${(i.categories||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join("")}
       ${(i.districts||[]).length?`<span>地區：${esc(i.districts.join("、"))}</span>`:""}
@@ -157,7 +157,7 @@ function card(i){
     <h2>${esc(i.title)}</h2>
     <div class="sum">${esc(i.summary)}</div>
     ${i.management_note && !i.management_note.startsWith("資料不足") ? `<div class="note">管理提示：${esc(i.management_note)}</div>`:""}
-    ${i.priority!=="低"?`<div class="meta">關注原因：${esc(i.priority_reason)}</div>`:""}
+    
     <div class="src">${srcs}</div></article>`;
 }
 function trend(items){
