@@ -1,15 +1,15 @@
 {
-  "time": "2026-11-17T07:14:17.358266+00:00",
-  "fetched": 901,
-  "kept": 60,
+  "time": "2026-11-17T07:52:49.845246+00:00",
+  "fetched": 920,
+  "kept": 66,
   "new_events": 0,
   "merged": 0,
   "diagnosis": {
-    "過時": 5,
+    "過時": 7,
     "排除字眼": 20,
-    "非蟲害": 809,
+    "非蟲害": 820,
     "分數不足": 7,
-    "保留": 60
+    "保留": 66
   },
   "samples": [
     {
@@ -293,11 +293,6 @@
       "分數": 3
     }
   ],
-  "errors": [
-    {
-      "source": "gn_site_cable",
-      "error": "HTTP Error 429: Too Many Requests"
-    }
-  ],
+  "errors": [],
   "drafts_pending": 0
 }
