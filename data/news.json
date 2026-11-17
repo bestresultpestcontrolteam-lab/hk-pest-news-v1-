@@ -1,7 +1,56 @@
 {
-  "generated": "2026-11-17T11:39:37.006460+00:00",
-  "count": 129,
+  "generated": "2026-11-17T22:45:47.804610+00:00",
+  "count": 133,
   "items": [
+    {
+      "id": "94b8b2668647",
+      "title": "珀麗灣沙灘現老鼠藥 專家斥危害小童健康 管理處稱已提醒承辦商",
+      "summary": "珀麗灣沙灘現老鼠藥 專家斥危害小童健康 管理處稱已提醒承辦商",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "中",
+      "priority_reason": "提醒",
+      "districts": [],
+      "first_seen": "2026-11-17T16:37:06+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "珀麗灣沙灘現老鼠藥 專家斥危害小童健康 管理處稱已提醒承辦商",
+          "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNa0pyZWVjYl9TNl84dlhmMmtEdDRkWlRkRF8xUDdRczd1NjBHVVRtekVBZDlfcjBZY2lpNms0WUdTUjFpZFpXcFlwUTBlLVpoRWtsay1CX0pfRlBSbGV6M3BoRVdLUDRDY0tQRXYyLW15T3VCYjNCTmtiSmFkYk41WUdhLXhwWmVWMnVUbW4wUGRxYjQwWW1yZy10THhmM1h4WTBhQVlpcENLVk1ubG1Sa3lINWhNaVZ4NDhRcGw1Y2tfQlNoYXJXS25leXFxRDljTkgzMUpzRmphV0ttekFCbjZvSmw2ZkFNN3VDVmR6N1c5NUx3MFNMSWpwblZSVzdyeldTMUUyNjQ0eG9UcXdLRFI3a3ZsNE4yLUxxVDdwdzZyR2lmTDVQZ1d2TDAwZU5ZQ2M3MVlQVFdIN1Jqd3VndllIc19VaDN1ZUNIT0RFVjRXNlNsbDFVUFFZVUtXYmhqRUFES1UxQWY0MGZCNXlUak9OUDdmZjdmZEtFZVVhYUtfSUxKMVdSYlpvU1Zza0V3MXN0WDBPVC1JN1p4Ynp6RHh4SnRuUVU0eHkzUVJJQlgwNjlVRmdZZXlyeDljUjRzLVRtZ1VqOGU?oc=5",
+          "media": "香港01",
+          "published": "2026-11-17T16:37:06+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "119d741f1af6",
+      "title": "衞生署舉行「白水晶」跨部門公共衞生演習 提升防控新型傳染病的應變能力和防範意識（附圖）",
+      "summary": "衞生署衞生防護中心（中心）今日（十一月十七日）聯同多個政府部門和輔助部隊舉行代號「白水晶」的公共衞生演習，旨在提升本港應對新型傳染病的應變能力，並加強持份者對突發公共衞生事件的防範意識。是次實地演習約有110名代表參…",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "鼠疫、醫院、爆發",
+      "districts": [
+        "南區"
+      ],
+      "first_seen": "2026-11-17T11:55:00+00:00",
+      "tier": "official",
+      "sources": [
+        {
+          "title": "衞生署舉行「白水晶」跨部門公共衞生演習 提升防控新型傳染病的應變能力和防範意識（附圖）",
+          "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700409.htm",
+          "media": "政府新聞公報 RSS",
+          "published": "2026-11-17T11:55:00+00:00",
+          "tier": "official"
+        }
+      ]
+    },
     {
       "id": "3cf44fbeff8e",
       "title": "北角七旬男圖食老鼠藥尋短 兒子及時發現清醒送院檢查",
@@ -2001,6 +2050,29 @@
       ]
     },
     {
+      "id": "c55a514228f2",
+      "title": "正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網",
+      "summary": "正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-10-29T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb29GWkJ4R2U3UjRocXJTcUpKY3FjaGtsUURERHprTFlyaW40eWlncDc3bnFEX2hDUmhqdl9kY2tIZDcxSmVlY3J2RjA4bnNaSzN0TW1YQ0taSWpVWDI3LTFvWmM4S3lYbmx6RFpmUDVNdlh3NVZDalh3MjdfY2xFZVkxTnlWNFJGdnV4dHFoVFJZOFE?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-10-29T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "8cb05178296a",
       "title": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
       "summary": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
@@ -2149,6 +2221,33 @@
           "title": "紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔",
           "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWFNqZE5RcFUtaEkwMWdvMmIzRWROdGFrV2lER2tpLUp4TUhud0RmZHFaYk9YV0NGSHRyMTJSUW1fcHlUVmhOc3oxYUZ3bUF4MXdXLWFuQjdnLXFKeXMxci02R0VrVk5Md2JERXF6bWkxd1R0TUVSaE1NSUd4dUM1ekxEcmNsREFkYzlhdmhwOUx0SGVGOFhhZFR4bDRWN1VjUFY5REJsN0kwSEdkVmlzbUszZ0psa1VaVEREQnRwejBkSlMySVdqWFgxNG5UMVBSUzhRZDhkSlBlNmhXcFlwbUR5Rmp3Y2ZmM3ZRME5UTEJuSVh6Um1WNGVBTkhqSWM1SzhxZ245MUQwZVBNMDdsUUFHWXJiNnVET2RJeDlOS2FKTUNpbHNuOU1ac2hwa0ttbl8wa3hVQTRMS05rbU1DRXV1czZJeWhVaHltVmM5QU1kVHhxaFpKRXVSUGVid0psN0g4a1JVQ2FlWVg0cXZBRU5CRQ?oc=5",
           "media": "TVB",
+          "published": "2026-10-28T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "ca1b7b4ae6aa",
+      "title": "鼠患｜紅磡必嘉坊群鼠聚集 食環署設捕鼠器及鼠餌點",
+      "summary": "鼠患｜紅磡必嘉坊群鼠聚集 食環署設捕鼠器及鼠餌點",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "技術及藥劑",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "九龍城"
+      ],
+      "first_seen": "2026-10-28T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "鼠患｜紅磡必嘉坊群鼠聚集 食環署設捕鼠器及鼠餌點",
+          "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQYjE4R2NnZmxCVk03LVFsMFZLV2hsTWdfQ25fT3ZkY0lGeElLYV80bFZCRGZVTjc1QUZvWk5nNXBDNEZqY09QdGpDb2x1bUExZzRiYUFMR1NHWjBFZEdUbDdoOWMycXQ1S3htRmkwZWtEY0hOZ3FaZGxYWFZvRGxzeGc3M0xDRGJzdmc4TEVNZE5ZajNUdnN1T2l4bjB3c1M1NUF6b3pjbDF1bjFhZ2Exc3JGbUZram53Vzd4dVQ0OHJCa0R4MS1vOGtCZ2xwN19tdUtVTUN6VFpwVEl5ejRWcGdVeWp2N3JQdXBPWk5DbWlfd1loS05DNmRPTnFiSmpGU3JmczNfT3F5cDdDMjRvc0VneGs4YkNGME1acWszS0NsYXhRMkJzM1Jmd1ZleXFqcVlyZlFwQU9xQlhVNm9lazJFWklyRktjV2dVQWNCSGhyTUhhemU3Sk4wUElpSE9ZNXVZeklYYkZaZ1VMQVhz?oc=5",
+          "media": "香港經濟日報HKET",
           "published": "2026-10-28T07:00:00+00:00",
           "tier": "media"
         }
