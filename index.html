@@ -118,7 +118,7 @@ function build(){
   chips($("fPri"), PRI, st.pri);
   const cats = uniq(i=>i.categories||[]).sort((a,b)=>(CAT_ORDER.indexOf(a)+99)%99-(CAT_ORDER.indexOf(b)+99)%99);
   chips($("fCat"), [...new Set([...CAT_ORDER, ...DATA.items.flatMap(i=>i.categories||[])])], st.cat);
-  uniq(i=>i.districts||[]).forEach(d => $("fDist").add(new Option(d,d)));
+  [["港島",["中西區","灣仔","東區","南區"]],["九龍",["油尖旺","深水埗","九龍城","黃大仙","觀塘"]],["新界",["葵青","荃灣","屯門","元朗","北區","大埔","沙田","西貢","離島"]]].forEach(([g,ds]) => { const og = document.createElement("optgroup"); og.label = g; ds.forEach(d => { const n = DATA.items.filter(i => (i.districts||[]).includes(d)).length; og.appendChild(new Option(d + "（" + n + "）", d)); }); $("fDist").appendChild(og); });
   MEDIA_LIST.forEach(([n,k]) => $("fMedia").add(new Option(n,k)));
 }
 function filtered(){

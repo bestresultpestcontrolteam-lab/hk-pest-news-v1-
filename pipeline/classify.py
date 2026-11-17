@@ -39,7 +39,7 @@ def classify(item, rules):
     if cats:
         cats += [c for c, words in rules["context_categories"].items() if _hits(text, words)]
     item["categories"] = list(dict.fromkeys(cats))
-    item["districts"] = _hits(text, rules["districts"])
+    item["districts"] = [d for d, al in rules.get("district_map", {}).items() if _hits(text, al)] or _hits(text, rules["districts"])
     high = _hits(text, rules["high_priority_keywords"])
     med = _hits(text, rules["medium_priority_keywords"])
     if high:
