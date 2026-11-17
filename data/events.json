@@ -132,7 +132,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "東區"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "北角七旬男圖食老鼠藥尋短 兒子及時發現清醒送院檢查",
@@ -293,7 +295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   },
   {
     "id": "542ed0ebe0ea",
@@ -770,11 +772,18 @@
         "media": "香港政府資訊中心",
         "published": "2026-11-12T09:32:53+00:00",
         "tier": "official"
+      },
+      {
+        "title": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91eTQyVWxqa1NFRXJsUEZ1RDlNV0p6eFhLRU1PY3VHaGgyWWdYVUFNS01hMW5yaG9WTHlLWnNRa2xaZW03MWVHWEFzNW9JaWMwMXd1dTliUHE2cmNFalFIay1LbUFOeFJwQVRVbE1PM0N5bTBFNEpVdkhacw?oc=5",
+        "media": "香港商报",
+        "published": "2026-11-12T10:37:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
     "relevance": 7,
-    "topic": null,
+    "topic": "鼠患",
     "categories": [
       "鼠患",
       "政府政策及執法"
@@ -782,11 +791,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
+    "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T06:33:00.168405+00:00"
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   },
   {
     "id": "f43490ff6798",
@@ -848,7 +857,7 @@
       "鼠患"
     ],
     "districts": [
-      "尖沙咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -1135,7 +1144,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -1223,7 +1232,7 @@
       "鼠患"
     ],
     "districts": [
-      "尖沙咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -1315,7 +1324,7 @@
       "鼠患"
     ],
     "districts": [
-      "尖沙咀"
+      "油尖旺"
     ],
     "priority": "中",
     "priority_reason": "投訴",
@@ -1347,7 +1356,7 @@
       "鼠患"
     ],
     "districts": [
-      "尖沙咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -1449,7 +1458,7 @@
       "鼠患"
     ],
     "districts": [
-      "尖沙咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -2629,7 +2638,9 @@
       "鼠患",
       "政府政策及執法"
     ],
-    "districts": [],
+    "districts": [
+      "九龍城"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
@@ -2659,7 +2670,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "九龍城"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "（有片）再現鼠患！網上流傳片段紅磡必嘉坊後巷鼠踪處處區議員跟進- 香港",
@@ -2690,7 +2703,8 @@
       "鼠患"
     ],
     "districts": [
-      "觀塘"
+      "觀塘",
+      "葵青"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -2722,7 +2736,8 @@
       "鼠患"
     ],
     "districts": [
-      "觀塘"
+      "觀塘",
+      "葵青"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -2754,7 +2769,9 @@
       "鼠患",
       "政府政策及執法"
     ],
-    "districts": [],
+    "districts": [
+      "九龍城"
+    ],
     "priority": "高",
     "priority_reason": "屋苑",
     "summary": "食環署過去兩個月於紅磡一個私人屋苑一帶共捕獲77隻老鼠 籲做好源頭治理",
@@ -2784,7 +2801,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "九龍城"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔",
@@ -2845,7 +2864,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "葵涌大隴街鼠患｜食環實地視察 兩個月捉近60隻鼠 調夜鼠隊滅鼠",
@@ -3124,7 +3145,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "葵涌斜坡變老鼠竇 部分泥洞被封 今晨仍見鼠蹤",
@@ -3154,7 +3177,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "深水埗"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "男子疑於石硤尾公園貓糧投放老鼠藥 涉殘酷對待動物等被捕",
@@ -3214,7 +3239,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "葵涌大隴街現鼠患 無懼路人垃圾站覓食 居民冀當局嚴正跟進 (08:49) - 20261024 - 港聞",
@@ -3276,7 +3303,9 @@
       "鼠患",
       "技術及藥劑"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "中",
     "priority_reason": "投訴",
     "summary": "葵涌大隴街鼠患｜食環今年接3鼠蹤投訴 跨部門視察放鼠餌捕鼠器",
@@ -3306,7 +3335,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "葵涌大隴街鼠患｜影片直擊群鼠亂竄吱吱叫 街坊倡鋪設石屎塞鼠洞",
@@ -3376,7 +3407,7 @@
       "政府政策及執法"
     ],
     "districts": [
-      "天水圍"
+      "元朗"
     ],
     "priority": "中",
     "priority_reason": "指數",
@@ -3409,7 +3440,9 @@
       "技術及藥劑",
       "政府政策及執法"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "中",
     "priority_reason": "防治",
     "summary": "葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒",
@@ -3439,7 +3472,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "葵青"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "葵涌斜坡變老鼠「劏房」 毗鄰兒童遊樂設施恐被播菌",
@@ -3530,7 +3565,7 @@
       "鼠患"
     ],
     "districts": [
-      "大角咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -3610,6 +3645,38 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "b03da1fa4655",
+    "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbURWUDdtQlNEVXRiTnJoVXpEVTdXYTQxejFpc2lveERFREMxS25IU3NkTVJ4NVBIQXNLWndtVDVhU3FXSm5ETUd4d2dVUTlVN0VQMUFZZWhibUljOEY0Q2lQTXlYb19kSjNwREw1MXoxbWhUM3lhTDU3SGNfM2xpaGR5VEFmQl9lTVdyd3NPRU9KYWtWRWo2MEVnVDB5UzVpcEFCd2duVjFmVDY5UkdWYng4dVN4SG5JUkFIS1h3NkJIZUFwVFlUNFVxMFZKVmt5UWFpeWhhUk5XTjVoRHFaMUUwcGRWMlNxa2UzcTlGenZtbEZPWERYSWY0MUprZUl0cFZLc0lkT1hnX3NtNDFnWUJ6Yl9lZk81UmdYdE1qSXFfX3N4ZElYNlhNLTB4VmJVSXpoNk9FTW92SHNyMEhHUzlnOWNjQXdqSmQtR09KcURkX3hSUWxESFFpWXpXSjJ1RGE5ZHJZUTVUMGhjUjRYMzVKUWtWRVd4MHRKRnJIOENsOW03QmVsNlNnbjhvZw?oc=5",
+        "media": "香港01",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:31:01.706365+00:00"
+  },
+  {
     "id": "ac6fd8a9056b",
     "title": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
     "description": "",
@@ -3660,7 +3727,9 @@
     "categories": [
       "鼠患"
     ],
-    "districts": [],
+    "districts": [
+      "南區"
+    ],
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "櫻桃街公園現鼠患食署要求承辦商治理- 香港仔",
@@ -3698,7 +3767,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   },
   {
     "id": "4f8553880be1",
@@ -3873,7 +3942,7 @@
       "鼠患"
     ],
     "districts": [
-      "大角咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
@@ -3881,7 +3950,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   },
   {
     "id": "5d91099437ef",
@@ -4028,7 +4097,7 @@
       "政府政策及執法"
     ],
     "districts": [
-      "大角咀"
+      "油尖旺"
     ],
     "priority": "低",
     "priority_reason": "一般資訊",

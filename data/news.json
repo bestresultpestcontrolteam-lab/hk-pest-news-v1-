@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T08:17:20.268577+00:00",
-  "count": 127,
+  "generated": "2026-11-17T08:31:01.706365+00:00",
+  "count": 128,
   "items": [
     {
       "id": "3cf44fbeff8e",
@@ -12,7 +12,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "東區"
+      ],
       "first_seen": "2026-11-16T01:24:08+00:00",
       "tier": "media",
       "sources": [
@@ -511,7 +513,7 @@
     {
       "id": "1744fa6c929e",
       "title": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
-      "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
+      "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -529,6 +531,13 @@
           "media": "香港政府資訊中心",
           "published": "2026-11-12T09:32:53+00:00",
           "tier": "official"
+        },
+        {
+          "title": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91eTQyVWxqa1NFRXJsUEZ1RDlNV0p6eFhLRU1PY3VHaGgyWWdYVUFNS01hMW5yaG9WTHlLWnNRa2xaZW03MWVHWEFzNW9JaWMwMXd1dTliUHE2cmNFalFIay1LbUFOeFJwQVRVbE1PM0N5bTBFNEpVdkhacw?oc=5",
+          "media": "香港商报",
+          "published": "2026-11-12T10:37:00+00:00",
+          "tier": "media"
         }
       ]
     },
@@ -574,7 +583,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "尖沙咀"
+        "油尖旺"
       ],
       "first_seen": "2026-11-12T03:46:07+00:00",
       "tier": "media",
@@ -865,7 +874,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "尖沙咀"
+        "油尖旺"
       ],
       "first_seen": "2026-11-10T13:44:06+00:00",
       "tier": "media",
@@ -936,7 +945,7 @@
       "priority": "中",
       "priority_reason": "投訴",
       "districts": [
-        "尖沙咀"
+        "油尖旺"
       ],
       "first_seen": "2026-11-10T02:54:02+00:00",
       "tier": "media",
@@ -961,7 +970,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "尖沙咀"
+        "油尖旺"
       ],
       "first_seen": "2026-11-10T00:28:00+00:00",
       "tier": "media",
@@ -1035,7 +1044,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "尖沙咀"
+        "油尖旺"
       ],
       "first_seen": "2026-11-09T06:29:17+00:00",
       "tier": "media",
@@ -1963,7 +1972,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "九龍城"
+      ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -1986,7 +1997,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "九龍城"
+      ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2010,7 +2023,8 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "觀塘"
+        "觀塘",
+        "葵青"
       ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
@@ -2035,7 +2049,8 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "觀塘"
+        "觀塘",
+        "葵青"
       ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
@@ -2060,7 +2075,9 @@
       ],
       "priority": "高",
       "priority_reason": "屋苑",
-      "districts": [],
+      "districts": [
+        "九龍城"
+      ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2083,7 +2100,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "九龍城"
+      ],
       "first_seen": "2026-10-28T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2130,7 +2149,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-27T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2346,7 +2367,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-24T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2369,7 +2392,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "深水埗"
+      ],
       "first_seen": "2026-10-24T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2415,7 +2440,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-24T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2463,7 +2490,9 @@
       ],
       "priority": "中",
       "priority_reason": "投訴",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2486,7 +2515,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2535,7 +2566,7 @@
       "priority": "中",
       "priority_reason": "指數",
       "districts": [
-        "天水圍"
+        "元朗"
       ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
@@ -2568,7 +2599,9 @@
       ],
       "priority": "中",
       "priority_reason": "防治",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2591,7 +2624,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "葵青"
+      ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2661,7 +2696,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "大角咀"
+        "油尖旺"
       ],
       "first_seen": "2026-10-23T07:00:00+00:00",
       "tier": "media",
@@ -2731,6 +2766,31 @@
       ]
     },
     {
+      "id": "b03da1fa4655",
+      "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+      "summary": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "葵青"
+      ],
+      "first_seen": "2026-10-23T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbURWUDdtQlNEVXRiTnJoVXpEVTdXYTQxejFpc2lveERFREMxS25IU3NkTVJ4NVBIQXNLWndtVDVhU3FXSm5ETUd4d2dVUTlVN0VQMUFZZWhibUljOEY0Q2lQTXlYb19kSjNwREw1MXoxbWhUM3lhTDU3SGNfM2xpaGR5VEFmQl9lTVdyd3NPRU9KYWtWRWo2MEVnVDB5UzVpcEFCd2duVjFmVDY5UkdWYng4dVN4SG5JUkFIS1h3NkJIZUFwVFlUNFVxMFZKVmt5UWFpeWhhUk5XTjVoRHFaMUUwcGRWMlNxa2UzcTlGenZtbEZPWERYSWY0MUprZUl0cFZLc0lkT1hnX3NtNDFnWUJ6Yl9lZk81UmdYdE1qSXFfX3N4ZElYNlhNLTB4VmJVSXpoNk9FTW92SHNyMEhHUzlnOWNjQXdqSmQtR09KcURkX3hSUWxESFFpWXpXSjJ1RGE5ZHJZUTVUMGhjUjRYMzVKUWtWRVd4MHRKRnJIOENsOW03QmVsNlNnbjhvZw?oc=5",
+          "media": "香港01",
+          "published": "2026-10-23T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "ac6fd8a9056b",
       "title": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
       "summary": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
@@ -2763,7 +2823,9 @@
       ],
       "priority": "低",
       "priority_reason": "一般資訊",
-      "districts": [],
+      "districts": [
+        "南區"
+      ],
       "first_seen": "2026-10-21T07:00:00+00:00",
       "tier": "media",
       "sources": [
@@ -2927,7 +2989,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "大角咀"
+        "油尖旺"
       ],
       "first_seen": "2026-10-20T07:00:00+00:00",
       "tier": "media",
@@ -3047,7 +3109,7 @@
       "priority": "低",
       "priority_reason": "一般資訊",
       "districts": [
-        "大角咀"
+        "油尖旺"
       ],
       "first_seen": "2026-10-19T07:00:00+00:00",
       "tier": "media",
