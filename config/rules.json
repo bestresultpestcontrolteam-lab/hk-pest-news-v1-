@@ -6,9 +6,11 @@
   "blocked_media": [
     "openpr",
     "UHK",
-    "港生活"
+    "港生活",
+    "PChome",
+    "LOOOP"
   ],
-  "only_allowed_media": false,
+  "only_allowed_media": true,
   "allowed_media": [
     "星島",
     "頭條",
@@ -38,7 +40,9 @@
     "news.gov.hk",
     "衞生防護中心",
     "食物環境衞生署",
-    "fehd"
+    "fehd",
+    "香港商報",
+    "香港商报"
   ],
   "core_keywords": [
     "鼠患",
@@ -118,7 +122,17 @@
     "打蚊",
     "過街老鼠",
     "瑞鼠",
-    "農藥殘留"
+    "農藥殘留",
+    "遊戲",
+    "電競",
+    "電玩",
+    "手遊",
+    "鍵盤",
+    "黑色星期五",
+    "Black Friday",
+    "促銷",
+    "開箱",
+    "Gaming"
   ],
   "high_priority_keywords": [
     "登革熱",
