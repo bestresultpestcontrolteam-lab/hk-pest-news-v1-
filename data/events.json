@@ -295,7 +295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:31:01.706365+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "542ed0ebe0ea",
@@ -533,7 +533,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T06:33:00.168405+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "33a7ff10e002",
@@ -817,6 +817,13 @@
         "media": "RTHK News",
         "published": "2026-11-12T09:40:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "​十月份全港白紋伊蚊誘蚊器指數進一步回落",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BNVdjTF9xak4wNHN1RzVSRWhHWm9uQlFvUkp4djZTRnJrWFVzMU5OOGJISmVWRzdIcmpXd1FJNnFXWTBiRUlRUzloWjlFOHhqWE9aRWFZcWFsaVprNTRfZGU3UGgwbkJZWk9Dcjd1RnJNeFE?oc=5",
+        "media": "www.info.gov.hk",
+        "published": "2026-11-12T10:01:27+00:00",
+        "tier": "official"
       }
     ],
     "needs_resummary": false,
@@ -829,11 +836,11 @@
     "districts": [],
     "priority": "中",
     "priority_reason": "指數",
-    "summary": "​十月份全港白紋伊蚊誘蚊器指數進一步回落（共 2 個來源報道）",
+    "summary": "​十月份全港白紋伊蚊誘蚊器指數進一步回落（共 3 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T06:33:00.168405+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "328ba8aaa219",
@@ -1144,7 +1151,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:31:01.706365+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -1428,6 +1435,38 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "c39f40ebe71a",
+    "title": "黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開",
+    "description": "",
+    "first_seen": "2026-11-09T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPVjR2bDhpOVZ2dDI3MmZfRG53Tk5EbTdFb2FzWnp0ZlhoMWVuVGp4NWlVanBra0pQc1p6UmJ0SDFFeGpJOTdYX1pyVFdXUEpsaWp0X2pydi1IMDN4YWVoSEJsT1RnYmsydjU0V3VQTnFGdFlnVEVyQXM3Ry1XWW91NnMtX050emhFQktmTUM0TldqbVRmSUhtN0M5VWdTRVpuVk9tTXhTQTl6ZXVqVGhLcEhKZkl2anBQc3d5Nkc2YWNsZDlEWGVoUDFUZ2tYRUsteTN6MV84UjhSeTZ6eXZEQVRrM0poOTN4Z3F3UDQzVmE2QUVPbTROcU1NdHJidjJ1WlFJdi1aajdTOUMwVGtzVTBULXZ1UlIzalRMd3dydnRfbXI0OU5VbnNFY0xEWmlNZVBsM2JQd1BndDh6S1F3NWd2YVJaYlotblltYkZyVmM4SkJCeDc1aUFYU1FHOTNxa24yVUpJQVhzOWNCaVNHRkdPZ0EzaktwbzlDRVhDeVZCNjJIRVFnQmZvbmRQeTJJVWVkWUpwYko?oc=5",
+        "media": "香港01",
+        "published": "2026-11-09T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "黃大仙"
+    ],
+    "priority": "高",
+    "priority_reason": "酒樓",
+    "summary": "黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "ce5ada3293ee",
@@ -2385,6 +2424,13 @@
         "media": "香港政府資訊中心",
         "published": "2026-10-30T07:00:00+00:00",
         "tier": "official"
+      },
+      {
+        "title": "食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QZnl3MHh2V2xoVVNEQm1UWWszM21CTEZZWDNxMG5XZXgtZUVQSWFfTHIwTzU0cVJrVFFDRXlaSGc4ZFJJZmxmWmVqaEhBWTF5ZmpZdGZhNXhYWEdmV2I2cXUzSFNEbG52bEFjeF8wQ1FDTVU?oc=5",
+        "media": "www.info.gov.hk",
+        "published": "2026-10-30T12:28:11+00:00",
+        "tier": "official"
       }
     ],
     "needs_resummary": false,
@@ -2398,11 +2444,11 @@
     "districts": [],
     "priority": "中",
     "priority_reason": "指數",
-    "summary": "食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）",
+    "summary": "食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -3767,7 +3813,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:31:01.706365+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "4f8553880be1",
@@ -3950,7 +3996,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:31:01.706365+00:00"
+    "updated": "2026-11-17T11:39:37.006460+00:00"
   },
   {
     "id": "5d91099437ef",

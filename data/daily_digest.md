@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-17）
 
-過去24小時共 128 個事件；高關注 31 個。
+過去24小時共 129 個事件；高關注 32 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -78,6 +78,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMipgNBVV95cUxQLXhXcmpwQ1NvSm9WYndSS0RFVHdQYy1LYnk2YmFfcjA3UVctTHZvVjBVOERTbGJubDluTWZSbnFHWnI2VmZIS0o4c2k1ZS1TVGpUVWI0RTBBZ1YyQ0QzZFlEbmxWeWpQLW54SWpKM0pnZXlOcW5PQ2txSjVxS1dDQ25WdTVoOG5qMnJBdHNjWVhqUmpuZ2VvSUJXSi15bW9WLUZmd0NibUd1NVByREY2WXRZek9nZ3kyU1VMekk2V194dW40ckQtTGZZYWJkTHVfMXNRZTlIcXdJU0pmRFltU1Zyc0c4bnZ1bEJURVJSN2k3bHBQNzJiZjZNdWhtSUlxZ2J4OU8yV25rcktsVE5WQTRFOFZnTEVFa2prSl9BM0VEQ1g2azRFczJScW9ya2tOVGlqT2VwZk5Pem1HbWZ0bFp1WWpwMWJtVFdPNi1Tc2Q1T3VuX2VYNlk5bDR1VVpJdE9zNTVuenBkdnp4enJVSzJaaS1acFluWnlfcTVvVGdJSElIVG83VkIzMHFqczA5a1JnLUsySmNfYmFZcGp3RzdoYXZyUQ?oc=5)
+
+## 【高】黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開
+- 類別：鼠患；地區：黃大仙
+- 摘要：黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMimANBVV95cUxPVjR2bDhpOVZ2dDI3MmZfRG53Tk5EbTdFb2FzWnp0ZlhoMWVuVGp4NWlVanBra0pQc1p6UmJ0SDFFeGpJOTdYX1pyVFdXUEpsaWp0X2pydi1IMDN4YWVoSEJsT1RnYmsydjU0V3VQTnFGdFlnVEVyQXM3Ry1XWW91NnMtX050emhFQktmTUM0TldqbVRmSUhtN0M5VWdTRVpuVk9tTXhTQTl6ZXVqVGhLcEhKZkl2anBQc3d5Nkc2YWNsZDlEWGVoUDFUZ2tYRUsteTN6MV84UjhSeTZ6eXZEQVRrM0poOTN4Z3F3UDQzVmE2QUVPbTROcU1NdHJidjJ1WlFJdi1aajdTOUMwVGtzVTBULXZ1UlIzalRMd3dydnRfbXI0OU5VbnNFY0xEWmlNZVBsM2JQd1BndDh6S1F3NWd2YVJaYlotblltYkZyVmM4SkJCeDc1aUFYU1FHOTNxa24yVUpJQVhzOWNCaVNHRkdPZ0EzaktwbzlDRVhDeVZCNjJIRVFnQmZvbmRQeTJJVWVkWUpwYko?oc=5)
 
 ## 【高】食環署嚴打商場鼠患重申嚴重違規可封舖- 香港
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -221,10 +228,10 @@
 
 ## 【中】​十月份全港白紋伊蚊誘蚊器指數進一步回落
 - 類別：蚊患及病媒疾病、技術及藥劑；地區：未註明
-- 摘要：​十月份全港白紋伊蚊誘蚊器指數進一步回落（共 2 個來源報道）
+- 摘要：​十月份全港白紋伊蚊誘蚊器指數進一步回落（共 3 個來源報道）
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
-- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE8tak14ZEhQZno0LWptZnE2ZGZ1d2RwWXg2VXVaalExTExtYUhhWUQ3WGVsb2E0QVBaeXo0VXVMMmpCbG1aa21TV3ZEMFg0TkZ6NENZOVpPZE5WbDRzOEVJMjNPeHNzb0lnbXJtcjU1Uzg4dw?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1GN2FFYmtmZ0xQc2stMTVTR1dCSWhteXJxc0NlOHNjdEtzMkZmeE9leXlKVUxuY1RRT0dCNDlkV2lOUnBJV1U2bzlKRVM3MVlFUmRETVE4YU1FUkpjQjVyNHkzWlB6TU5DVXN6S2ZTbw?oc=5)
+- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE8tak14ZEhQZno0LWptZnE2ZGZ1d2RwWXg2VXVaalExTExtYUhhWUQ3WGVsb2E0QVBaeXo0VXVMMmpCbG1aa21TV3ZEMFg0TkZ6NENZOVpPZE5WbDRzOEVJMjNPeHNzb0lnbXJtcjU1Uzg4dw?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1GN2FFYmtmZ0xQc2stMTVTR1dCSWhteXJxc0NlOHNjdEtzMkZmeE9leXlKVUxuY1RRT0dCNDlkV2lOUnBJV1U2bzlKRVM3MVlFUmRETVE4YU1FUkpjQjVyNHkzWlB6TU5DVXN6S2ZTbw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE9BNVdjTF9xak4wNHN1RzVSRWhHWm9uQlFvUkp4djZTRnJrWFVzMU5OOGJISmVWRzdIcmpXd1FJNnFXWTBiRUlRUzloWjlFOHhqWE9aRWFZcWFsaVprNTRfZGU3UGgwbkJZWk9Dcjd1RnJNeFE?oc=5)
 
 ## 【中】食環署公布十月份第五批白紋伊蚊誘蚊器指數（附圖）
 - 類別：蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：未註明
@@ -232,6 +239,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE1TeTd0Q055WS1kX3BHeERYVHdDWkNuZDFzNjZuZmJoM184cEtuWFFYTnFWcXJKQlduZWI3ZWw3dDlaVzRzT2hwazRGWHliaTdHTWVWdWhRWGJGUlJEeDNKTVU0ZEN1OXdnRW5VUEJzbjRpZw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE1rWklteW1PejVlckFJY0dHbGlBLU45SVlJbTF6Q042T0dNaDkzZWJLWkl5c2xPbi1HNXY2R3VfN2JXZDVwbEt0MVZGLXZoS0k1OHhkckthN3N3bnQ2emhLeVRtc1VQc2NSU3cwVF9TQ2d0dTA?oc=5)
+
+## 【中】食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）
+- 類別：蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：未註明
+- 摘要：食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTFB5cGM4V201RFNZbkhiVVZpYXQzR053RUp0YlZkX1lpU3dMMjBJWUwyLTVMN2dzZGtRckV1c2JzZ0twM0VTdDlQRlk3c25NWWlCQVRwMkRYRnljaTlRcDlvZ0VFREJYdFVlOHg1OTRXMEdVQQ?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE1QZnl3MHh2V2xoVVNEQm1UWWszM21CTEZZWDNxMG5XZXgtZUVQSWFfTHIwTzU0cVJrVFFDRXlaSGc4ZFJJZmxmWmVqaEhBWTF5ZmpZdGZhNXhYWEdmV2I2cXUzSFNEbG52bEFjeF8wQ1FDTVU?oc=5)
 
 ## 【中】白紋伊蚊誘蚊器指數荔景及天水圍最高 食環署跟進發出3張通知書
 - 類別：蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：元朗
@@ -330,13 +344,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMimwNBVV95cUxPNUk0ZUR4dV9sbVdSTmdGbHpiS2ZYTjkxaHRtVVV6QnhCZUlMVHNhdEwtNkV6bmRwQXFFSFBHb2NpMG9MZzhqamd0RC00czhGYjFZVGQ2WWd6d2NGTmR6YWF1QS04RHdUYVJXdkVyQ1p5MWpna1FwdnR2SVpfY0c2Yl9Xc0Nna0RGUi05TlZ0MFBTMnZGWm1SZXVVVHZQWEpDSXJXMHFYZXdWVWIwcGoyejR4cWVlbUxpeFdKTVdDMURQaUhmR1NEXzNERlh5azBJak9kR2thbmZDVnFrVDVDQ1czTml6SlNrc3lUNUVWZlpzdEdvVFU0VHRrV1lXUElnQzV4TkNXZ3BsU0pqUXlPNklkZG9wUlpZOXJOMFM1NEo0N09MMDlVV0tNTFpUOE1aS1RCV3FaNWZ2X0szbTRvbXNvRGJ6bjBfN0QwTDNKc1hfVGNjTk53ZHhuQ0Z2RXBYd0g5RTRqa1FPQ09qRGVTaUNBNjlmcTdFVVczd2YwV1l4WmNwS3BlSzRJZEwzSzRleFlFZXpJZHBtOFE?oc=5)
-
-## 【中】食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）
-- 類別：蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：未註明
-- 摘要：食環署公布十月份第四批白紋伊蚊誘蚊器指數（附圖）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTFB5cGM4V201RFNZbkhiVVZpYXQzR053RUp0YlZkX1lpU3dMMjBJWUwyLTVMN2dzZGtRckV1c2JzZ0twM0VTdDlQRlk3c25NWWlCQVRwMkRYRnljaTlRcDlvZ0VFREJYdFVlOHg1OTRXMEdVQQ?oc=5)
 
 ## 【中】健身「曱甴粉」｜內地Gym友興食「曱甴粉」增肌平替蛋白粉價格極便宜專家警告：有風險1類人勿試
 - 類別：蟑螂及室內害蟲；地區：未註明
