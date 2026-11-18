@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-18）
+# 香港蟲害管理新聞每日摘要（2026-11-19）
 
-過去24小時共 14 個事件；高關注 3 個。
+過去24小時共 24 個事件；高關注 5 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -16,12 +16,33 @@
 - 狀態：已發布
 - 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/17/P2026111700409.htm)
 
+## 【高】鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMipwRBVV95cUxQZFJLc0hibW0xdGRtQ2EtZVBCRVhEZGtjNFFxUG1wM21ObzU0SW5oTFdkTUlMdExHaTk3U3VpVC1jZHg2WW9NQjJEdWRONkp5R1V3VVU0R3A5bzg5V3NQRmpuR0p2cHh1SUQxOTJ1R1hBWFZXQkJBQXhpOWZLY3VkZ1ZFcHZ5NTNlNFo0dWVnd3lpZy1wcGlKbHlPb1A1NlNTc0xrUzVDSk9UNnVPblNOMTZNT1BndTNMMU9oNGlQQS1SX2RCYzZkRjVqR012bEg4bzJxWmJ5WnhuU1F2UGd4Skd6bWItUXNRc3FaYlJRNnNrM0otRXpJSlpjd3VEUnlZQ2dRVzlfWW9hMWdpby1sUHhNOEhCWFdVX295clQtUV9SUUhab1luZUJ1M3p2WDZNNjlQbTFDM0hxNnB4X011ZEs0NEVqWUNvdGhfNTVFXzJ2WWhLX1RUTjVpUFZQLWFfeGZTLUdNdzJxT204Q2pSUVpiek8tb01RZ3NFeUZiWjBHbnpmRkIwbUllYmF6ekJ4cmU4X0tDdHJyMUx0ckphV1pDNzlJVFVfT2I5M0liTXlBWFI2SHNxaWlHbXhMMFpDM01tb09qYnh0S0ZmdG9yTVFQRzlkeWpoWDVORG1WTzJCSkY2SUw4LV9EekJ5bDZYblVGWjlmb2xqb1Y4dlIxVE1NMGRkYkp1emd3MElndk1tcUI5MW9kZ3dyUmRVRVJHU3FJaEhUSQ?oc=5)
+
+## 【高】紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注
+- 類別：鼠患；地區：九龍城
+- 摘要：紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMitwNBVV95cUxOZFBCYWFRWWZjb2hsWmZ5cXJfUW9PSGhPMGtuelN5NkxmeWlTVl8zQy1IVWdUY05qY1lja2gtMFYtQUtxcm00T3hvX1dkSlEyZk85cXhRbVlKTmkybU5Hd0VxbFpONVljcXpkYlNVQTdxbjFISk5TT1ZTQUJPUk8xUDQ4U2tCeDBESFZPWHk1Tm9HVkNqZFF4dWxOdXR5MUd3NHd6UGg4YnFCTlQwS2VhUUtEMnJRa1lKY3dWZkZXNG8zSUJueHcwdDZNWWlnS0o3Y2dxbGxjREhiLVZaU2dQZkZGOTd3T0ViTGJMMkMzT0FaVmZ3VVQzWEhQMU53aGE5SHlPdGROTzBTSzdsTW5JTzc1OEpJdUFfeTRjTDh3Q0gzYTNtcUJabU5fbk42TFBJWTA5LVdQeGY0akdYQ3F4TTFtR3FyTXhuNHNnSU5xSHU0ZUtGMlY3dmxXMGVTR1hEdnBPYkRlaGJOTm56SEg2UGxvS3Vrb2V3cndpTzJ6bG5EM3lRS2pPN3hzbEFyM3VzbWtBSlZSbGx4T2RWMThGcFNXSGdXQng1ZzZRQ3N5bWtsa0RySTJ3?oc=5)
+
 ## 【高】櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZEtDeEhMcldzcXFpT0dINXdvWVQxODlZaGxweHdtdHhzX1VmdlBqTV9tWm1FVVZDb0ZTQUtldWxnY1Y2ME52TzQzdGlJdm5BTWVxZml4cDc5Z0ZlOVd2N1liTjdLNzBScXhhMkZOT1RMYUVIMVZz?oc=5)
+
+## 【中】全港鼠患投訴破萬、捕獲近12萬隻 專家指未消除生存環境 食環署稱防鼠屬持續長效工作
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：全港鼠患投訴破萬、捕獲近12萬隻 專家指未消除生存環境 食環署稱防鼠屬持續長效工作（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[i-CABLE](https://news.google.com/rss/articles/CBMi7AJBVV95cUxOd3YzeDU2QXdoZFA3REY4OWhKaUxiX0d5c0lEN2RpMlUwU2FLc29GN3R3eEV2YWRwM2puZVZidE5lZUVNaWpkUlZtUGRNWWxlYnhsakNIVS03Z1RpQ1M3REhuOC0zYkVQM2dST1FvYlNfWGVVM0xTMDJlMFFMWC1selBhSlRMZXRidDY0SFRUVTR4NThlUWZPTDNwS3lSWUg1VzBYc3BLbjBIbjQxYzNRM0QzUzJTcUJ0N193cTFTUG5XbFkyVEE1OHBxaFZQblRmZkphTlF0Zy1BTlViclgtWnZXZWJyRG1seFhocTg1aDZSb1U0ZjJOV3E0NFlFUER2OEI0WGU5STFiSVNFYmt3WXJHS3VKdmd4S1ZOTGYyWXpQVGFYT0ZXd2lmLVhkNlRKY0VJTWxSZlZ4RDFveXp0dnhLR1dBaTljNWE2Q2NNeVJmUWlrX2FxUFVDWGJibzRaVkRMWXJEcjh3OFZr?oc=5)；[i-CABLE](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPTEpIWGVmU1dEMkVwODJIR0NpcEE0dklDaGpzalZGWENUckdOczVqaVFRLXd4bHJHd0JhTXotWGtjRjczOTM2WC0yZmVFSms4U1RydThPejhTT2hUSmljemRKLU8wNXNPcGU1VHVEZGlHWC12dFJYSGVDOWhXZ1lOMFJWUmFQOVhYTU5WUkROZm1ENzRJd0QxTFQ2elA1TFpQdl9STExIMUpGbmxMOHVsS3RZQUNDUFlGTWZMakstYTRYSFBHMzdHbHczMVU1b0ozZ2hXTlUxbFo1OGM4dWw2b1cyaTVuUDhCYmNETjNPN2g0SUZ1a2FmWVEyUDA3S0dYSG01OHJhUHNIU0Z5VEFtM3MtSW4zeUl0OTZQMWNRTzZ3d1Fxc2owNDZVY1JTTE5uazJvcDZqdlJROHpleUtrY0ZtVHBhUVhFSTJxS1k5eWt1TnBvekZNaE9nUmY5SzZrLWlHTTNvSl9Ldw?oc=5)
 
 ## 【中】區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work
 - 類別：鼠患；地區：未註明
@@ -51,6 +72,20 @@
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMi7ANBVV95cUxQYnJhd0hqUG9LRVVpT1ZuR2s3azJoaDJHNU5jdDVEc0ROcWNtMUtJTEl3OWFJV0M3dzRpZ3hsNFNhMTVuOWpuNXNLU0pqcnVDY0RxSnU0Qll0aXFYbHA4Z09JSEZyd1dKRllZZ01rUnZTeVpKWmRzSzZnTG5zaXl0QnRNUG9JTjVFa3JoQmdIb3h5bkFqM3ZqYmU4RnZPRkxrUUR5N2FDNWtsTTJ6ZWJPZ0FnYkFEcEpRbVU3ZVA3ZVl1YnU0LVUwMTMxTVM0ZVFKVmR3c1FUeGg4YS1vTjN0Q0Y0YkVoXzZSZGFZRTFtVFFzc2RGeHlzMkZMQWJ1RWVNNS05ZndZVVBkcGl5eHJYMFkzWDcwelBETzZmUG9Ob0RnaGFoc0cwS1ZlWHR0Uk5mTXpuSGZyeVVKV0lPNk45d3F5Q1N4emYwY1k3YVhFZDlNUkprME1lcUl2M19JZzlqajhRQWFxdzJJU01rbEFRSWRGVDFTajU4ZGpaU3NHT2IyVkZESHQ5Qm5IdDRaRWlqMU85VkYwazFMRFBaYTVIWkxwZEpiTkcwU2ZBRlNvT2xBcUFBRHcwR09WbEMyNmt2OUw3MVlqZGFmNlZVeGpMbXdmcHdQYTF1V19NaEptSWZwdFVra1NIaU9jQlo?oc=5)
 
+## 【中】大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援
+- 類別：鼠患、政府政策及執法；地區：油尖旺
+- 摘要：大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[i-CABLE](https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNkx1LVFBWVB0dTZIdUtMRmM2VGRhWFdVbHRhcHp3SHNfVFJPUDh2aGRtWmdqSEkxWWE2eUx3emwwRmZXZWNoQ2dveDQteEU2YjA0UlJqclF0NkstcURWa0k1WS1uNVdZTVFya1FSN0NOdVNsVWstdmxJQXpLbHRwOFRuaGJ1SklfMmpWN2FrWlNmR2R3dExjY3VBNm9PVWlpS1NDajBZMTNqRGsyLXdpcE03eEV0NkNsVXNvc29xZjFLTTZoNjJINGlZVzRzMFlybzRORVhmb2RTYk41Y2ZEVGNLd0JnMUdoMkd2NU8zVm9UWlRhTVJhd3dCWVJFN3RTX29zTHJTdXNQOE1saW91STg4VzR4OXk5dEZydmVXMHQwNURpU043aU52YWhuVTZyYkZZMzMxNzV6NkVpbkxwU25DTTdsZHlXQW45QTFUUGNZUGdjS1JVUDQzY3Rpdw?oc=5)
+
+## 【低】食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 3 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE81YjhCekVlZll2U1h1LXlyVU9KQllQajhLUVJ3UWJKdExUUHZuVVhSRUZKZ3RucEpNYlp6dGc2OHk3akdjWXk1NWNGVGxlN21fYnZld2ZWdkdac0hib0Y1bzFiSURTenh1anNZS2NlNUp0UQ?oc=5)；[香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE91eTQyVWxqa1NFRXJsUEZ1RDlNV0p6eFhLRU1PY3VHaGgyWWdYVUFNS01hMW5yaG9WTHlLWnNRa2xaZW03MWVHWEFzNW9JaWMwMXd1dTliUHE2cmNFalFIay1LbUFOeFJwQVRVbE1PM0N5bTBFNEpVdkhacw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE13cEExVXdJUmIweDJqS1pkWmZNdzJFVTkyMVFiY2FyNXdHMUx1aFo1TkxBcU5BcVZKbkpDY09FS25rMWxyRXQzQ2JZc21TQVVwcGpfN3FFa05OMnVMTWpLUDZiMGwxTkk1bWFtN0tXWWlaVHc?oc=5)
+
 ## 【低】食環全港「雷霆」滅鼠 跨部門直擊鼠患黑點 觀塘工廈一晚捕逾50鼠
 - 類別：鼠患；地區：觀塘
 - 摘要：食環全港「雷霆」滅鼠 跨部門直擊鼠患黑點 觀塘工廈一晚捕逾50鼠（共 2 個來源報道）
@@ -79,6 +114,20 @@
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb29GWkJ4R2U3UjRocXJTcUpKY3FjaGtsUURERHprTFlyaW40eWlncDc3bnFEX2hDUmhqdl9kY2tIZDcxSmVlY3J2RjA4bnNaSzN0TW1YQ0taSWpVWDI3LTFvWmM4S3lYbmx6RFpmUDVNdlh3NVZDalh3MjdfY2xFZVkxTnlWNFJGdnV4dHFoVFJZOFE?oc=5)
 
+## 【低】老鼠出沒污染食物環境 糞便唾液傳播疾病
+- 類別：鼠患；地區：未註明
+- 摘要：老鼠出沒污染食物環境 糞便唾液傳播疾病
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5)
+
+## 【低】紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠
+- 類別：鼠患、政府政策及執法；地區：九龍城
+- 摘要：紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1bXVmUmZOR3UzNURsbjJYekxaTnA4cTdnQXViZVJ6dHEyU3BlTFZDbnZhT21uUzJtcDZCdlJEcU96OWhyTlBpMTE0OUsyWEdQb0E?oc=5)
+
 ## 【低】有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進
 - 類別：鼠患、政府政策及執法；地區：九龍城
 - 摘要：有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進
@@ -93,9 +142,30 @@
 - 狀態：已發布
 - 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQYjE4R2NnZmxCVk03LVFsMFZLV2hsTWdfQ25fT3ZkY0lGeElLYV80bFZCRGZVTjc1QUZvWk5nNXBDNEZqY09QdGpDb2x1bUExZzRiYUFMR1NHWjBFZEdUbDdoOWMycXQ1S3htRmkwZWtEY0hOZ3FaZGxYWFZvRGxzeGc3M0xDRGJzdmc4TEVNZE5ZajNUdnN1T2l4bjB3c1M1NUF6b3pjbDF1bjFhZ2Exc3JGbUZram53Vzd4dVQ0OHJCa0R4MS1vOGtCZ2xwN19tdUtVTUN6VFpwVEl5ejRWcGdVeWp2N3JQdXBPWk5DbWlfd1loS05DNmRPTnFiSmpGU3JmczNfT3F5cDdDMjRvc0VneGs4YkNGME1acWszS0NsYXhRMkJzM1Jmd1ZleXFqcVlyZlFwQU9xQlhVNm9lazJFWklyRktjV2dVQWNCSGhyTUhhemU3Sk4wUElpSE9ZNXVZeklYYkZaZ1VMQVhz?oc=5)
 
+## 【低】健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwgJBVV95cUxObHhqTUJ2UGZaRFExOGM5SU9LWTJSeFpBalFIcWJJR29HVlhFVHZMUGpKUXpDVFpHMkk1Sk9aSHBUWVNtUFlDNEgzZE5lUU9zX2dIM2R6N29QSFNuUUN2OEdtdlYzUDhPdkdudGNBREtxSnplYjBiS2dSNlNOUVJqUW1qQWNvNUx4TzdiazQ4UklyZ0JhMFl1MGFWcnQwQjFaNzFMN19TTG9BRkhhSlN5QXJOa1dqRktYNkFoMnhlR19Fa1RldkoyS2ZZZlhVZlY1V1h2UGFBblhDN0pyZmQ0SG95NjdkSjFrRlJLODd5YkxWc0xtN0VFc0JHV0hJTVdvcEtUUDRuMTFhMllnRkFTQU5oOE4wdDduTi1HMk5OaDd6OTl6TmpmNmFXN1pleUVBdmljbDNuWDZPOHRjWVRHVDRn?oc=5)
+
 ## 【低】大角咀櫻桃街公園爆嚴重鼠患 十幾隻老鼠唔怕人亂竄
 - 類別：鼠患；地區：油尖旺
 - 摘要：大角咀櫻桃街公園爆嚴重鼠患 十幾隻老鼠唔怕人亂竄
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPaXFtQk94YWFoX2ljM08yQ1RvVDdSLTNlVUNTbHZlalBROFJ1Y1pyY2JjQTVWWWcta2x3Zm1rdkZRczBfenM5RTlIYTF5MG1ENWZoYXM5OFpCTUc5aDNFX3JTSmphNVp3Qm5TVlJsQkVtWE4wUUY5cElMMVpmWnBsUG14RjdDb1RVNXJuV0VQTGI3eWs0ZGpTMl9JX2xmckg4TmxfNzZZSzJLOFFwUVdnREc2MlNzc0lnR2M4ZzN1NElRYWhJaTdWSXdIaXlNeU1tZWxYVkRzT0wtTEx1TFZ1UTZBTDhLd0ZUOVBSUHhGNHZOdVNlRzB6Z3VCRGY3MmxyRXZIU1YyR1NkbVBhTGdZLXpaclMtQVVJeXJNbEMyRXJsSm1yTXhIeWlNTWp3dDFMWEdZYUxSZFl3OHlFR0ZCZWpKMDJHSGp3MmVkbllUTGFHWHNBYWhNb1N5VQ?oc=5)
+
+## 【低】大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)
+- 類別：鼠患、政府政策及執法；地區：油尖旺
+- 摘要：大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[AM730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE01dW1LYVJtY2txd1dkMC1KTVVYdFlLMHNOVWFHLXg5eTdvRHhyWkRXUzNjS2VkZ2EtblBrUUViRHZLN3RsdHZsa1BGd01rVXJ5MHc?oc=5)
+
+## 【低】曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[AM730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ic29TMUR0UllYRUxocjUzbVM5WUp4UF9HX2gyZ0hZRGt4TXpQS0FJeXY1dFk5ODFVM1RxWFRlQ0ZqM1NUdlk5SlJwSFZ1eUxrc1E?oc=5)

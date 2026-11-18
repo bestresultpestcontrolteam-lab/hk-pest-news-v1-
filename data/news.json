@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T11:50:01.403225+00:00",
-  "count": 128,
+  "generated": "2026-11-18T22:44:25.670546+00:00",
+  "count": 136,
   "items": [
     {
       "id": "c78509534dcb",
@@ -592,7 +592,7 @@
     {
       "id": "1744fa6c929e",
       "title": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
-      "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 2 個來源報道）",
+      "summary": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 3 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -617,6 +617,13 @@
           "media": "香港商报",
           "published": "2026-11-12T10:37:00+00:00",
           "tier": "media"
+        },
+        {
+          "title": "食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13cEExVXdJUmIweDJqS1pkWmZNdzJFVTkyMVFiY2FyNXdHMUx1aFo1TkxBcU5BcVZKbkpDY09FS25rMWxyRXQzQ2JZc21TQVVwcGpfN3FFa05OMnVMTWpLUDZiMGwxTkk1bWFtN0tXWWlaVHc?oc=5",
+          "media": "www.info.gov.hk",
+          "published": "2026-11-12T10:01:27+00:00",
+          "tier": "official"
         }
       ]
     },
@@ -778,7 +785,7 @@
     {
       "id": "12c447e0d566",
       "title": "全港鼠患投訴破萬、捕獲近12萬隻 專家指未消除生存環境 食環署稱防鼠屬持續長效工作",
-      "summary": "全港鼠患投訴破萬、捕獲近12萬隻 專家指未消除生存環境 食環署稱防鼠屬持續長效工作",
+      "summary": "全港鼠患投訴破萬、捕獲近12萬隻 專家指未消除生存環境 食環署稱防鼠屬持續長效工作（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -795,6 +802,13 @@
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOd3YzeDU2QXdoZFA3REY4OWhKaUxiX0d5c0lEN2RpMlUwU2FLc29GN3R3eEV2YWRwM2puZVZidE5lZUVNaWpkUlZtUGRNWWxlYnhsakNIVS03Z1RpQ1M3REhuOC0zYkVQM2dST1FvYlNfWGVVM0xTMDJlMFFMWC1selBhSlRMZXRidDY0SFRUVTR4NThlUWZPTDNwS3lSWUg1VzBYc3BLbjBIbjQxYzNRM0QzUzJTcUJ0N193cTFTUG5XbFkyVEE1OHBxaFZQblRmZkphTlF0Zy1BTlViclgtWnZXZWJyRG1seFhocTg1aDZSb1U0ZjJOV3E0NFlFUER2OEI0WGU5STFiSVNFYmt3WXJHS3VKdmd4S1ZOTGYyWXpQVGFYT0ZXd2lmLVhkNlRKY0VJTWxSZlZ4RDFveXp0dnhLR1dBaTljNWE2Q2NNeVJmUWlrX2FxUFVDWGJibzRaVkRMWXJEcjh3OFZr?oc=5",
           "media": "i-CABLE",
           "published": "2026-11-11T13:25:22+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "全港鼠患投訴破萬 西貢議辦都失守 食環稱捕獲近12萬隻 專家指未消除生存環境",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPTEpIWGVmU1dEMkVwODJIR0NpcEE0dklDaGpzalZGWENUckdOczVqaVFRLXd4bHJHd0JhTXotWGtjRjczOTM2WC0yZmVFSms4U1RydThPejhTT2hUSmljemRKLU8wNXNPcGU1VHVEZGlHWC12dFJYSGVDOWhXZ1lOMFJWUmFQOVhYTU5WUkROZm1ENzRJd0QxTFQ2elA1TFpQdl9STExIMUpGbmxMOHVsS3RZQUNDUFlGTWZMakstYTRYSFBHMzdHbHczMVU1b0ozZ2hXTlUxbFo1OGM4dWw2b1cyaTVuUDhCYmNETjNPN2g0SUZ1a2FmWVEyUDA3S0dYSG01OHJhUHNIU0Z5VEFtM3MtSW4zeUl0OTZQMWNRTzZ3d1Fxc2owNDZVY1JTTE5uazJvcDZqdlJROHpleUtrY0ZtVHBhUVhFSTJxS1k5eWt1TnBvekZNaE9nUmY5SzZrLWlHTTNvSl9Ldw?oc=5",
+          "media": "i-CABLE",
+          "published": "2026-11-11T05:07:57+00:00",
           "tier": "media"
         }
       ]
@@ -2103,6 +2117,79 @@
       ]
     },
     {
+      "id": "ffdbf2a126f8",
+      "title": "鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」",
+      "summary": "鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "消除蟲鼠通知、食肆",
+      "districts": [],
+      "first_seen": "2026-10-29T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」",
+          "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQZFJLc0hibW0xdGRtQ2EtZVBCRVhEZGtjNFFxUG1wM21ObzU0SW5oTFdkTUlMdExHaTk3U3VpVC1jZHg2WW9NQjJEdWRONkp5R1V3VVU0R3A5bzg5V3NQRmpuR0p2cHh1SUQxOTJ1R1hBWFZXQkJBQXhpOWZLY3VkZ1ZFcHZ5NTNlNFo0dWVnd3lpZy1wcGlKbHlPb1A1NlNTc0xrUzVDSk9UNnVPblNOMTZNT1BndTNMMU9oNGlQQS1SX2RCYzZkRjVqR012bEg4bzJxWmJ5WnhuU1F2UGd4Skd6bWItUXNRc3FaYlJRNnNrM0otRXpJSlpjd3VEUnlZQ2dRVzlfWW9hMWdpby1sUHhNOEhCWFdVX295clQtUV9SUUhab1luZUJ1M3p2WDZNNjlQbTFDM0hxNnB4X011ZEs0NEVqWUNvdGhfNTVFXzJ2WWhLX1RUTjVpUFZQLWFfeGZTLUdNdzJxT204Q2pSUVpiek8tb01RZ3NFeUZiWjBHbnpmRkIwbUllYmF6ekJ4cmU4X0tDdHJyMUx0ckphV1pDNzlJVFVfT2I5M0liTXlBWFI2SHNxaWlHbXhMMFpDM01tb09qYnh0S0ZmdG9yTVFQRzlkeWpoWDVORG1WTzJCSkY2SUw4LV9EekJ5bDZYblVGWjlmb2xqb1Y4dlIxVE1NMGRkYkp1emd3MElndk1tcUI5MW9kZ3dyUmRVRVJHU3FJaEhUSQ?oc=5",
+          "media": "香港經濟日報HKET",
+          "published": "2026-10-29T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "7a8d9044bd6b",
+      "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
+      "summary": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-10-29T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5",
+          "media": "星島頭條",
+          "published": "2026-10-29T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "17dc6d32a97f",
+      "title": "紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠",
+      "summary": "紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "九龍城"
+      ],
+      "first_seen": "2026-10-29T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1bXVmUmZOR3UzNURsbjJYekxaTnA4cTdnQXViZVJ6dHEyU3BlTFZDbnZhT21uUzJtcDZCdlJEcU96OWhyTlBpMTE0OUsyWEdQb0E?oc=5",
+          "media": "am730",
+          "published": "2026-10-29T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "8cb05178296a",
       "title": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
       "summary": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
@@ -2397,6 +2484,31 @@
           "title": "超市三色米驚現穀牛？網友恥笑：含豐富蛋白質 蒜頭八角平價驅蟲！",
           "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPMGxOLVJuSlF6b01pRk1JVzMtZTlzcDdEaGotclQ2d0ZaekRvRWlnQmJqd00xQktVRzRZRmJFbjdFVTZjNmhHSThHa3NBOXhidTE4V2Vlb2NFOGJqaFUwVjI4RTJSaFpIeGQ5UVZRREdpR09jVTh5ZU1oNXZoa0lyQTFHcmFXbXNnRzVJaUdGWXRLU1ZIM0VRSHlha2MxLXJTSS10bVZaZ3JNTkFKaUlWbnFtamZnakdoNXBwU0JJeUtEU1o4WWFPTHRIdDAxOTJmWFBIRlBKRkQ0MmtpdDdFYUVDcUEtMkJXSFVCVlk0Y2pJUzNPWDc4QU5ub251SWxsLVZiMGozaXhXV0hCd0Q0NVhZV0laYTNZSFFNcVktc2RNV3h0TWRCeUJMN3ZrSFNqY0Ywb081cU5NMDVrWm1nV0xYZ3NQbkFudmNLRzZocU5fQ3dGd2pyclBsYl82RTZ4WXFIdmt0MkQwekNud05lNkdWQll4NXNsUnhvU1d5bmdmNlJHU0lvZTF3NmtiUmlJZ1liS3JwSVlEZ2Rra1JrRQ?oc=5",
           "media": "星島頭條",
+          "published": "2026-10-26T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "ad34a1f703fd",
+      "title": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
+      "summary": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "高",
+      "priority_reason": "食肆",
+      "districts": [
+        "九龍城"
+      ],
+      "first_seen": "2026-10-26T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
+          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOZFBCYWFRWWZjb2hsWmZ5cXJfUW9PSGhPMGtuelN5NkxmeWlTVl8zQy1IVWdUY05qY1lja2gtMFYtQUtxcm00T3hvX1dkSlEyZk85cXhRbVlKTmkybU5Hd0VxbFpONVljcXpkYlNVQTdxbjFISk5TT1ZTQUJPUk8xUDQ4U2tCeDBESFZPWHk1Tm9HVkNqZFF4dWxOdXR5MUd3NHd6UGg4YnFCTlQwS2VhUUtEMnJRa1lKY3dWZkZXNG8zSUJueHcwdDZNWWlnS0o3Y2dxbGxjREhiLVZaU2dQZkZGOTd3T0ViTGJMMkMzT0FaVmZ3VVQzWEhQMU53aGE5SHlPdGROTzBTSzdsTW5JTzc1OEpJdUFfeTRjTDh3Q0gzYTNtcUJabU5fbk42TFBJWTA5LVdQeGY0akdYQ3F4TTFtR3FyTXhuNHNnSU5xSHU0ZUtGMlY3dmxXMGVTR1hEdnBPYkRlaGJOTm56SEg2UGxvS3Vrb2V3cndpTzJ6bG5EM3lRS2pPN3hzbEFyM3VzbWtBSlZSbGx4T2RWMThGcFNXSGdXQng1ZzZRQ3N5bWtsa0RySTJ3?oc=5",
+          "media": "香港經濟日報HKET",
           "published": "2026-10-26T07:00:00+00:00",
           "tier": "media"
         }
@@ -3007,6 +3119,29 @@
       ]
     },
     {
+      "id": "90d4ae17c6ff",
+      "title": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
+      "summary": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-10-21T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObHhqTUJ2UGZaRFExOGM5SU9LWTJSeFpBalFIcWJJR29HVlhFVHZMUGpKUXpDVFpHMkk1Sk9aSHBUWVNtUFlDNEgzZE5lUU9zX2dIM2R6N29QSFNuUUN2OEdtdlYzUDhPdkdudGNBREtxSnplYjBiS2dSNlNOUVJqUW1qQWNvNUx4TzdiazQ4UklyZ0JhMFl1MGFWcnQwQjFaNzFMN19TTG9BRkhhSlN5QXJOa1dqRktYNkFoMnhlR19Fa1RldkoyS2ZZZlhVZlY1V1h2UGFBblhDN0pyZmQ0SG95NjdkSjFrRlJLODd5YkxWc0xtN0VFc0JHV0hJTVdvcEtUUDRuMTFhMllnRkFTQU5oOE4wdDduTi1HMk5OaDd6OTl6TmpmNmFXN1pleUVBdmljbDNuWDZPOHRjWVRHVDRn?oc=5",
+          "media": "香港經濟日報HKET",
+          "published": "2026-10-21T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "142e6c13fad0",
       "title": "櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港",
       "summary": "櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港",
@@ -3211,6 +3346,81 @@
         {
           "title": "櫻桃街公園爆鼠患 區議員：過往少有投訴 料鄰近滅鼠令老鼠轉移",
           "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNb1NDUFQxSHJlRGdvTTFHcXBFNkwwZW9qSEFKQURSSmJlbzh2ajJDV0hxOHFDMnprcFp1WjJCVDNCZVpxMDZkRkc0djVmclJRTFVFUkxLOHRSU1VOWmhlcUIydHNRcERpM0hfVHR4U3U2ajBjbkxSbUc2bGQ1WC1BTVR1UV84QjZnbExfLU9Xc3BuRHdIYldBTVAzdUpZSHRSemQ3eURrVnoxSThka0E5VzFGXzUxeFlwY1BoZjRqT1NIc3JzWEdJSFhyNFRGenY5RGtJd2RRVHlzQlEwZnNzR1pPR1NDTnpCSE1vQjEzRkswcmxMbjNpbHRFQ0VBVFBJSGp3YnVKd0MxMkJIcFRkWHE5YXNzU09DRS1WR29qYlc4c2tLTUJQV1dVT1RxdTdPSW1xYkkzTk43emZnZjUzSF9qN2ItYlVFLW4zaTJuLXZING5nZ3h1Q3hmdmlpN1E?oc=5",
+          "media": "i-CABLE",
+          "published": "2026-10-20T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "22ee1fd4ca0b",
+      "title": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
+      "summary": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "油尖旺"
+      ],
+      "first_seen": "2026-10-20T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01dW1LYVJtY2txd1dkMC1KTVVYdFlLMHNOVWFHLXg5eTdvRHhyWkRXUzNjS2VkZ2EtblBrUUViRHZLN3RsdHZsa1BGd01rVXJ5MHc?oc=5",
+          "media": "AM730",
+          "published": "2026-10-20T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "2ebec52d5f47",
+      "title": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
+      "summary": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-10-20T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ic29TMUR0UllYRUxocjUzbVM5WUp4UF9HX2gyZ0hZRGt4TXpQS0FJeXY1dFk5ODFVM1RxWFRlQ0ZqM1NUdlk5SlJwSFZ1eUxrc1E?oc=5",
+          "media": "AM730",
+          "published": "2026-10-20T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "179b4bd4dba1",
+      "title": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
+      "summary": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "中",
+      "priority_reason": "巡查",
+      "districts": [
+        "油尖旺"
+      ],
+      "first_seen": "2026-10-20T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNkx1LVFBWVB0dTZIdUtMRmM2VGRhWFdVbHRhcHp3SHNfVFJPUDh2aGRtWmdqSEkxWWE2eUx3emwwRmZXZWNoQ2dveDQteEU2YjA0UlJqclF0NkstcURWa0k1WS1uNVdZTVFya1FSN0NOdVNsVWstdmxJQXpLbHRwOFRuaGJ1SklfMmpWN2FrWlNmR2R3dExjY3VBNm9PVWlpS1NDajBZMTNqRGsyLXdpcE03eEV0NkNsVXNvc29xZjFLTTZoNjJINGlZVzRzMFlybzRORVhmb2RTYk41Y2ZEVGNLd0JnMUdoMkd2NU8zVm9UWlRhTVJhd3dCWVJFN3RTX29zTHJTdXNQOE1saW91STg4VzR4OXk5dEZydmVXMHQwNURpU043aU52YWhuVTZyYkZZMzMxNzV6NkVpbkxwU25DTTdsZHlXQW45QTFUUGNZUGdjS1JVUDQzY3Rpdw?oc=5",
           "media": "i-CABLE",
           "published": "2026-10-20T07:00:00+00:00",
           "tier": "media"
