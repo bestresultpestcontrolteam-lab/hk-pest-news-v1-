@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 23 個事件；高關注 7 個。
+過去24小時共 24 個事件；高關注 7 個。
 
 ## 【高】鼠患｜食環署「雷霆行動」巡逾1300地點滅600鼠 主動介入為觀塘工廈滅鼠 考慮檢控並追討開支
 - 類別：鼠患、政府政策及執法；地區：觀塘
@@ -92,6 +92,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMipgNBVV95cUxQWExPSDdqazJtNHMxbVJEMzBFMjhxVG9pS2lUd05ZeHFtM2FROVktYkFBb25mQmMwdXJFNTRlWXhiMkJtbWpVRDdYWVF3aXpSZE43Y2QxQzhHcXd5cmsta1pBOW02MG9abzE3N3M0czgxOFBQUEp5dXpEbzF5bmV3d3FTSUl6Y2N4ZFBxNUdpQUI0TkdjV25iOHl2MlpTMF9kLWdwNjczdjlMTk1XcHRNRS1LWDctUTE4NXpLMGdaWHZEM0dVaThvbWl2bUh3UjQtS2F3dTNJbWpPbTdKMkNZd0lFRjV5eDFGRHZHTzlJR3FQQjc1NVFFR01TSWhIREVrMkJEcGFMMzhiUmtMaFB6SFNVODR2NWdubktndmZucjctSTVyMGJyZ0NfOFpvNk0wbllQU1l4OGxRcGx5Z2d4NEtxd3RZUF9LYzZ6RHdqSnU0U3NZUnN1WDQ5NTZ2OE1jazBzZHoyLWltU090Q20xQWY3SVh1Yy1qUm91a2dIVzI0MTRJLUQ2dVFoZkNLUUxJUGRRSzF6R1lxS1RMck5kd3I3dHdmdw?oc=5)
+
+## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[TVB](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSGtEUHdLcUNmU21YcUMyMjd4akZfd3lxTlVLejliT1huNk5Pd3RTQkNzbGNqV1luamw5MW9kcnFiZnNSZmt1XzdtZFB5M0RWQXZUSDRpWUxUOElGazY0WFAtbnZGRzBHVUFVYi1DOWk1T2xaSGZTdW1pYjQzazA3by11SnpHNThpNF9odkpqcDZZTXRseFZiZVpTQWpVTzBTZFRHeXhZTmR5TkxEUlAzUThZbTlxS1hmamRHdGFpUzh6bGxDVm4waDlHZm1SM1pfM1hZVFpWaVBWVXB5dWo1dmEzRy1KVk1vNzRUV2lNUUNEcC1iT0pXREhESGxTYjF6Z0dVMERYQjgtUVd3RHNIdjZ2eF9nVmNsdUs2SzRoNURNMUxlOUFYa0NNSQ?oc=5)
 
 ## 【低】油尖旺捕鼠量冠全港 直擊食環署蟲鼠組「油炸鬼 + AI」滅鼠行動 | 星島申訴王
 - 類別：鼠患、政府政策及執法；地區：油尖旺
