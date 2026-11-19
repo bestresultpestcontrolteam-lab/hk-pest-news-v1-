@@ -418,7 +418,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "542ed0ebe0ea",
@@ -763,7 +763,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1295,7 +1295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2360,6 +2360,36 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "09c5fb6f2bb9",
+    "title": "陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀",
+    "description": "",
+    "first_seen": "2026-11-03T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03U2E3SDE5U2MxcGhRaEZoR3JzNFRheDZ3Mmo1T3JwMUdwVFZkUTZ6Y1E5VnJDV3BIeHoySTNtcWFKeUxITXo1UmVCLUZCcVlvaW1RcmZVc3VHQdIBX0FVX3lxTFBzOE4xVWFEdnZBR1d5ZWw0amRLSHBjWlBrS1BMZ1FNdlI3cklXUDNHRzdPV0p1RnJVUmxnQlJZeldjbWdKd0Q4UWRValQ2VUIwY25OclQ3VUZ4b09CRVo4?oc=5",
+        "media": "經濟日報",
+        "published": "2026-11-03T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蟑螂及室內害蟲",
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-19T02:59:09.341370+00:00"
+  },
+  {
     "id": "da49d766dacc",
     "title": "「防空滅蚊」熱背後 中國製造業「降維打擊」催生新消費",
     "description": "",
@@ -2757,7 +2787,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3007,7 +3037,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -3873,7 +3903,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "76e16c9cce43",
@@ -4221,7 +4251,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "4f8553880be1",
@@ -4404,7 +4434,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
     "id": "5d91099437ef",

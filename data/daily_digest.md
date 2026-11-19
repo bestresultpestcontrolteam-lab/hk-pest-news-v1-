@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-19）
 
-過去24小時共 25 個事件；高關注 6 個。
+過去24小時共 26 個事件；高關注 6 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -106,6 +106,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMivwNBVV95cUxOMUtQTkRnRlVZUm9veloyQnZYN0xTbWcwZ3lWNW15bExFWDMtVzBwYW1Jc1FGV3V2MjIxYlRYajdHQU8xSzlqdjlNNU8xNlBISkpPVUV3dFBENVNQNzVDQldlV29QblFSRURsbmFlSUQ1SjRXTl9KSDY3c2hVY0JxemU1Mk1nNzNQV2laNVNBajlHcnZZeVZQbGFBMzdrNF81blc4R2JEWDFlMWJVTUpMcHpXQkxmVE85Y21tZFBCMzd4RTJtcm5USllJT19CUW1Ubk5vRGN4NnBCS0RvZzVZdEk3WTEwdW5fWkJRMFBhZWFYNnBVTDJyUkVNQkhnaUE0Um9JbUtCRWdxYk5vem51dHdZSkVUSDNFUktXd056eURTNHFTclVlZ05XcWtiRmw1Wnp3dmdrRUxTYVByVVBXZTdqRHhteUVTVWdwZW9RYUE0Ti1ocC1sbmVrd0swQ3R5cWRfM0NHc3IweFMtcE55OUV2cmVXRHgyTS0wenJaaElyTDVTQmxGVWlSWlh6eGg4elptY0JOb19OQ0RGcjJ6d0VUYjF2U3NpdVJNNEt0aHV2TzRRa3RlSmszNmliU2s?oc=5)
+
+## 【低】陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE03U2E3SDE5U2MxcGhRaEZoR3JzNFRheDZ3Mmo1T3JwMUdwVFZkUTZ6Y1E5VnJDV3BIeHoySTNtcWFKeUxITXo1UmVCLUZCcVlvaW1RcmZVc3VHQdIBX0FVX3lxTFBzOE4xVWFEdnZBR1d5ZWw0amRLSHBjWlBrS1BMZ1FNdlI3cklXUDNHRzdPV0p1RnJVUmxnQlJZeldjbWdKd0Q4UWRValQ2VUIwY25OclQ3VUZ4b09CRVo4?oc=5)
 
 ## 【低】八分鐘本地新聞重點｜宏福苑報告公開／李家超：大火問題開端在圍標／滅鼠工作
 - 類別：鼠患；地區：未註明
