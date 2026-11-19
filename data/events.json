@@ -418,7 +418,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "542ed0ebe0ea",
@@ -763,7 +763,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1295,7 +1295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2787,7 +2787,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3037,7 +3037,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -3903,7 +3903,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
+    "updated": "2026-11-19T07:28:29.712235+00:00"
   },
   {
     "id": "76e16c9cce43",
@@ -4217,376 +4217,6 @@
     "priority": "低",
     "priority_reason": "一般資訊",
     "summary": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
-  },
-  {
-    "id": "142e6c13fad0",
-    "title": "櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZEtDeEhMcldzcXFpT0dINXdvWVQxODlZaGxweHdtdHhzX1VmdlBqTV9tWm1FVVZDb0ZTQUtldWxnY1Y2ME52TzQzdGlJdm5BTWVxZml4cDc5Z0ZlOVd2N1liTjdLNzBScXhhMkZOT1RMYUVIMVZz?oc=5",
-        "media": "香港文匯報",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 8,
-    "topic": "鼠患",
-    "categories": [
-      "鼠患",
-      "政府政策及執法"
-    ],
-    "districts": [],
-    "priority": "高",
-    "priority_reason": "消除蟲鼠通知",
-    "summary": "櫻桃街公園鼠患｜食環署再巡揭鼠蹤向承辦商發消除蟲鼠通知- 香港",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
-  },
-  {
-    "id": "4f8553880be1",
-    "title": "有片 |「滅蟲神器」在手曱甴有難？激光射中小強即燒焦 律師警告有違法風險",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "有片 |「滅蟲神器」在手曱甴有難？激光射中小強即燒焦 律師警告有違法風險",
-        "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQT2ZlZjZGX3AyMFlETlVtNkdfWVVPcDhYSmRrUlBCSUFPN3VZTi1pV2xsclBqRS1VRjlIZEJJa2k5U0xyNFFPa2Qyd1U5UHU4WnROSG9fN1ZOZ2hFbGd4RzRfQ056RElMTmx0Vm1vQTZFalIyWkNMRDBYMGgxbTZEWEZDZld6d3ltMmNiVkd1VWtDcXh6TklVallqQ0twdjllTUVURUlNRy1sVzNsTWxzNTk5VmFGaUZfOVBMYjZpZmMzaDJadHhxSGFveFpSbXJiWUYtSFlSSFFWeTZQcmVvRVEta2s2TGVOUWFmWk9ZUko3NFlCa2toOVFIYWItMHFFMUpVLWhDb3ZTVUdoZ0poWEZpYndXVTVVRHctNFNZblV3WWkzeHotby12Z1U1a1huS040SXlRWlI4S2taRnJ6cERhSkQ5QW1pczhQd3o3RmczMWlHNm9mNUgwWTNhMnBiRzVreTJJeERmVHFRSVBJUEtPY0lpYVo3QXNBTnRiUjBjdF9tZGFWNWJxa0FWdlEybW9LekFWRC13RGhKRGtzclpPamtvTS1LQkVqNndEbWlUR25RZWhQY0RzTDktVE9nU2g5Zkd2VQ?oc=5",
-        "media": "星島頭條",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 6,
-    "topic": "蟑螂及室內害蟲",
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "警告",
-    "summary": "有片 |「滅蟲神器」在手曱甴有難？激光射中小強即燒焦 律師警告有違法風險",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "b5ac134ad0aa",
-    "title": "內地Gym友興起食｢曱甴粉｣增肌 價格僅蛋白粉十分一 專家揭風險",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "內地Gym友興起食｢曱甴粉｣增肌 價格僅蛋白粉十分一 專家揭風險",
-        "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPVDlzenFRTmw3YzgyaFNiZExXRUJtd1RlSVJwcGZXd0ltYU93X3VKN0ZMX1NfQ1Z5bFFJY3FscjJRR2REZVJZcTJYc21lQTI0aHpoUHRNRC1ZRW8xek1tOTVsUXBkdktsZkxENGJxRjVPSVNKQUJZMGNfU0ZCSnp1ZF94VkcyVXA2Y01pOE5oaEFkWmNyVDBvTG1uZThWRGhNYnlwTGtLRXhPRjRwXzlYVm9oUTF6N1RZQTc3OHk0TVhqZGtJMWRXUVlDdFRIS2tFVW9xUkcwT241MGlNcGJ2bnJ1V3BtLThWVk9jOUptWW02TXRsOTlBdDNzOFRSSlF3Q2RGMkFPTjl3dF9RNWNMV2g2R2V3dWg3Z3huY3ZDZjAxTkhpSEFBYnZFLWZualRGcU5YWm9BN1daY1dkVFBvLUpEdU5TWG1YU1BwTXpTSkd1dWNsZTJoazFrUmk5UzRvRUlvQVRpSHA2M3pya1dNVC1HRWRRZWw1QmpiQ1ozWmJMUWVZelNnZWNxQUlnc3Nndlk4eUtUYlpWek5mdVlvakp6aFp1d1hqY1hF?oc=5",
-        "media": "香港01",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": "蟑螂及室內害蟲",
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "內地Gym友興起食｢曱甴粉｣增肌 價格僅蛋白粉十分一 專家揭風險",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "71f3a173c161",
-    "title": "櫻桃街公園鼠患｜食環署：巡查見鼠跡鼠洞 責成承辦商2周內處理",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園鼠患｜食環署：巡查見鼠跡鼠洞 責成承辦商2周內處理",
-        "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPcS1MNlNXVnEtbXE1NkVBNmRvSTlwZlJjRE5lRlBfN0VneFdidHlRdzhzUXE1MEdDT3VnV2hHbWZid0xtT202Uk1nTTNCZ3Jaa05Yd19DZ2lJdGlqZFg5ZUt5QVV5ckFId3BpdVItWTNkV1A3b0tJYzhMaUN6WF9FdHNWMmd0UjV3dTVUV2didWJCM19mSWpzRi1LQXZPU2NwWFhIOHBDeFp5d3IxV05FdzNnVVQwdTk0ekR5MU4wMXdOdHRhNnJaVWwtS3B3WjZhbVNUZjhwVmJieTZMZFpmVFNWNm5TTXhRNk5sM01sdlIwMm1JV3JjV0RBQ0M0dFhPb1hMTDZyVWs0Z0Z0WGtpWTc3R0RJSzVaQzhleXdiV3lxcEZUakcyNmxyNDRMVVJuYW9DTHczTzBMVE9nTU9DSjZIdWhTdHNxckt0clVyUUJkb25jS2lWMk1DbjlPcW9CLXlORkpZOVR0SWRYdjRGbWlNSjRVUGtKSkFBZXVOMXZPd3ZQTThjalE0R09RSUYxczZncnh3N3JIN2s?oc=5",
-        "media": "香港01",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": null,
-    "categories": [
-      "鼠患",
-      "政府政策及執法"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "巡查",
-    "summary": "櫻桃街公園鼠患｜食環署：巡查見鼠跡鼠洞 責成承辦商2周內處理",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "8368245b5306",
-    "title": "櫻桃街公園鼠患｜食環兩日兩巡查揭鼠蹤促治理 籲場地管理者不能依賴食環",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園鼠患｜食環兩日兩巡查揭鼠蹤促治理 籲場地管理者不能依賴食環",
-        "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQVUMzS25rSzJiemVDMHEtaWVacDhHcjdJOXRBWUwyV2JMdDZQTEdaaFhOaUxxNy1Yd3l6b3ZNXzNzcXkwMGhYWmZVZlVWZHVTVUhkSGlXRF9Ubnh1eUZfajRBZlhhczJfNGJ6dExYeUhBN3BiQ1kyQkwxZzdxSmNNVnc4V2dUdnJ4a3pfeWlQTTNmQ1dxSVdPRTEyUkNrOXFTMEZuV0xEd2hWYV9GdVNsbEM0UUxWdm00SWp5V1YyNGlrQWM5azFGdkxvWFBGSUR1ZDRnTGdVWXk5T0tPT1RGWTE0WTJmVUVQUVlpT1dUb3R4Rk5CejRFQUd6a0N0azZBVXEtZDZQRXk0Rzd4NXpTOHAtcnNPWl9tXzhhVlM4SXVDUEdxQ25Db0JTME5KWnlndzBHbHhEbE81QmtabG05eVRXblM1ZXNDdS1EeWdlS2dwVVUwMVhrd0xjemZfZkU5M0VoVVJKOFVGNjJJcFZtb0QwYWRvbkg2LXFHVXgzYmhMbVh2X0FBOGxjNDY4M2ZLVkU4cHlINGljZ1djMGJrMnlobkdxZVJteWo2cDZTSnEtdkVPT29NeExmWFYtRHlNRWNoclVQMXRKZTFZMmVYaDlzYVgxU3NSVlpubDR4bw?oc=5",
-        "media": "星島頭條",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": null,
-    "categories": [
-      "鼠患"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "巡查",
-    "summary": "櫻桃街公園鼠患｜食環兩日兩巡查揭鼠蹤促治理 籲場地管理者不能依賴食環",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "7ed82496a622",
-    "title": "櫻桃街公園鼠患｜康文署加強清潔滅鼠 安排專家視察及擺放藥餌",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園鼠患｜康文署加強清潔滅鼠 安排專家視察及擺放藥餌",
-        "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNMmNTZ0pjUFc5eVgxYm1kaUVEa2xiTGJ5Mko4aVQxNkVLOVhYVUR4UTg1UWozX29XRlZWb2VTX01ndC05TU5yVE9PNktwZmpnTjVtLTdZV0RuemgxaVZGcjByWXJpRVZnM3ZxYjV6MFNLX1FCb3o0Nmg3ZFNUVVFvanI1UHVoN3cyYmJ3aUt6ckZySENvUkZsdWFicnB3azkyeGQ0MkJiS1I1TkJfX3lraUdUNnZ3eTZjMTc3SmhiYWNSM2ttM1FDcTN0ZndvWk1halVJNUxOcURjWDdEdVQ1bjdaaXREcUtfeVNYeVZvTzM1MGFyWk85VzNMSGNwdmp0Tmd5SVp2bVBmd2pId2lrOEZlVTliM0xsd2dtcmJpNnV2RXp1SWZLeFdrS01FdjBIeG16XzBGTmVLanVNckttSlREZlVQUk05RmNFZ2thSWhMNXV1YkF5dlVWOHZ5bGV1bXkwY3BWUmtLclJXNUNrVUhFeXV3YUFJWWJCNXJNNW9SUmpaVjNHSFJnU2pSTVgybUV5TWktQzItcDI2Y3dZMXp6cw?oc=5",
-        "media": "星島頭條",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 6,
-    "topic": null,
-    "categories": [
-      "鼠患"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "清潔",
-    "summary": "櫻桃街公園鼠患｜康文署加強清潔滅鼠 安排專家視察及擺放藥餌",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "fbf83ee50d4e",
-    "title": "大角咀櫻桃街公園爆嚴重鼠患 十幾隻老鼠唔怕人亂竄",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "大角咀櫻桃街公園爆嚴重鼠患 十幾隻老鼠唔怕人亂竄",
-        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPaXFtQk94YWFoX2ljM08yQ1RvVDdSLTNlVUNTbHZlalBROFJ1Y1pyY2JjQTVWWWcta2x3Zm1rdkZRczBfenM5RTlIYTF5MG1ENWZoYXM5OFpCTUc5aDNFX3JTSmphNVp3Qm5TVlJsQkVtWE4wUUY5cElMMVpmWnBsUG14RjdDb1RVNXJuV0VQTGI3eWs0ZGpTMl9JX2xmckg4TmxfNzZZSzJLOFFwUVdnREc2MlNzc0lnR2M4ZzN1NElRYWhJaTdWSXdIaXlNeU1tZWxYVkRzT0wtTEx1TFZ1UTZBTDhLd0ZUOVBSUHhGNHZOdVNlRzB6Z3VCRGY3MmxyRXZIU1YyR1NkbVBhTGdZLXpaclMtQVVJeXJNbEMyRXJsSm1yTXhIeWlNTWp3dDFMWEdZYUxSZFl3OHlFR0ZCZWpKMDJHSGp3MmVkbllUTGFHWHNBYWhNb1N5VQ?oc=5",
-        "media": "TVB",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 8,
-    "topic": null,
-    "categories": [
-      "鼠患"
-    ],
-    "districts": [
-      "油尖旺"
-    ],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "大角咀櫻桃街公園爆嚴重鼠患 十幾隻老鼠唔怕人亂竄",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-19T05:15:37.101833+00:00"
-  },
-  {
-    "id": "5d91099437ef",
-    "title": "「曱甴粉」內地熱賣成健身人士增肌恩物 醫生提醒有衞生健康風險",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "「曱甴粉」內地熱賣成健身人士增肌恩物 醫生提醒有衞生健康風險",
-        "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNMV9XM0prMXFSN3V6M0VEaHFCcjFFWFh2NmRCRlNVZ2VYS20zdTVaNVVmWHdhMHZoME1wLXpJeTJvM1ZFa3poc0xVeWRLaXE5NXNHb1Yzb2thbXU0RjdlNGY5T2tTUGNnLXJBeWhXSzZMeUtReTlkUjYtQ3YyTVcwd2c0YV9KTWhqMk5WYUpwQ1VBSTV2ZEpuODBYVlpjcUU4MDJENHVqd1k0QmxYZzVLVDVwVnZXeTlEVVNXbTRHaFM2X2taQkR5MmRWbmptTWRDMHkwWndxenItSDlULTFROEFIZHl5c3k3ZEh1d21MVDdEcFh1RGt6X0xvdXdIcEtLbE5JcnBnRTd5b2ZyZUxzcHZwSWpWbnNsUk1wYnFkay04a1NhbGxjRF9hQURhN3lCNVpVWUU3WDI3bzNzdWptTXlQNm5zOFg0b3RfdVFKWm5tZWZyWVFSX1QyM3I2U1F5OHZFaWl2c2s5aFZOLXhadFRJbU8xRmVNZTQ0eUpJYk54Y3Vhb0tUYXVEWQ?oc=5",
-        "media": "TVB",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": null,
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "提醒",
-    "summary": "「曱甴粉」內地熱賣成健身人士增肌恩物 醫生提醒有衞生健康風險",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "4e771b1f7bde",
-    "title": "櫻桃街公園爆鼠患 區議員：過往少有投訴 料鄰近滅鼠令老鼠轉移",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園爆鼠患 區議員：過往少有投訴 料鄰近滅鼠令老鼠轉移",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNb1NDUFQxSHJlRGdvTTFHcXBFNkwwZW9qSEFKQURSSmJlbzh2ajJDV0hxOHFDMnprcFp1WjJCVDNCZVpxMDZkRkc0djVmclJRTFVFUkxLOHRSU1VOWmhlcUIydHNRcERpM0hfVHR4U3U2ajBjbkxSbUc2bGQ1WC1BTVR1UV84QjZnbExfLU9Xc3BuRHdIYldBTVAzdUpZSHRSemQ3eURrVnoxSThka0E5VzFGXzUxeFlwY1BoZjRqT1NIc3JzWEdJSFhyNFRGenY5RGtJd2RRVHlzQlEwZnNzR1pPR1NDTnpCSE1vQjEzRkswcmxMbjNpbHRFQ0VBVFBJSGp3YnVKd0MxMkJIcFRkWHE5YXNzU09DRS1WR29qYlc4c2tLTUJQV1dVT1RxdTdPSW1xYkkzTk43emZnZjUzSF9qN2ItYlVFLW4zaTJuLXZING5nZ3h1Q3hmdmlpN1E?oc=5",
-        "media": "i-CABLE",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 9,
-    "topic": null,
-    "categories": [
-      "鼠患"
-    ],
-    "districts": [],
-    "priority": "中",
-    "priority_reason": "投訴",
-    "summary": "櫻桃街公園爆鼠患 區議員：過往少有投訴 料鄰近滅鼠令老鼠轉移",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "22ee1fd4ca0b",
-    "title": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01dW1LYVJtY2txd1dkMC1KTVVYdFlLMHNOVWFHLXg5eTdvRHhyWkRXUzNjS2VkZ2EtblBrUUViRHZLN3RsdHZsa1BGd01rVXJ5MHc?oc=5",
-        "media": "AM730",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 8,
-    "topic": null,
-    "categories": [
-      "鼠患",
-      "政府政策及執法"
-    ],
-    "districts": [
-      "油尖旺"
-    ],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "大角咀櫻桃街公園變「老鼠樂園」 將進行大規模滅鼠行動(有片)",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
-  },
-  {
-    "id": "2ebec52d5f47",
-    "title": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ic29TMUR0UllYRUxocjUzbVM5WUp4UF9HX2gyZ0hZRGt4TXpQS0FJeXY1dFk5ODFVM1RxWFRlQ0ZqM1NUdlk5SlJwSFZ1eUxrc1E?oc=5",
-        "media": "AM730",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": null,
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "曱甴粉增肌成內地健身熱潮？價錢遠低於蛋白粉",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
-  },
-  {
-    "id": "179b4bd4dba1",
-    "title": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
-    "description": "",
-    "first_seen": "2026-10-20T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
-        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNkx1LVFBWVB0dTZIdUtMRmM2VGRhWFdVbHRhcHp3SHNfVFJPUDh2aGRtWmdqSEkxWWE2eUx3emwwRmZXZWNoQ2dveDQteEU2YjA0UlJqclF0NkstcURWa0k1WS1uNVdZTVFya1FSN0NOdVNsVWstdmxJQXpLbHRwOFRuaGJ1SklfMmpWN2FrWlNmR2R3dExjY3VBNm9PVWlpS1NDajBZMTNqRGsyLXdpcE03eEV0NkNsVXNvc29xZjFLTTZoNjJINGlZVzRzMFlybzRORVhmb2RTYk41Y2ZEVGNLd0JnMUdoMkd2NU8zVm9UWlRhTVJhd3dCWVJFN3RTX29zTHJTdXNQOE1saW91STg4VzR4OXk5dEZydmVXMHQwNURpU043aU52YWhuVTZyYkZZMzMxNzV6NkVpbkxwU25DTTdsZHlXQW45QTFUUGNZUGdjS1JVUDQzY3Rpdw?oc=5",
-        "media": "i-CABLE",
-        "published": "2026-10-20T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 5,
-    "topic": null,
-    "categories": [
-      "鼠患",
-      "政府政策及執法"
-    ],
-    "districts": [
-      "油尖旺"
-    ],
-    "priority": "中",
-    "priority_reason": "巡查",
-    "summary": "大角咀櫻桃街公園現鼠患 食環署：已實地巡查、支援",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
