@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-19）
+# 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 20 個事件；高關注 5 個。
+過去24小時共 22 個事件；高關注 6 個。
 
 ## 【高】鼠患｜食環署「雷霆行動」巡逾1300地點滅600鼠 主動介入為觀塘工廈滅鼠 考慮檢控並追討開支
 - 類別：鼠患、政府政策及執法；地區：觀塘
@@ -22,6 +22,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMijwNBVV95cUxNTklKWFlZZjBnR2NZakEtaGdJdmtBMURvRGJrWFN2TmlRMXRVSVN6RGMyRF9zSW9uTTFSQ0VkQmpSWnFLSUx3UFRTekFUNVM4LVpCT09JSkNtOTJVRFl4TVlFMTRPMlJMLXlublJoX1JuTzh2VDl1d3pDclBfZVQ1WS1KMWpodkhxSGtqX1YxX0hGTUhvRmdUUVVfZ1VFeUtHX21LZ0N6cHppWkZmSUZSRWxvZS1uREdiOXo4TGFyZGV1UHc5T2N5ZWpKMWlkbDUtVlNfUTU4MGtWT3ZaaHFZdUhRNFM4SXhJWm01N253ODZOb05mdklmMXZQOTcyWnZ1a1FQSE5ka0xuaUxFRjQwSENweEk3NmMxVzVBOXFuMVZaTzduTWtVa1l5ZXRhdHJpbTVPZ2NRMnNaeHJtcmhDT3VLekxBdkUxbnRKT1VESHlNNjh3bUlJZEpmbW5JQTZHbkJlbkVHdUZ0VVVVQUFxSkdYY29fTGRGMWtQekpCZk05clY4akJ1SWlSUGI5TDQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYXFTNkZpSVFPbXhWTTQtUFNpWFMwVjV1RGwyTEtVTDJjY2NrREFYcW9ia25ZUk5HRE1CbHdISnhDdXRETVljZGZBRUFPQ0Q1ckE?oc=5)
+
+## 【高】香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟
+- 類別：鼠患；地區：南區
+- 摘要：香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMiggNBVV95cUxOVEZybVpfVTZRdDBLV0VfcG0tdHpRVDN2UGhLUllhMmJhbG40SVFlLW10NmhkQnhUMDJfM0NFUTE4c2R4MzFQbTFfUlJ6VnhJTzlTUGIyMkplOExzMXByaXhuYkkxV0xuZkNuZGZQT1FRd3l1YWhMWTA2NkhjYnBIaU03OVZMcE8tZGttNzNlakVXWFVyMVFLV0hTMDRQR25uMTNtZWJ4Z2RYVVlWazd4MG1MTUR0MGZUbTRhVmRPZng2cW1HaktublR4VG1ZWGltSEx4bEwxZTFiMnZmWmZHX09lcnlRUGp5U3U4ZXJQLUROT3IzVWJXcUlwUDF3UzAyVEhNZFh6VGFoUDc2SllPVV9yWFF0ekhQMUZCeVBKMWtIZHFGMUVWZTg3X2JJQ3kzOUlGTHllU2E4ZGx6eDAzRDFZWElPZWppdERTQVhXYWlxbmQyclNRTExhWGp4azh5X1hRSkhXd0VzckFpY1ZWdEpJWkV6Y3YwbUcyaGp6azFfZw?oc=5)
 
 ## 【高】鼠患問題｜食環署展開「天羅行動」巡查超市、食肆等 合共發120張法定「消除蟲鼠通知」
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -92,6 +99,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMimwNBVV95cUxOY3NiUzlEcURrT0pVSDE3blVvU082QkpocnV1QzU5WXIwbHB0R2hnU2h5MDVrV2hHVllvTmRRc1BOV01NODA1SUpfQ3BpOVp6c2dNeE1jU3NZY1c1bTFzWXdTLWYtS0FUZlM3UUVSdm9GRWFOT193SEV1Z1VHY3IxT052dy1EdWJWMjgyLXF1NGhkcG5PWEl2OFVTdVdmZWF2NTJyZ2FvZmVtWjZoMUhiN1ZKZmNyMEoxZ05saTluSmdHaDhpeUo1QkZSbXlCQ3Q5ZnpVNEwyU1Jkb29xX3dSUUJEenQtTlJmRlF2cHo1UFI4Nk0ycHRXV1NIZ2hSaGJhd1VQNEpIMG9mczFDNjBUeUpvdGtNTXYxSUtfeEdOZDhaNHZWcmZHM1FqelFJZkJMUVNxOER6Ulg2Y3VRTm9ZcWVDc01zaTVpNVBudUpGbUVsdVhIakM1UFh0aDNPbTBuazd6M0pTWjNuUjFqSkQzNHVFZjVHLWVBT2hGUWRkNVA4TndHLTl6dVN2V25acldONWVtbmtnNkhZdG8?oc=5)
+
+## 【低】港鐵大窩口站老鼠奔跑 狂跳樓梯身手敏捷 目擊者：癡線㗎｜有片
+- 類別：鼠患；地區：未註明
+- 摘要：港鐵大窩口站老鼠奔跑 狂跳樓梯身手敏捷 目擊者：癡線㗎｜有片
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMimwNBVV95cUxOMGwzdGhuQUczc3Y3cWFkWlhjdjJxb1dfa2c4YXJ2U2dDdzF2b25TUU1YbDlGN21lUUFxNzNQSmVkYzhuOVJwV2JhX203bXAxQXpaZjhfa1JjQU1yRjRDMEszRGlreUx2bFJ0ZzhzU1ZMRjFCWkduNkxTNk5wbjJKcEx0QnA0U2VHS29UWFF2aDNENnNWRHVCSk92ZFlDZmlzVHlxZWwxVGN3SkxiSEhrZXJxVjRyU182VU9nc2lsQTM5X1BENHYxdzYzUGdfekEyemc2WXRLMFlQaUxDREUtcnhoZkFta0RtZmJfeDJtaFlfVkM4ZlMwQ2xIUWlUckE2WnpNc3dPY0g4d0hWd0NPN2NmWDZDR2FPcHN5VHFmZmRNVEJnYUxocFh5dWl5cWhZUHhuaGNCT2hqOGhtZjVmNy10MUlfR2h5azhMRDVrTnRmMUZNMHhuZHJ3OWo4VGFCQkltNlp6bXVrWklEQlNxdVBhNDU3WjROOXJndVRDbWxqYmM2dGxPWGg3cVZqYmN3Zjh3ZjhyVGVJaDQ?oc=5)
 
 ## 【低】陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀
 - 類別：蟑螂及室內害蟲；地區：未註明
