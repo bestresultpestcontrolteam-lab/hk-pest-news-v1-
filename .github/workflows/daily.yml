@@ -1,9 +1,7 @@
 name: 每日蟲害新聞更新
 on:
   schedule:
-    - cron: "0 22 * * *"   # 06:00 HKT
-    - cron: "0 5 * * *"    # 13:00 HKT
-    - cron: "0 11 * * *"   # 19:00 HKT
+    - cron: "17 */2 * * *"   # 每2小時第17分鐘（香港時間 00:17、02:17、04:17…）
   workflow_dispatch: {}
 permissions:
   contents: write
