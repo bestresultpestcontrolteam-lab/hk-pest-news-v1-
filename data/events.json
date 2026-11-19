@@ -1,5 +1,35 @@
 [
   {
+    "id": "6cdf92552465",
+    "title": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+    "description": "",
+    "first_seen": "2026-11-18T23:00:46+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQWExPSDdqazJtNHMxbVJEMzBFMjhxVG9pS2lUd05ZeHFtM2FROVktYkFBb25mQmMwdXJFNTRlWXhiMkJtbWpVRDdYWVF3aXpSZE43Y2QxQzhHcXd5cmsta1pBOW02MG9abzE3N3M0czgxOFBQUEp5dXpEbzF5bmV3d3FTSUl6Y2N4ZFBxNUdpQUI0TkdjV25iOHl2MlpTMF9kLWdwNjczdjlMTk1XcHRNRS1LWDctUTE4NXpLMGdaWHZEM0dVaThvbWl2bUh3UjQtS2F3dTNJbWpPbTdKMkNZd0lFRjV5eDFGRHZHTzlJR3FQQjc1NVFFR01TSWhIREVrMkJEcGFMMzhiUmtMaFB6SFNVODR2NWdubktndmZucjctSTVyMGJyZ0NfOFpvNk0wbllQU1l4OGxRcGx5Z2d4NEtxd3RZUF9LYzZ6RHdqSnU0U3NZUnN1WDQ5NTZ2OE1jazBzZHoyLWltU090Q20xQWY3SVh1Yy1qUm91a2dIVzI0MTRJLUQ2dVFoZkNLUUxJUGRRSzF6R1lxS1RMck5kd3I3dHdmdw?oc=5",
+        "media": "星島頭條",
+        "published": "2026-11-18T23:00:46+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-19T02:08:27.418371+00:00"
+  },
+  {
     "id": "c78509534dcb",
     "title": "區議員質疑無鼠指數有盲點 專家點評民間滅鼠法邊樣最work",
     "description": "",
@@ -388,7 +418,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "542ed0ebe0ea",
@@ -733,7 +763,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1265,7 +1295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -1563,6 +1593,13 @@
         "media": "香港01",
         "published": "2026-11-09T08:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "黃大仙茶樓天降老鼠 擊中食客留下血跡",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CQ1B5Y2ZGS0JpU2NPT2d1VVlxcjlBRzB2OEowM01oeTZaSy1KTV8zVTZLQ0QtVnR4RTVOXzJiUkZLM3dKUERuWDJWWlBLa0hVc0E?oc=5",
+        "media": "am730",
+        "published": "2026-11-09T08:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -1576,11 +1613,11 @@
     ],
     "priority": "高",
     "priority_reason": "酒樓",
-    "summary": "黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開",
+    "summary": "黃大仙酒樓天降老鼠 擊中食客手臂留血跡 職員嚇到即刻彈開（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T11:39:37.006460+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "ce5ada3293ee",
@@ -2151,6 +2188,13 @@
         "media": "香港01",
         "published": "2026-11-04T08:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "屯門食肆3隻大老鼠奔跑 目擊者：跳埋上枱勁猖狂 食環署︰已檢控持牌人 (有片)",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYXFTNkZpSVFPbXhWTTQtUFNpWFMwVjV1RGwyTEtVTDJjY2NrREFYcW9ia25ZUk5HRE1CbHdISnhDdXRETVljZGZBRUFPQ0Q1ckE?oc=5",
+        "media": "am730",
+        "published": "2026-11-04T08:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -2164,11 +2208,11 @@
     ],
     "priority": "高",
     "priority_reason": "食肆",
-    "summary": "屯門食肆3隻大老鼠奔跑 目擊者驚呼：跳上枱望住我兜飯｜有片",
+    "summary": "屯門食肆3隻大老鼠奔跑 目擊者驚呼：跳上枱望住我兜飯｜有片（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "4857b85549cf",
@@ -2713,7 +2757,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -2963,7 +3007,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -3445,6 +3489,36 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "42677d7593ff",
+    "title": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+    "description": "",
+    "first_seen": "2026-10-25T02:26:01+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5",
+        "media": "am730",
+        "published": "2026-10-25T02:26:01+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蟑螂及室內害蟲",
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-19T02:08:27.418371+00:00"
+  },
+  {
     "id": "45d229d223cd",
     "title": "年耗數億公帑滅鼠無效 前議員：為何媒體揭發才獲部門緊張處理",
     "description": "",
@@ -3799,7 +3873,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "76e16c9cce43",
@@ -4147,7 +4221,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "4f8553880be1",
@@ -4330,7 +4404,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-19T02:08:27.418371+00:00"
   },
   {
     "id": "5d91099437ef",
