@@ -1,5 +1,38 @@
 [
   {
+    "id": "0a1dc2439536",
+    "title": "食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠",
+    "description": "",
+    "first_seen": "2026-11-20T02:16:55+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠",
+        "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQYjNlVG5Qc2VsS0hFWTR1VHVVckdMQXlXTFYxOTlRVHZJYzdzVDhIM3RsQkVPUVVtV1dtbHVPMjdpSDRHeWNjcXlBOUxDVVE2T1JNWnVBZ0N1UDZnQ2hmaGlVTmUzM1BGVDFSOFV3SzBXZXlGYjRlNkVieE9yRnZZYjNPMXlNZk5pWW5QNTgyd0dUb3JoSDJGQjlsbERwUEhPWGF0TDFSd2RlLS1WUGFvazFIMllCSTNoeHllVm0zSUF2eEtLVy1mNl9RTVJyRFU1ZGVzc0Z1VE9aLU9sd25wYnlkUm02YkVFd0hISTBlWmQzRW1FU3prb0xaZHBVVDZaUU41U19uNXlnbm9aVF9zUjRpcEdNMVhyMEpfV2RtaVVnRmpYZkJWZHYxNlZVbkMyM0xWemtlc25sdkJCS2pEUWluV0Q4S1JrQWlEaFBhMjRlQWRpZmJZWDNkd2JROFBoeDA3dHp6QzluRVFRZk9SYUNxdXdsYktQUmdIOF9uY3U?oc=5",
+        "media": "i-CABLE",
+        "published": "2026-11-20T02:16:55+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [
+      "油尖旺"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T02:56:30.315562+00:00"
+  },
+  {
     "id": "f0307d1e0e98",
     "title": "香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟",
     "description": "",
@@ -16,7 +49,7 @@
     ],
     "needs_resummary": false,
     "relevance": 5,
-    "topic": null,
+    "topic": "鼠患",
     "categories": [
       "鼠患"
     ],
@@ -29,7 +62,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -834,7 +867,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1366,7 +1399,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2149,7 +2182,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -2902,7 +2935,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3152,7 +3185,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T01:17:09.908732+00:00"
+    "updated": "2026-11-20T02:56:30.315562+00:00"
   },
   {
     "id": "2c7c41581a2c",
