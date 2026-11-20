@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 22 個事件；高關注 7 個。
+過去24小時共 23 個事件；高關注 7 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -92,6 +92,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5)
+
+## 【低】將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
+- 類別：蟑螂及室內害蟲；地區：西貢
+- 摘要：將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxOTHF2Tl9ZcTNNZzlwUE9JVkdRM1RVbng0djlRX3Q1NTJQQzdFQU8xc0o1eTRFaFNTSHpsSTF0TjVXd0M5bFRuWkh4WDBwaEFGWVdPQW8yZEF0akFJNmUyT29JRWZkRnRFeURZWllMZnBlMW5jRmpUYllaMTNHbl9fWlZfcEJ4emMzajQ2UXpXOEpncnlMR1hQQXRET2NyY2k5Q0twNF93aUdGcS1UUERuejcwcG53WlVKWWc2ckQ2RTZCWHh4cklVbFM3US05TzFEM1NYaDR1djhXOXQyR0dMSDhud08zcFdTNEtjSUpjYUo0SHFoTXVKekhUcl9KWk1xWnNnSFl5YVFWS0JGZUVVbXEySGZXZ0gxN1FqMHRVSWlxNW1iM09UamVENEV0SUVSR0d2RTdmcE1aYkd5bENfZ2lGZWwxcjlRTlpqcmpKZ2dPSHZmZS1WY1V2cll3dDFOdUFuUUJ0Rk9KakxuTGdkendacmppREk5cE9NNHJIY29MUlQ0WEpDSHZXNXhxYTU0blBrTGtEWnJBNENtMC0za003SkhhQmZXNEVtZXAyZWNkTkxIVjlSZkVWNm80QQ?oc=5)
 
 ## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
 - 類別：鼠患；地區：未註明
