@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 32 個事件；高關注 10 個。
+過去24小時共 36 個事件；高關注 11 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -71,6 +71,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMisAJBVV95cUxOQXNKNld6bWNkMURBeEdpczAxV3h2MFRjTzBrWVpJVTJ0UTJSeV9weEsyV0JRbkI0TGIzZXIwSkQ3N1lkTzVnM3BHV3BRSWpyUUYxaFM4Tm9XQ2xncXV0VkY5a0dVcHM1MmdjamFuOG5tbC1kdXdZdm81cnJzcTNmT2pZZl9zcVFrdFMwdDRJTFlZVHdVQkxhT2JOQV9tTmNvbUpFMnhYUFJRTExBT2FVR0RsaTcxZVc4YklyRGpEOGpiN1dfUzNDMUY2WFZaYzczWVZhT2lSOEx2azJvZXF0ckpqSlo4b1R1Tlplczg3c0ZTbDFXOU1rYWw3OF9wTE5UX2djWGhsNVpMMzNIQXVjd2NHNm5PWjdUYlpEdEN3eXQ3aEFrZXNzdWJiOHdORUZH?oc=5)
+
+## 【高】有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食
+- 類別：鼠患；地區：屯門
+- 摘要：有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFAzeUprVUNjMkt6UGZYQ3pQUnJZeDNxZHM2RmxrbTZvRVp0dVVqZmIycTdQeEdHSVI1Z1JBSUJ5RDZ2V1VFYzJjazRoenpZbFdWeWdnQXZ2dHRoRkRtb0lhY3dqcEp2QXBIRVR4SXdaNG4?oc=5)
 
 ## 【中】葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒
 - 類別：鼠患、技術及藥劑、政府政策及執法；地區：葵青
@@ -212,6 +219,13 @@
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMixwNBVV95cUxPdlJKTGo3V1Y3cHBZMXJlZEtGSW10UnFWWkx0SkZDNTAyQ2tXREZTaHlFUUJwT09aRm9la1pMYVV4bXpvbTZIOXFnTi13Qnk5QkdfZXZTR1R4MVVDYkJyVzFqV2QtcTB3cjNETEhxeDdPa3BmeU9TUkw4b2lkOW4xN1ZUbmVCUmFLdjltRUJUdzJ1cFZ0X3B1NlJBSjM0czBqNG9kckdyVVliLUJtcEc0RXotUUpqQjFQWnRMOHB5SHMybURNeGFNX3ItZjJJTURERHFwQTBmOWt1UjktU2dqTHZSaXlhdkNaMzA2VkEzXzdYaFBHTXpZX180aVczR2I2R0poaXlvRVlPdmF1OTVTOWthWEVuYndDb1g2U0JtU1dTMjFnSkNrSkxfQmlkdlJFQ0piMXMxekVQSk0zVlFKVVNUdG9qUzl4Q1JxZXpsTTd2YlpGbTZBRXpZc0N2YW9wUlNtZi15VEpobGNOUzY2eXN5TU5EUlU0VVJmd28tQWp2bmRSOE12eXFOMGxRR0ZKVVZqZWpUV1JfVEV1dTJSUlJlWHBiMDViQjdoREwtelRCM2ZYdGhHWF95QnRVUFhlSjM4N2dITQ?oc=5)
 
+## 【低】食環署首三季捕近11萬活鼠超去年總數 專家指城市老鼠警覺性高須多管齊下
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署首三季捕近11萬活鼠超去年總數 專家指城市老鼠警覺性高須多管齊下
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[TVB](https://news.google.com/rss/articles/CBMiygNBVV95cUxQSWRMejhNMzBrOU9rckdlblRJOXpPbGRWTXExVzdPQTdNZ2doc01TTEhVdGVYaUlyNmZoZ1hOSTU5bXBFNnFrSXR6dlROV3hKbUVOMHRHT1phNGZoSUFFa2xpY3FRR0FqSDJxVDd0TkZzVVVJbGg2SHFOQ3pKZ0NZcW1mODA0UHZZV1A0TlVIc1NkdTNSSVFWeDRpZ25DdjhiRGRTc19UUFdLQU5CS0FMcnJGYmFyMzFpOHZZWmtoNzFYS2dJdjE4WGdoSVlUQU5ibTVaRXFRaU5aN3g1QXVWUDktZ2k1MGhuaXZPLTE2c2VVZHI4M09wYkFMRnBCMWJrRTFwM0FDZjgxbUxRZVVyY3R5YXF2MjFpOUFtYmZ1bEZadnUtUWFzVHBxT3U4X3ZLN1RJeDUtVWFScVJxcUZQWnNuV25tM0tiUkpLZnNwRzlmMnhkckM0aGEyWWpRb0pUVlhrbDAtOXBldjBkbl9fb2dKU3FrMTVRS3dyZ09rMl80b2g2ekJ0RUlmNGF2TnlEM3hITk5idlNDYmlYQmRteDFJRnExMmlnak90cUFrOHFLcVYwTzlkbXBYU2VLYnFvOXpQWFRnNFJLQQ?oc=5)
+
 ## 【低】觀塘新盤附近 老鼠大隊列陣
 - 類別：鼠患；地區：觀塘
 - 摘要：觀塘新盤附近 老鼠大隊列陣
@@ -225,3 +239,17 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNkdFYUtoX0d1NTdEc2VtdGFLbEtVMDNWdUxUbFNqTHhBbzZ3dzFkeDBOazVublpjMGI1SVNGRXZKNXp1Z0UtRWpjNV9kN3FTSXlPMkQ5ZndCZ2o1d1h3bEN1SjdBbWY4VEhvZ2REVEp2OXZUOHJz?oc=5)
+
+## 【低】直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀
+- 類別：鼠患；地區：深水埗
+- 摘要：直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNc1ZNdnZtS3E2bXcyaUlZeFhLdlZiUWRvODZnSGtHVUU2T05kR2FBNG0wS0dDU1NtWWk5ZGUyaDYwSHoxUlpCcmh1YnRLMkt4SFdiQkdYVzlIYlk1ZjVCSmJYaC1BdUs2ZC1SVmQyWktxSEx1MHd3UHZHOTlCQlZQaW5ScHB4c3lzajlSTDR3YWJVNWQxVnlReW5jQWlwbUxLWkhfV0RpVEVYUWZTc3RtcUhTbmRhbmhXYmcyUmpJNnhjWXNULS1jWGRGQnFHQ29mbW1QUndOc1dONVJVTW1EdUZ6N3BTTVdDTkxUbGdGR3dMMXQ4TW51alZjcXpsSlJaMVNnZzBJQTZFY2ZWNHhtbnFrcVpKRDNKU1J6TlBsVl9Rc3NDZl9fSXBEX3FvTnowQ1Joa1JYRVFBZGtpaE9TblhYRndpRjh4Q0YzTS1tWGlON2J2YlNUdVpGdUxxemQtWjBjM2FXZkJLSTh4dnVrS1JkVEltM1dDOWdodjlpWkRiMjFvVkJZUTNwMmlPaGFWeGQ3R1NDV0F1YklK?oc=5)
+
+## 【低】有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀
+- 類別：鼠患；地區：深水埗
+- 摘要：有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE44Vko1Tm9Fa0dmQmFzQW1KUjFnZkFEeXp2dlJNTnp3cFNZemlVNHhoYzRBa2lSR3FuTVpYV1U3MlpBbzhvUmlOVU1faHg3QVJTeTF2QWZHZ2VGM0dBYnNQQV8xTXlNUlZPQW8zNmwycTJ2TEdHa09hZVQ2MA?oc=5)

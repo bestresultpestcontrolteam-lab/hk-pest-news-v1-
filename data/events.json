@@ -216,7 +216,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -246,7 +246,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -290,7 +290,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -524,7 +524,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -1329,7 +1329,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1360,7 +1360,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T07:27:26.133728+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1861,7 +1861,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -3030,6 +3030,38 @@
     "updated": "2026-11-19T02:59:09.341370+00:00"
   },
   {
+    "id": "3dd1d19b2ce8",
+    "title": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+    "description": "",
+    "first_seen": "2026-11-03T04:21:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzeUprVUNjMkt6UGZYQ3pQUnJZeDNxZHM2RmxrbTZvRVp0dVVqZmIycTdQeEdHSVI1Z1JBSUJ5RDZ2V1VFYzJjazRoenpZbFdWeWdnQXZ2dHRoRkRtb0lhY3dqcEp2QXBIRVR4SXdaNG4?oc=5",
+        "media": "香港商报",
+        "published": "2026-11-03T04:21:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "屯門"
+    ],
+    "priority": "高",
+    "priority_reason": "食肆",
+    "summary": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T22:55:53.070552+00:00"
+  },
+  {
     "id": "da49d766dacc",
     "title": "「防空滅蚊」熱背後 中國製造業「降維打擊」催生新消費",
     "description": "",
@@ -3434,7 +3466,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3453,7 +3485,7 @@
     ],
     "needs_resummary": false,
     "relevance": 3,
-    "topic": null,
+    "topic": "鼠患",
     "categories": [
       "鼠患",
       "政府政策及執法"
@@ -3465,7 +3497,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -3723,7 +3755,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4077,6 +4109,38 @@
     "updated": "2026-11-18T22:44:25.670546+00:00"
   },
   {
+    "id": "1948c892122b",
+    "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+    "description": "",
+    "first_seen": "2026-10-26T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNc1ZNdnZtS3E2bXcyaUlZeFhLdlZiUWRvODZnSGtHVUU2T05kR2FBNG0wS0dDU1NtWWk5ZGUyaDYwSHoxUlpCcmh1YnRLMkt4SFdiQkdYVzlIYlk1ZjVCSmJYaC1BdUs2ZC1SVmQyWktxSEx1MHd3UHZHOTlCQlZQaW5ScHB4c3lzajlSTDR3YWJVNWQxVnlReW5jQWlwbUxLWkhfV0RpVEVYUWZTc3RtcUhTbmRhbmhXYmcyUmpJNnhjWXNULS1jWGRGQnFHQ29mbW1QUndOc1dONVJVTW1EdUZ6N3BTTVdDTkxUbGdGR3dMMXQ4TW51alZjcXpsSlJaMVNnZzBJQTZFY2ZWNHhtbnFrcVpKRDNKU1J6TlBsVl9Rc3NDZl9fSXBEX3FvTnowQ1Joa1JYRVFBZGtpaE9TblhYRndpRjh4Q0YzTS1tWGlON2J2YlNUdVpGdUxxemQtWjBjM2FXZkJLSTh4dnVrS1JkVEltM1dDOWdodjlpWkRiMjFvVkJZUTNwMmlPaGFWeGQ3R1NDV0F1YklK?oc=5",
+        "media": "香港01",
+        "published": "2026-10-26T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 8,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "深水埗"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T22:55:53.070552+00:00"
+  },
+  {
     "id": "d3001212704c",
     "title": "健身「曱甴粉」｜內地Gym友興食「曱甴粉」增肌平替蛋白粉價格極便宜專家警告：有風險1類人勿試",
     "description": "",
@@ -4398,6 +4462,38 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "8a66e53c68c6",
+    "title": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+    "description": "",
+    "first_seen": "2026-10-24T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44Vko1Tm9Fa0dmQmFzQW1KUjFnZkFEeXp2dlJNTnp3cFNZemlVNHhoYzRBa2lSR3FuTVpYV1U3MlpBbzhvUmlOVU1faHg3QVJTeTF2QWZHZ2VGM0dBYnNQQV8xTXlNUlZPQW8zNmwycTJ2TEdHa09hZVQ2MA?oc=5",
+        "media": "香港商报",
+        "published": "2026-10-24T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 8,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "深水埗"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T22:55:53.070552+00:00"
+  },
+  {
     "id": "b53826b6e61c",
     "title": "康文署大隴街公園斜坡鼠患食環署應要求派員視察提供意見- 香港",
     "description": "",
@@ -4596,7 +4692,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T20:58:58.799128+00:00"
+    "updated": "2026-11-20T22:55:53.070552+00:00"
   },
   {
     "id": "76e16c9cce43",

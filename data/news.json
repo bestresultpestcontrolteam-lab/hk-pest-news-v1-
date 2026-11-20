@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T20:58:58.799128+00:00",
-  "count": 144,
+  "generated": "2026-11-20T22:55:53.070552+00:00",
+  "count": 147,
   "items": [
     {
       "id": "6e19239669ce",
@@ -2312,6 +2312,31 @@
       ]
     },
     {
+      "id": "3dd1d19b2ce8",
+      "title": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+      "summary": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "高",
+      "priority_reason": "食肆",
+      "districts": [
+        "屯門"
+      ],
+      "first_seen": "2026-11-03T04:21:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzeUprVUNjMkt6UGZYQ3pQUnJZeDNxZHM2RmxrbTZvRVp0dVVqZmIycTdQeEdHSVI1Z1JBSUJ5RDZ2V1VFYzJjazRoenpZbFdWeWdnQXZ2dHRoRkRtb0lhY3dqcEp2QXBIRVR4SXdaNG4?oc=5",
+          "media": "香港商报",
+          "published": "2026-11-03T04:21:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "da49d766dacc",
       "title": "「防空滅蚊」熱背後 中國製造業「降維打擊」催生新消費",
       "summary": "「防空滅蚊」熱背後 中國製造業「降維打擊」催生新消費",
@@ -3128,6 +3153,31 @@
       ]
     },
     {
+      "id": "1948c892122b",
+      "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+      "summary": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "深水埗"
+      ],
+      "first_seen": "2026-10-26T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNc1ZNdnZtS3E2bXcyaUlZeFhLdlZiUWRvODZnSGtHVUU2T05kR2FBNG0wS0dDU1NtWWk5ZGUyaDYwSHoxUlpCcmh1YnRLMkt4SFdiQkdYVzlIYlk1ZjVCSmJYaC1BdUs2ZC1SVmQyWktxSEx1MHd3UHZHOTlCQlZQaW5ScHB4c3lzajlSTDR3YWJVNWQxVnlReW5jQWlwbUxLWkhfV0RpVEVYUWZTc3RtcUhTbmRhbmhXYmcyUmpJNnhjWXNULS1jWGRGQnFHQ29mbW1QUndOc1dONVJVTW1EdUZ6N3BTTVdDTkxUbGdGR3dMMXQ4TW51alZjcXpsSlJaMVNnZzBJQTZFY2ZWNHhtbnFrcVpKRDNKU1J6TlBsVl9Rc3NDZl9fSXBEX3FvTnowQ1Joa1JYRVFBZGtpaE9TblhYRndpRjh4Q0YzTS1tWGlON2J2YlNUdVpGdUxxemQtWjBjM2FXZkJLSTh4dnVrS1JkVEltM1dDOWdodjlpWkRiMjFvVkJZUTNwMmlPaGFWeGQ3R1NDV0F1YklK?oc=5",
+          "media": "香港01",
+          "published": "2026-10-26T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
       "id": "d3001212704c",
       "title": "健身「曱甴粉」｜內地Gym友興食「曱甴粉」增肌平替蛋白粉價格極便宜專家警告：有風險1類人勿試",
       "summary": "健身「曱甴粉」｜內地Gym友興食「曱甴粉」增肌平替蛋白粉價格極便宜專家警告：有風險1類人勿試",
@@ -3373,6 +3423,31 @@
           "title": "葵涌大隴街現鼠患 無懼路人垃圾站覓食 居民冀當局嚴正跟進 (08:49) - 20261024 - 港聞",
           "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQeEhlVFpJMi1TUl9zYW5SX2pwWWZFSUZXQW5BMlhiMWhXRG9BckFTaERnWkhXTk1tdzViU1NESTlsSVpkZ2JwSmJKdmY4TEpyNk9CT1FfQ0JTMFd1aXd3ZnV1WTdaWl94SzVFbHlNQnNHa1VjOUp3a1FhYWZMVGRhSlY0TDF0MzFZckx4bWxzcVk2c2lkSlAxSGMxYlRsc1A2TTlZams5NTI3ZnlyNHEtX3R1TFdDekI3eDA1ZVVpc3duOFJSMzdvS3JwZ21BdDBLSWlycEFVTGhfSE43SmdQNkgxS3FOMWZFQXJDUUdDRFFrXzZvYVY3NXpST3dEN1pLNWxCUlpRTFBRTkZZUlNxaGh0cVIwekt1RWU1a1pzRWVZMnRYOUVZWHlvZWh4bHdCcGNEYTl3c0hHTkdKWmdWRElXODhMVnhCdkw3bHhyYWRGWnRNdXc2V3VFVGtUNU5ZdFluOWJqT3F6XzRmMjNaZVlCTElqYzd0WFJ4SnJscUt6by16c2cxY0ZEMnJSOURTX1NoREMycWhhMERMN2djdGIzcS1udTFuQTRoZXZBMkJPZGg5ZExMWlJXZ3FPbThqc29rVHB1NXAydw?oc=5",
           "media": "明報新聞網",
+          "published": "2026-10-24T07:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "8a66e53c68c6",
+      "title": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+      "summary": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "深水埗"
+      ],
+      "first_seen": "2026-10-24T07:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44Vko1Tm9Fa0dmQmFzQW1KUjFnZkFEeXp2dlJNTnp3cFNZemlVNHhoYzRBa2lSR3FuTVpYV1U3MlpBbzhvUmlOVU1faHg3QVJTeTF2QWZHZ2VGM0dBYnNQQV8xTXlNUlZPQW8zNmwycTJ2TEdHa09hZVQ2MA?oc=5",
+          "media": "香港商报",
           "published": "2026-10-24T07:00:00+00:00",
           "tier": "media"
         }
