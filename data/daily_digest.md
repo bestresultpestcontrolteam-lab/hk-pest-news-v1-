@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 18 個事件；高關注 5 個。
+過去24小時共 21 個事件；高關注 6 個。
 
 ## 【高】鼠患｜食環署「雷霆行動」巡逾1300地點滅600鼠 主動介入為觀塘工廈滅鼠 考慮檢控並追討開支
 - 類別：鼠患、政府政策及執法；地區：觀塘
@@ -22,6 +22,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[信報網站](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdGFiN1hpSmRIanJHTjRwRnBjR05jMVpTc0JJMTA2OV8xemNGTHZhd0kwbVRUdERuc013TXd1UEM2dFJDNUxNRlRjTGJwQjdoS3R4M0FkTE9GbTh6aFJJT2Y3YWtNbXQyY0R1MXRyTGhaSnBCMVQ2TmJOdEYta0lMYlNnM294RHM4U2t0cWMwWEo1QVc4dVRGMTlnd2hxbl9sMnZwQmVhRGR4NV9PMlcxZmVWbTM4cG93VHVQQlVuNHpienMzeGhTY1F3OEFPVVZ2amFZUmpUQnJVaGRXMDlVWUc4Z05rWWd1WnhyRWR5VU5mT2VCWmRUNXVHS3RzZHNQeXlrREU5c2VZUldtZm1YVGdwNmlKVkpHWTE4SU1COHVTX2d6X09NOGI3RW9ET3pB?oc=5)；[i-CABLE](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcTFEN3pkRmdidjY0TzlWbXdMSlRHWUVxSFhxRV9HWVBic3pTZmpfb2w3Q3BaWnRGNGRNNXBXbGhLVDNVbFBUcFA4UkRWU25RdWpvek02dnpOZ2QzcWo0QmM0YTRKOXplRGhXTzUwakFBdlJFN2IxOF9ZNk9nNmJDZ3lVbktjSFQtRGlQSm5VbmRDNkRVLV9rLWtZTE83RTdRSjNfNFl5dFFnU1BIU01ET1FDN291SkRXbWx0NEoyelFNWlVQODZ6NGU3aHlueG1qeWhQdUZCdEpzNk9fc1VRcHJBVVEzbUhQX0NPRllqNlVDczVMRkhsN3czbHpYeWtMYldaMWplU0Vfa0lMeG9fbnpjcmZJOU1RaFoza3M5MXNtdFlZV1JaSzBXMUhVU0hEVDNkMS1MS2FpaUs3OERqUW1mcEZ4dy1va3B2TVpXb0NRMDRuWmpSenZXdElOMVVZOTZr?oc=5)
+
+## 【高】天氣寒冷市民應注意健康
+- 類別：技術及藥劑、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）表示，由於天氣寒冷，市民特別是重點人群包括長者、長期病患者、戶外工作人士、孕婦、嬰幼兒和兒童應採取適當措施，保障健康。 長者和長期病患者 ———————— 中心發言人表示…
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000316.htm)
 
 ## 【高】香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
 - 類別：鼠患；地區：南區
@@ -51,6 +58,13 @@
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMi7ANBVV95cUxQYnJhd0hqUG9LRVVpT1ZuR2s3azJoaDJHNU5jdDVEc0ROcWNtMUtJTEl3OWFJV0M3dzRpZ3hsNFNhMTVuOWpuNXNLU0pqcnVDY0RxSnU0Qll0aXFYbHA4Z09JSEZyd1dKRllZZ01rUnZTeVpKWmRzSzZnTG5zaXl0QnRNUG9JTjVFa3JoQmdIb3h5bkFqM3ZqYmU4RnZPRkxrUUR5N2FDNWtsTTJ6ZWJPZ0FnYkFEcEpRbVU3ZVA3ZVl1YnU0LVUwMTMxTVM0ZVFKVmR3c1FUeGg4YS1vTjN0Q0Y0YkVoXzZSZGFZRTFtVFFzc2RGeHlzMkZMQWJ1RWVNNS05ZndZVVBkcGl5eHJYMFkzWDcwelBETzZmUG9Ob0RnaGFoc0cwS1ZlWHR0Uk5mTXpuSGZyeVVKV0lPNk45d3F5Q1N4emYwY1k3YVhFZDlNUkprME1lcUl2M19JZzlqajhRQWFxdzJJU01rbEFRSWRGVDFTajU4ZGpaU3NHT2IyVkZESHQ5Qm5IdDRaRWlqMU85VkYwazFMRFBaYTVIWkxwZEpiTkcwU2ZBRlNvT2xBcUFBRHcwR09WbEMyNmt2OUw3MVlqZGFmNlZVeGpMbXdmcHdQYTF1V19NaEptSWZwdFVra1NIaU9jQlo?oc=5)
 
+## 【低】食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署展開「雷霆行動」主動精準滅鼠 集中打擊鼠患黑點（共 3 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE81YjhCekVlZll2U1h1LXlyVU9KQllQajhLUVJ3UWJKdExUUHZuVVhSRUZKZ3RucEpNYlp6dGc2OHk3akdjWXk1NWNGVGxlN21fYnZld2ZWdkdac0hib0Y1bzFiSURTenh1anNZS2NlNUp0UQ?oc=5)；[香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE91eTQyVWxqa1NFRXJsUEZ1RDlNV0p6eFhLRU1PY3VHaGgyWWdYVUFNS01hMW5yaG9WTHlLWnNRa2xaZW03MWVHWEFzNW9JaWMwMXd1dTliUHE2cmNFalFIay1LbUFOeFJwQVRVbE1PM0N5bTBFNEpVdkhacw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE13cEExVXdJUmIweDJqS1pkWmZNdzJFVTkyMVFiY2FyNXdHMUx1aFo1TkxBcU5BcVZKbkpDY09FS25rMWxyRXQzQ2JZc21TQVVwcGpfN3FFa05OMnVMTWpLUDZiMGwxTkk1bWFtN0tXWWlaVHc?oc=5)
+
 ## 【低】食環全港「雷霆」滅鼠 跨部門直擊鼠患黑點 觀塘工廈一晚捕逾50鼠
 - 類別：鼠患；地區：觀塘
 - 摘要：食環全港「雷霆」滅鼠 跨部門直擊鼠患黑點 觀塘工廈一晚捕逾50鼠（共 2 個來源報道）
@@ -71,6 +85,20 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5)
+
+## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
+- 類別：鼠患；地區：未註明
+- 摘要：甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMingNBVV95cUxOOTFJWVAxVHlzT2JyNTFnekRsZklJY0hzVUxtb0NrU2M0bU9pWmZRalJTdzZBYVgwek52cXhqMGtUVDVSV0VJYm9RWllDWWRMa19aSGEzeDlOYVBqUHcza3JrQUFsSXhLN3RfWkZnNmtwT3lZWkV3OWxBSFloeGxXM2U5QzlBa09CS3U0ZXpnSHBOOTAxUDB4MkZYeFNVT3dRMERsM19aMXkxYWRLYzdscHYwT1d2M0ZFTGxIWlNsRXF5TGNzV3FFUGtqbl9XeXFjRGM1Q01uX1d4Y3RLU1pfMWd6VmtSVWxNZ09jYk9rOWJsZmNrTHo5TWl6ZjZ0X2h6eDBxQWstRjlOTkNGV0pJT3Q5aE1lb0lNZjNwYUZxMF9yaFcwVVZUSE8yeXZWV0NqR3RGbl9weFRzOXdCR09hV0l6WTdKWTBGTl92TTlBdmJUSENjY2w3OW93eU41SGxXMkxBVWxNejVGN2JjS0tqeUJJQnByNUdNLWJZSktEWFVPWGdRVUdpajk4cDNjNVg0NVVObXk1SElMNUJsZnc?oc=5)
+
+## 【低】鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[信報網站](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMWN1bC1JU3pWRTRFSGxNSjlFOXVNZVBIZThBaFN6LTRlMkFKM3BjY1BoR2N2V0tmaVZtYlRGM2JhempZa2lkRlRYaDdKYUI4WWpoTHBWSVZ0ZXFuVmlLeFJGeFZzaG4tdXZsVXhGT05yem5XVUtEY3oxY0FxbVh2UHJDakUwWHVlb0NrdVE2QTVOdzB3MWUyYlJkN1BzMGdiSF9fNmd1akN1ZldzOXBxNGh3QTItYXJXWHcyWXg3OFBWeTZYcW5qWm0xTDlGSWw5X25kODhKU0FxY2gzQ3FWRy1heFBySldyUG5VZTVCMi1tU25wTFQ4a1RScFV1SDFVQlpGZ1lOWkZBczRBRThzQ0RfNnJ3eGw5Rk80dzdBM1A3ak5IcWc5dGxQbkwtbVJJVmFVOW5ZMUxfY2I3aHBzRFFzTDVHTnFRQ2ZSZFoyLWNsMngwTm9IbnFobWZ2VG9hZGlqbkpKcXBMWHB2?oc=5)
 
 ## 【低】食環署追擊尖沙咀文化中心一帶鼠穴 初步點算捕獲逾百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：油尖旺
@@ -106,13 +134,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMimwNBVV95cUxOMGwzdGhuQUczc3Y3cWFkWlhjdjJxb1dfa2c4YXJ2U2dDdzF2b25TUU1YbDlGN21lUUFxNzNQSmVkYzhuOVJwV2JhX203bXAxQXpaZjhfa1JjQU1yRjRDMEszRGlreUx2bFJ0ZzhzU1ZMRjFCWkduNkxTNk5wbjJKcEx0QnA0U2VHS29UWFF2aDNENnNWRHVCSk92ZFlDZmlzVHlxZWwxVGN3SkxiSEhrZXJxVjRyU182VU9nc2lsQTM5X1BENHYxdzYzUGdfekEyemc2WXRLMFlQaUxDREUtcnhoZkFta0RtZmJfeDJtaFlfVkM4ZlMwQ2xIUWlUckE2WnpNc3dPY0g4d0hWd0NPN2NmWDZDR2FPcHN5VHFmZmRNVEJnYUxocFh5dWl5cWhZUHhuaGNCT2hqOGhtZjVmNy10MUlfR2h5azhMRDVrTnRmMUZNMHhuZHJ3OWo4VGFCQkltNlp6bXVrWklEQlNxdVBhNDU3WjROOXJndVRDbWxqYmM2dGxPWGg3cVZqYmN3Zjh3ZjhyVGVJaDQ?oc=5)
-
-## 【低】陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE03U2E3SDE5U2MxcGhRaEZoR3JzNFRheDZ3Mmo1T3JwMUdwVFZkUTZ6Y1E5VnJDV3BIeHoySTNtcWFKeUxITXo1UmVCLUZCcVlvaW1RcmZVc3VHQdIBX0FVX3lxTFBzOE4xVWFEdnZBR1d5ZWw0amRLSHBjWlBrS1BMZ1FNdlI3cklXUDNHRzdPV0p1RnJVUmxnQlJZeldjbWdKd0Q4UWRValQ2VUIwY25OclQ3VUZ4b09CRVo4?oc=5)
 
 ## 【低】八分鐘本地新聞重點｜宏福苑報告公開／李家超：大火問題開端在圍標／滅鼠工作
 - 類別：鼠患；地區：未註明
