@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T15:04:08.479563+00:00",
+  "generated": "2026-11-20T17:06:31.058616+00:00",
   "count": 141,
   "items": [
     {
@@ -181,7 +181,7 @@
     {
       "id": "e0fb8bf3ce30",
       "title": "本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案",
-      "summary": "本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案（共 2 個來源報道）",
+      "summary": "本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案（共 3 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蚊患及病媒疾病"
@@ -204,6 +204,13 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5",
           "media": "RTHK News",
           "published": "2026-11-20T12:17:00+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "新增一宗基孔肯雅熱及兩宗登革熱個案 全由外地傳入",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5",
+          "media": "TVB",
+          "published": "2026-11-20T15:26:00+00:00",
           "tier": "media"
         }
       ]
@@ -314,7 +321,7 @@
     {
       "id": "3ff1b293302a",
       "title": "鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠",
-      "summary": "鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠",
+      "summary": "鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -331,6 +338,13 @@
           "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMWN1bC1JU3pWRTRFSGxNSjlFOXVNZVBIZThBaFN6LTRlMkFKM3BjY1BoR2N2V0tmaVZtYlRGM2JhempZa2lkRlRYaDdKYUI4WWpoTHBWSVZ0ZXFuVmlLeFJGeFZzaG4tdXZsVXhGT05yem5XVUtEY3oxY0FxbVh2UHJDakUwWHVlb0NrdVE2QTVOdzB3MWUyYlJkN1BzMGdiSF9fNmd1akN1ZldzOXBxNGh3QTItYXJXWHcyWXg3OFBWeTZYcW5qWm0xTDlGSWw5X25kODhKU0FxY2gzQ3FWRy1heFBySldyUG5VZTVCMi1tU25wTFQ4a1RScFV1SDFVQlpGZ1lOWkZBczRBRThzQ0RfNnJ3eGw5Rk80dzdBM1A3ak5IcWc5dGxQbkwtbVJJVmFVOW5ZMUxfY2I3aHBzRFFzTDVHTnFRQ2ZSZFoyLWNsMngwTm9IbnFobWZ2VG9hZGlqbkpKcXBMWHB2?oc=5",
           "media": "信報網站",
           "published": "2026-11-20T03:17:55+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "食環署精準打擊鼠患 全港揭282個鼠洞 文化中心檢獲逾百隻老鼠",
+          "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPRWlYTEM5TUJDM1dMR3hDb2J4Z2lLQU4zWURmRUJ4UFY5QVRETF95elY0QUZrRmIyQ2tDbTM3V2JXWTdrVllGQjk4TlRXQl81d0ZhMTFoQzZnUUp5SDQ2RVJqOVJ5Zm5ZaHFXS2pUdVEyMEhPSlp6RXVncEVpSk44WVpKUktMMkU1RW9UbU1INzNOcjBqZm1lODRUaEl4VU82T2s0ZkVTdFY1cTcwTFozU0Rsekg4amE3bmsxbHQwN3AxQkVaOG9NMzNYSjlZNDFfcGY5SEpydjF4MVZlQUFaaDhvR0oxZEFubzA4SmhidTVCbzJoNUpYOXQ2RGp5bjdYd3MzQUZVNkRLdzJfSmszMnRWR0JwSEZrd2RSSm9yN2V0RGtuTWFNQ3NoSXVBbWVHdnVfLWZwV2N2MllYckg0aW85R1lGNl94YnZERGx5Sk1jYlk0cFJKZ2ZMaEVkbFk1X2FZMHdDRVY3VFBzSDJCUHhRdHlKRHpOTmxfNEZsOUVtUE1nLWx2MnE2Vk5OR1RyN0NLMTkxT3lhRVpkckF5V2R6a0JiZXFBX3pRTFhYWTIyNFIt?oc=5",
+          "media": "香港01",
+          "published": "2026-11-20T15:44:58+00:00",
           "tier": "media"
         }
       ]

@@ -185,7 +185,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -237,6 +237,13 @@
         "media": "RTHK News",
         "published": "2026-11-20T12:17:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "新增一宗基孔肯雅熱及兩宗登革熱個案 全由外地傳入",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5",
+        "media": "TVB",
+        "published": "2026-11-20T15:26:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -248,11 +255,11 @@
     "districts": [],
     "priority": "高",
     "priority_reason": "登革熱、基孔肯雅熱",
-    "summary": "本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案（共 2 個來源報道）",
+    "summary": "本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案（共 3 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T13:23:23.087377+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -398,6 +405,13 @@
         "media": "信報網站",
         "published": "2026-11-20T03:17:55+00:00",
         "tier": "media"
+      },
+      {
+        "title": "食環署精準打擊鼠患 全港揭282個鼠洞 文化中心檢獲逾百隻老鼠",
+        "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPRWlYTEM5TUJDM1dMR3hDb2J4Z2lLQU4zWURmRUJ4UFY5QVRETF95elY0QUZrRmIyQ2tDbTM3V2JXWTdrVllGQjk4TlRXQl81d0ZhMTFoQzZnUUp5SDQ2RVJqOVJ5Zm5ZaHFXS2pUdVEyMEhPSlp6RXVncEVpSk44WVpKUktMMkU1RW9UbU1INzNOcjBqZm1lODRUaEl4VU82T2s0ZkVTdFY1cTcwTFozU0Rsekg4amE3bmsxbHQwN3AxQkVaOG9NMzNYSjlZNDFfcGY5SEpydjF4MVZlQUFaaDhvR0oxZEFubzA4SmhidTVCbzJoNUpYOXQ2RGp5bjdYd3MzQUZVNkRLdzJfSmszMnRWR0JwSEZrd2RSSm9yN2V0RGtuTWFNQ3NoSXVBbWVHdnVfLWZwV2N2MllYckg0aW85R1lGNl94YnZERGx5Sk1jYlk0cFJKZ2ZMaEVkbFk1X2FZMHdDRVY3VFBzSDJCUHhRdHlKRHpOTmxfNEZsOUVtUE1nLWx2MnE2Vk5OR1RyN0NLMTkxT3lhRVpkckF5V2R6a0JiZXFBX3pRTFhYWTIyNFIt?oc=5",
+        "media": "香港01",
+        "published": "2026-11-20T15:44:58+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -410,11 +424,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠",
+    "summary": "鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "0a1dc2439536",
@@ -479,7 +493,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -1284,7 +1298,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1453,7 +1467,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "f43490ff6798",
@@ -1816,7 +1830,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -3352,7 +3366,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3602,7 +3616,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4475,7 +4489,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T15:04:08.479563+00:00"
+    "updated": "2026-11-20T17:06:31.058616+00:00"
   },
   {
     "id": "76e16c9cce43",
