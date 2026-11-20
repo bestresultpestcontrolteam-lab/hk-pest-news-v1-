@@ -185,7 +185,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -259,7 +259,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -493,7 +493,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -1298,7 +1298,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1929,6 +1929,36 @@
     "updated": "2026-11-17T06:33:00.168405+00:00"
   },
   {
+    "id": "fd7633764f7f",
+    "title": "東呼即應：內地興吃曱甴粉增肌 專家指暗藏衞生危機",
+    "description": "",
+    "first_seen": "2026-11-10T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "東呼即應：內地興吃曱甴粉增肌 專家指暗藏衞生危機",
+        "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOUW9FNnZXbjdkaGd3UXlzdk41dk8waVB6Rk1WSjBEdEVXY1FCZURoclZXX1FIbjZlWGwzYXhOUXNUd2ZZMkU4U3Fib0RKbzdGa3VsVFlpZmdfX2JBWkZ2ZC0zTlk4UHluaW81TWFiZlo0Y21lYUI0RzhZWHZDdDBHTzd5dTlxWjJRMWoxSEVyMWRUUjNidktUVGp6bHIwYVBaR2dfSm50S2pGUjVMRVlJenNlTlp6clN4OVhXSUxGd3ZIa014MlJMUlJBaGpEQlMxc2NBZ0R3QTQ3YXhuX3BacWlWQmY0UkdCaERyRkhMQ2lLSGg5Sno1Q1VFcWhYUElGVGNrUVhqVEpzSlg5enNxSTRWdG1PSWliOXdJbDJ6LWJpNl9nblF5UE1aN3hEaVFvRUV5UFgzcC1fenIyTFp6alp4VE9OSS05MTBtT2xoVlJRZ0tjR0sxVFhrQl9aZFBsSzNrY3lxeG5ydmRIaXVYeEw0V3lhNTRWWVRSNVM5WXczYnZiRlVMOHdrUS1saVQ3b3pETzlocDl1eDUyeVM3RURHWUVEdVNWNWZyeHNfNkRRXzdLWHNyckxR?oc=5",
+        "media": "東方日報",
+        "published": "2026-11-10T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "東呼即應：內地興吃曱甴粉增肌 專家指暗藏衞生危機",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T19:10:09.799015+00:00"
+  },
+  {
     "id": "181901f2efb6",
     "title": "香港鼠患攻陷多區！老鼠闖廚房報食環1原因拒處理？專家教自救4招",
     "description": "",
@@ -2033,6 +2063,13 @@
         "media": "TVB",
         "published": "2026-11-10T00:28:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "尖沙咀海旁淪老鼠竇 20隻亂竄遊客嚇到走",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5",
+        "media": "東方日報",
+        "published": "2026-11-10T08:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -2046,11 +2083,11 @@
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "報章要聞｜東方：尖沙咀海旁老鼠亂竄遊客嚇到走／明報：教局稱學普拼輸入負擔小",
+    "summary": "報章要聞｜東方：尖沙咀海旁老鼠亂竄遊客嚇到走／明報：教局稱學普拼輸入負擔小（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "714e47d43198",
@@ -3366,7 +3403,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3442,6 +3479,13 @@
         "media": "on.cc東網",
         "published": "2026-10-29T07:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "老鼠氾濫已成災 食環無能嘥公帑",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPeG9pSGQ4OThyN0w3dWNzMVdNOWhzRnB0bFZRSzlEX1lxd21kU1hSMzNCaEZhWE92dU11cmo3UmthTFlKc3V0OWc3RkJZVUc1Q2NsVjZuNW1UOEZOVkdGTnZ6MktVdUxXS291OXdKck9SQzdUem9WcDUzbHFnbWJsUkVjRTRQZFE4My00aFRxSzZ3RXRZWW5FdVBIVmR0QVBJUW5fSW1FdEVkNFptX3hraUNSNUtlT3U4bDZZRmRPenpXWml6empvSkZmanBzRFF0TkZUNVNQZ3BjMDZIb01MaWc1el9GdFlfNnZhU09uTXdKZUExdGlhSHJvSTF3RXFFTGRlZG91MHpvaWNYZG9ZazcwSVhtWXdEVVVWQk5fbHJSSnJlMkZ0U2ZMQmlyT1dQRjN4RFhoMW9kUG5EN2JIdTVlVm1QOTRfdEd3bWRn?oc=5",
+        "media": "東方日報",
+        "published": "2026-10-29T07:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -3453,11 +3497,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網",
+    "summary": "正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T22:45:47.804610+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "ffdbf2a126f8",
@@ -3554,6 +3598,38 @@
     "updated": "2026-11-18T22:44:25.670546+00:00"
   },
   {
+    "id": "4bcb74a806a5",
+    "title": "觀塘新盤附近 老鼠大隊列陣",
+    "description": "",
+    "first_seen": "2026-10-29T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "觀塘新盤附近 老鼠大隊列陣",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdzRVMk5wQlJBSFJlZUlVSDFSdERwVXdfdUZ0YmZCVWpqdktQWDd4b09LUENuS2l5UUZDejA0RFN6em9qa2w4YXZwMlpDTUNvb1otOElFSmluVW4xYmxPUTFZR25GRGdzSkZFRDRscWNNVDA5Qm5jTm9KVWhoRV91TklsOW1MdTNBenFhLV9LRG80RW05ZkN4RFc3U3BVWUdpV2J2V2stTktBcnk1ZlZFMWthTDNCRjhrLXFjWEJsYWY1d3g2N01jeUk4ZXJiSHRuZk9PSm5kVGZOSGVQcTYwOHJkS0JyeVNOOERsVVZhdVZKQl9ucnZQZVJHSTljMnUzOFJxbEtvOTV3ZGtHTEl2THl6ZnRESzNJcE40cFRWSkY2OWJ2WW9FbnZtUDJjUFlmUlYyY2VB?oc=5",
+        "media": "東方日報",
+        "published": "2026-10-29T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "觀塘"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "觀塘新盤附近 老鼠大隊列陣",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T19:10:09.799015+00:00"
+  },
+  {
     "id": "8cb05178296a",
     "title": "有片〡 紅磡必嘉坊鼠患 區議員聯食環署跟進",
     "description": "",
@@ -3616,7 +3692,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T17:06:31.058616+00:00"
+    "updated": "2026-11-20T19:10:09.799015+00:00"
   },
   {
     "id": "2c7c41581a2c",
