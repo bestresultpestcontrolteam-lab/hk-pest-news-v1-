@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-20T19:10:09.799015+00:00",
-  "count": 143,
+  "generated": "2026-11-20T20:58:58.799128+00:00",
+  "count": 144,
   "items": [
+    {
+      "id": "6e19239669ce",
+      "title": "食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港",
+      "summary": "食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-20T20:20:19+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSF9OdWxZU01nVTZfR3Y0X0U2OWVURG1lUkhNbWx6emxEVzBaekE3V2Q0V3NIblEyN05qeHhRZnRjTTMtcF9WQU1Nc0YyRjJyU214Y2pyQ0VUSURIOTFTRmwzMGdZSEFaeUkwVWxsRHFGcHYtanhj?oc=5",
+          "media": "香港文匯報",
+          "published": "2026-11-20T20:20:19+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "5a8f981ab74d",
       "title": "食環持續「雷霆」滅鼠直搗鼠患黑點捕161隻活鼠收集119隻死鼠- 香港",

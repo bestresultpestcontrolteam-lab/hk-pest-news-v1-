@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 31 個事件；高關注 10 個。
+過去24小時共 32 個事件；高關注 10 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -134,6 +134,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5)
+
+## 【低】食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSF9OdWxZU01nVTZfR3Y0X0U2OWVURG1lUkhNbWx6emxEVzBaekE3V2Q0V3NIblEyN05qeHhRZnRjTTMtcF9WQU1Nc0YyRjJyU214Y2pyQ0VUSURIOTFTRmwzMGdZSEFaeUkwVWxsRHFGcHYtanhj?oc=5)
 
 ## 【低】食環持續「雷霆」滅鼠直搗鼠患黑點捕161隻活鼠收集119隻死鼠- 香港
 - 類別：鼠患；地區：未註明
