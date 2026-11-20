@@ -154,7 +154,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -859,7 +859,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T05:56:03.592354+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "33a7ff10e002",
@@ -959,7 +959,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "c069df71b284",
@@ -990,7 +990,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T21:00:22.561856+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1128,7 +1128,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "f43490ff6798",
@@ -1491,7 +1491,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2274,7 +2274,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -3027,7 +3027,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3277,7 +3277,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T05:10:49.772282+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4150,7 +4150,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T13:26:44.506420+00:00"
+    "updated": "2026-11-20T07:27:26.133728+00:00"
   },
   {
     "id": "76e16c9cce43",
@@ -4406,67 +4406,5 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "9f049c9651c8",
-    "title": "櫻桃街公園現鼠患食署要求承辦商治理- 香港仔",
-    "description": "",
-    "first_seen": "2026-10-21T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "櫻桃街公園現鼠患食署要求承辦商治理- 香港仔",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WaVU0bEFoZFhrRFB0UjVUY3RRT0NseEthQ3p6Nl9qZ29TQUF1VXBUaHBLdnp3cGtKc2o2UzdpTDRucDRVUWZ4ZjB2cXNmTDE2ZDJESmJoSzIzQmsxRFROLTZ1dGpLT29COG5iYUNBRXhFVjdYSUw2RWR6TXg?oc=5",
-        "media": "香港文匯報",
-        "published": "2026-10-21T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 5,
-    "topic": null,
-    "categories": [
-      "鼠患"
-    ],
-    "districts": [
-      "南區"
-    ],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "櫻桃街公園現鼠患食署要求承辦商治理- 香港仔",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
-  },
-  {
-    "id": "90d4ae17c6ff",
-    "title": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
-    "description": "",
-    "first_seen": "2026-10-21T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObHhqTUJ2UGZaRFExOGM5SU9LWTJSeFpBalFIcWJJR29HVlhFVHZMUGpKUXpDVFpHMkk1Sk9aSHBUWVNtUFlDNEgzZE5lUU9zX2dIM2R6N29QSFNuUUN2OEdtdlYzUDhPdkdudGNBREtxSnplYjBiS2dSNlNOUVJqUW1qQWNvNUx4TzdiazQ4UklyZ0JhMFl1MGFWcnQwQjFaNzFMN19TTG9BRkhhSlN5QXJOa1dqRktYNkFoMnhlR19Fa1RldkoyS2ZZZlhVZlY1V1h2UGFBblhDN0pyZmQ0SG95NjdkSjFrRlJLODd5YkxWc0xtN0VFc0JHV0hJTVdvcEtUUDRuMTFhMllnRkFTQU5oOE4wdDduTi1HMk5OaDd6OTl6TmpmNmFXN1pleUVBdmljbDNuWDZPOHRjWVRHVDRn?oc=5",
-        "media": "香港經濟日報HKET",
-        "published": "2026-10-21T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": "蟑螂及室內害蟲",
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "健身 ｜ 蛋白粉漲價 網紅「蟑螂粉」能成平替？",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
   }
 ]
