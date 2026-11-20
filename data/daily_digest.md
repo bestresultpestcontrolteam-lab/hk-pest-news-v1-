@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-20）
 
-過去24小時共 18 個事件；高關注 5 個。
+過去24小時共 20 個事件；高關注 7 個。
 
 ## 【高】鼠患｜食環署「雷霆行動」巡逾1300地點滅600鼠 主動介入為觀塘工廈滅鼠 考慮檢控並追討開支
 - 類別：鼠患、政府政策及執法；地區：觀塘
@@ -16,6 +16,13 @@
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMimANBVV95cUxPVjR2bDhpOVZ2dDI3MmZfRG53Tk5EbTdFb2FzWnp0ZlhoMWVuVGp4NWlVanBra0pQc1p6UmJ0SDFFeGpJOTdYX1pyVFdXUEpsaWp0X2pydi1IMDN4YWVoSEJsT1RnYmsydjU0V3VQTnFGdFlnVEVyQXM3Ry1XWW91NnMtX050emhFQktmTUM0TldqbVRmSUhtN0M5VWdTRVpuVk9tTXhTQTl6ZXVqVGhLcEhKZkl2anBQc3d5Nkc2YWNsZDlEWGVoUDFUZ2tYRUsteTN6MV84UjhSeTZ6eXZEQVRrM0poOTN4Z3F3UDQzVmE2QUVPbTROcU1NdHJidjJ1WlFJdi1aajdTOUMwVGtzVTBULXZ1UlIzalRMd3dydnRfbXI0OU5VbnNFY0xEWmlNZVBsM2JQd1BndDh6S1F3NWd2YVJaYlotblltYkZyVmM4SkJCeDc1aUFYU1FHOTNxa24yVUpJQVhzOWNCaVNHRkdPZ0EzaktwbzlDRVhDeVZCNjJIRVFnQmZvbmRQeTJJVWVkWUpwYko?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CQ1B5Y2ZGS0JpU2NPT2d1VVlxcjlBRzB2OEowM01oeTZaSy1KTV8zVTZLQ0QtVnR4RTVOXzJiUkZLM3dKUERuWDJWWlBLa0hVc0E?oc=5)
 
+## 【高】​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQlJkZW02ZEdTUU1WYlgyQmFfVWhBelk3V1Bxai0yWWs0U2ZvWVdCTzNWejh0aGVUSUg1QjdORUFGWm5FWjNRREZLQ0p5NUxUWmJ5ZFA5Z2dmakxrRHFoT2dQYzFjSEdpdnVrZEJTY0I2c0U?oc=5)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE9ibHVWZHlNWXAweDk4dXFPVDhlRGlKVXZ2S1RsRE1JV0Nsb3R5MWhqN3dDYzVQVXJSQ0lsQVNmYnc4SkhwVmJtZmk0NWxTd1BHWHNyYno4b2wwUWdHaDZnYTQ4Y1RmUlo1MzNxOWlyZFpVZw?oc=5)
+
 ## 【高】鼠患丨食環署9月底至今累計提出196宗檢控
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：鼠患丨食環署9月底至今累計提出196宗檢控（共 2 個來源報道）
@@ -29,6 +36,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMijwNBVV95cUxNTklKWFlZZjBnR2NZakEtaGdJdmtBMURvRGJrWFN2TmlRMXRVSVN6RGMyRF9zSW9uTTFSQ0VkQmpSWnFLSUx3UFRTekFUNVM4LVpCT09JSkNtOTJVRFl4TVlFMTRPMlJMLXlublJoX1JuTzh2VDl1d3pDclBfZVQ1WS1KMWpodkhxSGtqX1YxX0hGTUhvRmdUUVVfZ1VFeUtHX21LZ0N6cHppWkZmSUZSRWxvZS1uREdiOXo4TGFyZGV1UHc5T2N5ZWpKMWlkbDUtVlNfUTU4MGtWT3ZaaHFZdUhRNFM4SXhJWm01N253ODZOb05mdklmMXZQOTcyWnZ1a1FQSE5ka0xuaUxFRjQwSENweEk3NmMxVzVBOXFuMVZaTzduTWtVa1l5ZXRhdHJpbTVPZ2NRMnNaeHJtcmhDT3VLekxBdkUxbnRKT1VESHlNNjh3bUlJZEpmbW5JQTZHbkJlbkVHdUZ0VVVVQUFxSkdYY29fTGRGMWtQekpCZk05clY4akJ1SWlSUGI5TDQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYXFTNkZpSVFPbXhWTTQtUFNpWFMwVjV1RGwyTEtVTDJjY2NrREFYcW9ia25ZUk5HRE1CbHdISnhDdXRETVljZGZBRUFPQ0Q1ckE?oc=5)
+
+## 【高】香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
+- 類別：鼠患；地區：南區
+- 摘要：香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[am730](https://news.google.com/rss/articles/CBMisAJBVV95cUxOQXNKNld6bWNkMURBeEdpczAxV3h2MFRjTzBrWVpJVTJ0UTJSeV9weEsyV0JRbkI0TGIzZXIwSkQ3N1lkTzVnM3BHV3BRSWpyUUYxaFM4Tm9XQ2xncXV0VkY5a0dVcHM1MmdjamFuOG5tbC1kdXdZdm81cnJzcTNmT2pZZl9zcVFrdFMwdDRJTFlZVHdVQkxhT2JOQV9tTmNvbUpFMnhYUFJRTExBT2FVR0RsaTcxZVc4YklyRGpEOGpiN1dfUzNDMUY2WFZaYzczWVZhT2lSOEx2azJvZXF0ckpqSlo4b1R1Tlplczg3c0ZTbDFXOU1rYWw3OF9wTE5UX2djWGhsNVpMMzNIQXVjd2NHNm5PWjdUYlpEdEN3eXQ3aEFrZXNzdWJiOHdORUZH?oc=5)
 
 ## 【高】香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟
 - 類別：鼠患；地區：南區
@@ -64,6 +78,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWloSGhObDRBMV9tWWZOZE9vVnhlVTZzLW5nS282Nkp1aDdRY1NlYzRiUkdjRjlFRTFlWGMxVDYtSGVpbVBkRVdLNUtQd1VmeFpPN3NTZV9FSnNrUEgxNmhBc0V1OXl4Y2NOcDI5SERkNjBuWVpCeTJPTU5JZGtESHV2YmtJMTBaX0w4?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNSVR0U0tLWURuYUtYLUFmb3JnUkFOQXVPbTFDWXU3dGtJYkw4U3JmUjVEVkFKQ3hnUmdsTzNiUGppUlZsNEVrVXhicUNPSUVucWJENEhTS3VNV0VrS0Nfd0VGTERSYloxSFNCeTUtLUM5X3JDcVl5SmszWG1INFA1dDZxS1Y2aE1MQXNzRURpQ1Jtbl9nWHRBcmpiUXlzN2lUTHVYZy1vNzJIWnBKcXRHcVJ6a2w2d2t4M1g0SDNmQjA1OWhDU0NCRkc2T2lZSlRrVDk4TnctTjFoMlYtWDlNQjNGZXNRNENzc2stY0p6emFQQ3VOaVVKa0JrVS16LVVBMWpHWU1OUUxmRnhVZWlIT29ZRW0wM2duNHRiUlJNZW12S2ozcDBTZ25scC1TOHFfcFhFSWNZV3dzbnhrR2VxQS1RbDJDQkVwb3U3bkJZX09tMTNQVDFYOFZVeGZCajNka3FWT0EyTVl4Z2dDX0ZUckhYcHRQM0JvU3RxNmFB?oc=5)
+
+## 【低】葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5)
 
 ## 【低】5架的士「死城」︱甘肅小縣慢活節奏爆紅 居民：這裡連老鼠都沒有︱有片
 - 類別：鼠患；地區：未註明
@@ -120,10 +141,3 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNkdFYUtoX0d1NTdEc2VtdGFLbEtVMDNWdUxUbFNqTHhBbzZ3dzFkeDBOazVublpjMGI1SVNGRXZKNXp1Z0UtRWpjNV9kN3FTSXlPMkQ5ZndCZ2o1d1h3bEN1SjdBbWY4VEhvZ2REVEp2OXZUOHJz?oc=5)
-
-## 【低】葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)

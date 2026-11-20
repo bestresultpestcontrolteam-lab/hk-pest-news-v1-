@@ -1,5 +1,37 @@
 [
   {
+    "id": "f0307d1e0e98",
+    "title": "香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟",
+    "description": "",
+    "first_seen": "2026-11-19T23:58:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQXNKNld6bWNkMURBeEdpczAxV3h2MFRjTzBrWVpJVTJ0UTJSeV9weEsyV0JRbkI0TGIzZXIwSkQ3N1lkTzVnM3BHV3BRSWpyUUYxaFM4Tm9XQ2xncXV0VkY5a0dVcHM1MmdjamFuOG5tbC1kdXdZdm81cnJzcTNmT2pZZl9zcVFrdFMwdDRJTFlZVHdVQkxhT2JOQV9tTmNvbUpFMnhYUFJRTExBT2FVR0RsaTcxZVc4YklyRGpEOGpiN1dfUzNDMUY2WFZaYzczWVZhT2lSOEx2azJvZXF0ckpqSlo4b1R1Tlplczg3c0ZTbDFXOU1rYWw3OF9wTE5UX2djWGhsNVpMMzNIQXVjd2NHNm5PWjdUYlpEdEN3eXQ3aEFrZXNzdWJiOHdORUZH?oc=5",
+        "media": "am730",
+        "published": "2026-11-19T23:58:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "南區"
+    ],
+    "priority": "高",
+    "priority_reason": "商場",
+    "summary": "香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T01:17:09.908732+00:00"
+  },
+  {
     "id": "ab55e88c5244",
     "title": "香港仔商場有老鼠 當眾行走零懼色 網民慨嘆：越嚟越污糟",
     "description": "",
@@ -802,7 +834,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T22:56:57.220430+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "c069df71b284",
@@ -1334,7 +1366,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T22:56:57.220430+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -1803,6 +1835,13 @@
         "media": "www.info.gov.hk",
         "published": "2026-11-06T11:28:01+00:00",
         "tier": "official"
+      },
+      {
+        "title": "​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibHVWZHlNWXAweDk4dXFPVDhlRGlKVXZ2S1RsRE1JV0Nsb3R5MWhqN3dDYzVQVXJSQ0lsQVNmYnc4SkhwVmJtZmk0NWxTd1BHWHNyYno4b2wwUWdHaDZnYTQ4Y1RmUlo1MzNxOWlyZFpVZw?oc=5",
+        "media": "香港政府資訊中心",
+        "published": "2026-11-06T08:00:00+00:00",
+        "tier": "official"
       }
     ],
     "needs_resummary": false,
@@ -1815,11 +1854,11 @@
     "districts": [],
     "priority": "高",
     "priority_reason": "商場",
-    "summary": "​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施",
+    "summary": "​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "9b550392bc10",
@@ -2110,7 +2149,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T22:56:57.220430+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -2863,7 +2902,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T22:56:57.220430+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3113,7 +3152,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T22:56:57.220430+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -3607,6 +3646,13 @@
         "media": "am730",
         "published": "2026-10-25T02:26:01+00:00",
         "tier": "media"
+      },
+      {
+        "title": "葉蒨文拍拖遊盡電影取景地 爆GM曾展望食完大王具足蟲變曱甴剋星",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5",
+        "media": "am730",
+        "published": "2026-10-22T07:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -3618,11 +3664,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+    "summary": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T02:08:27.418371+00:00"
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   },
   {
     "id": "45d229d223cd",
