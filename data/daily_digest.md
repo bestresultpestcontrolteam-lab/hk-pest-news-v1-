@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 37 個事件；高關注 13 個。
+過去24小時共 36 個事件；高關注 13 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -58,19 +58,19 @@
 - 狀態：已發布
 - 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMi6wNBVV95cUxPbm9vVGJGbHhSZlEtRnczckNCeldsek5PXy00SF9BWjRzSmVXdDZlbVVpZkxCYzVYMHZYZjZERFBGRlJuQUJJdWpJenpZYXdCY1FSRURpVC1aZWVtX1VPa1ZxSG1lUjJuYkxKZWVReHl6WG12Z3RRdXlKODEtQm8xZWxvcWREMUlrVUR0RFNYVXFLZXZYWk5EQUh2UTRkaUtISjNLQm4xN0JIUW5nSEhyV0ZiSGs4VXRwZDQ0UU5wckxLaEJOd0FFd0swcHp2bjlvWjFFbEVUWGl3RWZGNHE3M1BmZ3hWQWNvdERMR21Fc01nQkpEQjQxcUljeFN1NE9DOTVhMUFmNEVhdnI1eWN1VWdzVmhDYXJHczk2QTJMOTd2eXJnRHNCWW8xc1hZYmVsa3E2OFNfTUdIUU5vck45NlNfb1lzR3hMb1d5RU1iMjhDSjlLa1ZqMWlYQWI2VGZ2YWdjRWRYZWR3b3BTVHBJNnJzNjNFUkd3WWVsYTFsQ3ZjblBXaUswdDZXZTBDS05KM09LMkczaU4yZEs2eTZ4NVRJbGxWUUdXbGNUVFI4OThqazdfLW4wNHVlQWdJWXJuRHBWWlo0WFJSYUJLNHBmbGFDdTBsOFJZTF9uQ0dHeU9zZEZTWVVDeEwtVQ?oc=5)
 
-## 【高】天氣寒冷市民應注意健康
-- 類別：技術及藥劑、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）表示，由於天氣寒冷，市民特別是重點人群包括長者、長期病患者、戶外工作人士、孕婦、嬰幼兒和兒童應採取適當措施，保障健康。 長者和長期病患者 ———————— 中心發言人表示…
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000316.htm)
-
 ## 【高】香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
 - 類別：鼠患；地區：南區
 - 摘要：香港仔老鼠逛商場 網民慨嘆：愈嚟愈污糟
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMisAJBVV95cUxOQXNKNld6bWNkMURBeEdpczAxV3h2MFRjTzBrWVpJVTJ0UTJSeV9weEsyV0JRbkI0TGIzZXIwSkQ3N1lkTzVnM3BHV3BRSWpyUUYxaFM4Tm9XQ2xncXV0VkY5a0dVcHM1MmdjamFuOG5tbC1kdXdZdm81cnJzcTNmT2pZZl9zcVFrdFMwdDRJTFlZVHdVQkxhT2JOQV9tTmNvbUpFMnhYUFJRTExBT2FVR0RsaTcxZVc4YklyRGpEOGpiN1dfUzNDMUY2WFZaYzczWVZhT2lSOEx2azJvZXF0ckpqSlo4b1R1Tlplczg3c0ZTbDFXOU1rYWw3OF9wTE5UX2djWGhsNVpMMzNIQXVjd2NHNm5PWjdUYlpEdEN3eXQ3aEFrZXNzdWJiOHdORUZH?oc=5)
+
+## 【高】男子由越南返台灣時發病 確診登革熱
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：男子由越南返台灣時發病 確診登革熱
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQklNYXBKdjNJSnk3REpNeTN5VW9UcGFSOFlyUFFCMVRKekNjZldlSGhWU194NDJwbC1YNUdwMlF1VVg1NkVQdDdia2I3NTJ0cnBTNFcxSzJzZllrWWNYVjlkTmpGN0VNYjk2YkJTVjFoQlpjellpeXFOMEtFdzJfR2VFWE1IOUMxRFhR?oc=5)
 
 ## 【高】大埔商場大堂老鼠伏地僵持 圍觀市民舉機狂影 網民：隔籬街市老鼠天堂
 - 類別：鼠患；地區：大埔
@@ -183,13 +183,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxOTHF2Tl9ZcTNNZzlwUE9JVkdRM1RVbng0djlRX3Q1NTJQQzdFQU8xc0o1eTRFaFNTSHpsSTF0TjVXd0M5bFRuWkh4WDBwaEFGWVdPQW8yZEF0akFJNmUyT29JRWZkRnRFeURZWllMZnBlMW5jRmpUYllaMTNHbl9fWlZfcEJ4emMzajQ2UXpXOEpncnlMR1hQQXRET2NyY2k5Q0twNF93aUdGcS1UUERuejcwcG53WlVKWWc2ckQ2RTZCWHh4cklVbFM3US05TzFEM1NYaDR1djhXOXQyR0dMSDhud08zcFdTNEtjSUpjYUo0SHFoTXVKekhUcl9KWk1xWnNnSFl5YVFWS0JGZUVVbXEySGZXZ0gxN1FqMHRVSWlxNW1iM09UamVENEV0SUVSR0d2RTdmcE1aYkd5bENfZ2lGZWwxcjlRTlpqcmpKZ2dPSHZmZS1WY1V2cll3dDFOdUFuUUJ0Rk9KakxuTGdkendacmppREk5cE9NNHJIY29MUlQ0WEpDSHZXNXhxYTU0blBrTGtEWnJBNENtMC0za003SkhhQmZXNEVtZXAyZWNkTkxIVjlSZkVWNm80QQ?oc=5)
-
-## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
-- 類別：鼠患；地區：未註明
-- 摘要：甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMingNBVV95cUxOOTFJWVAxVHlzT2JyNTFnekRsZklJY0hzVUxtb0NrU2M0bU9pWmZRalJTdzZBYVgwek52cXhqMGtUVDVSV0VJYm9RWllDWWRMa19aSGEzeDlOYVBqUHcza3JrQUFsSXhLN3RfWkZnNmtwT3lZWkV3OWxBSFloeGxXM2U5QzlBa09CS3U0ZXpnSHBOOTAxUDB4MkZYeFNVT3dRMERsM19aMXkxYWRLYzdscHYwT1d2M0ZFTGxIWlNsRXF5TGNzV3FFUGtqbl9XeXFjRGM1Q01uX1d4Y3RLU1pfMWd6VmtSVWxNZ09jYk9rOWJsZmNrTHo5TWl6ZjZ0X2h6eDBxQWstRjlOTkNGV0pJT3Q5aE1lb0lNZjNwYUZxMF9yaFcwVVZUSE8yeXZWV0NqR3RGbl9weFRzOXdCR09hV0l6WTdKWTBGTl92TTlBdmJUSENjY2w3OW93eU41SGxXMkxBVWxNejVGN2JjS0tqeUJJQnByNUdNLWJZSktEWFVPWGdRVUdpajk4cDNjNVg0NVVObXk1SElMNUJsZnc?oc=5)
 
 ## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明

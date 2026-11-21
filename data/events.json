@@ -216,7 +216,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -246,7 +246,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -290,7 +290,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -524,7 +524,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -853,7 +853,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T06:33:00.168405+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "42005dc74ea7",
@@ -1360,7 +1360,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1765,7 +1765,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -1861,7 +1861,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -3503,7 +3503,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3799,7 +3799,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4743,7 +4743,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T05:03:39.240464+00:00"
+    "updated": "2026-11-21T07:19:25.645281+00:00"
   },
   {
     "id": "76e16c9cce43",
@@ -4969,35 +4969,5 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-17T08:31:01.706365+00:00"
-  },
-  {
-    "id": "ac6fd8a9056b",
-    "title": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
-    "description": "",
-    "first_seen": "2026-10-22T07:00:00+00:00",
-    "tier": "media",
-    "sources": [
-      {
-        "title": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
-        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQbDRDV29WMFp1REZMb2lhOEJ4RU1YczVLTmZNMzlyZW9lUTFKeGVWVXAySzVVanE5X05RS19SSV9pbGNuR2xWSndOd083cHdvbFo0MUdvb1R3UmZ0YWdoT0NzNmtOSFR3TlN6OHdxWXFhMXZ6a3hJYkYxNDdpZkt2VW1oQzQ3WTNyVEJVZ1F2aTktZzFBdDNkY1BMZUJiNy14RXJIYWdtZkU1TmZCa2JaRnZwT29nY1BTSV9zUXlXa1dwU3VLV0x6eGEwRXhCRGtWUUd1UV9CSmRHXzZVSGw5cG5NREFvMi0wOVBhbGk0cWd0MUN3MkthMGwyQ2ZqRXMxZHFyVkFvWVBjbHpCTjhJUGZaaU9ISTRDUlZDZW1ydURtRU9oYzNKUU5JY2VRcjBldzloV1VJTGsxT3ZlUjM1cUxGWjJ0ejBhODFxbTBERVRrTklTVEh0MGhubkFiTk9YaVAxRUZpNmEzYVJTWTZudEFXVFlneFNBc1BaOGxWNUFQcFlqWXhSZG8xdFlkMm9yeFloYTA1Uk1FNzY3MUxPRTgzWHhJN3MteXhiRzVwTVBqS2Vrbmc?oc=5",
-        "media": "香港01",
-        "published": "2026-10-22T07:00:00+00:00",
-        "tier": "media"
-      }
-    ],
-    "needs_resummary": false,
-    "relevance": 3,
-    "topic": "蟑螂及室內害蟲",
-    "categories": [
-      "蟑螂及室內害蟲"
-    ],
-    "districts": [],
-    "priority": "低",
-    "priority_reason": "一般資訊",
-    "summary": "內地傳曱甴粉代替蛋白粉？營養師指缺增肌成分 暗藏三大健康危機",
-    "management_note": "資料不足，請參閱原文",
-    "summary_method": "rule",
-    "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
   }
 ]
