@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 36 個事件；高關注 11 個。
+過去24小時共 33 個事件；高關注 10 個。
 
 ## 【高】食環署估計鼠患投訴增加 涉及環境因素與廣泛報道引發關注
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -36,13 +36,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)
-
-## 【高】​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：​食環署展開「天羅行動」第三階段 嚴厲打擊食物業處所鼠患及加強巡查商場垃圾處理設施（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQlJkZW02ZEdTUU1WYlgyQmFfVWhBelk3V1Bxai0yWWs0U2ZvWVdCTzNWejh0aGVUSUg1QjdORUFGWm5FWjNRREZLQ0p5NUxUWmJ5ZFA5Z2dmakxrRHFoT2dQYzFjSEdpdnVrZEJTY0I2c0U?oc=5)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE9ibHVWZHlNWXAweDk4dXFPVDhlRGlKVXZ2S1RsRE1JV0Nsb3R5MWhqN3dDYzVQVXJSQ0lsQVNmYnc4SkhwVmJtZmk0NWxTd1BHWHNyYno4b2wwUWdHaDZnYTQ4Y1RmUlo1MzNxOWlyZFpVZw?oc=5)
 
 ## 【高】鼠患丨食環署9月底至今累計提出196宗檢控
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -121,26 +114,12 @@
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi0wNBVV95cUxQMldQRU54SXhyRWJtQi12c1B4b1NGR3EzXzd5a0tqeXpYcFFlUXRSWlNPZVR5SmJHakp6LUNSZi1uaGRsaWE2YkJVLS15NFZJOUxRQzFzdDZuT3dNMHZQV0lvY1F3OGswREZvdF9WNktPYmp2T0plQVRMdlY2cXpJd0toRjJqRG10MzF5UFFjUlBmWVdNRk5sLXNWYnZNVkF1bHd4NDFZYVF3bnEwT0ZPOVJvd1ZaOFBuZjI0VjNObzZWdW5VM1RiYTg4TTVtV1gybWtmZnBkNWZTS1JfdE14ekNsVS1vRUtrYVQ4b1BzMUFjSC04UmFFOGNadU5LQmx0aWhvcTlzT0hFdDB0WHlBMURjbG9JalVPYmtsQUw1YTU1NEU3VTJmc29PcTZ6cFZoaEFDMzRZSlRZSXl4R3NYZDhnMWljNDNIVDFHdEF3MnZSRjJNYlM1c09CbS1mUXF5dXlSZGZNZkVHMU5tX01TNFJOSFczVmZDeHdlMlotc0pCOThra2x6WXFrQnl6akxKc3RmM1F0UF9ycVF1YUpxanNodXpPbFRUVjRsS1JRUTduZDFxd3JDejNuYUI5T3AwVHFxcG5icUEzWFJhVXpIR1lzdw?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5)
 
-## 【低】本報早揭超市衞生差 肥鼠越貨架曱甴亂爬
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：本報早揭超市衞生差 肥鼠越貨架曱甴亂爬（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWloSGhObDRBMV9tWWZOZE9vVnhlVTZzLW5nS282Nkp1aDdRY1NlYzRiUkdjRjlFRTFlWGMxVDYtSGVpbVBkRVdLNUtQd1VmeFpPN3NTZV9FSnNrUEgxNmhBc0V1OXl4Y2NOcDI5SERkNjBuWVpCeTJPTU5JZGtESHV2YmtJMTBaX0w4?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNSVR0U0tLWURuYUtYLUFmb3JnUkFOQXVPbTFDWXU3dGtJYkw4U3JmUjVEVkFKQ3hnUmdsTzNiUGppUlZsNEVrVXhicUNPSUVucWJENEhTS3VNV0VrS0Nfd0VGTERSYloxSFNCeTUtLUM5X3JDcVl5SmszWG1INFA1dDZxS1Y2aE1MQXNzRURpQ1Jtbl9nWHRBcmpiUXlzN2lUTHVYZy1vNzJIWnBKcXRHcVJ6a2w2d2t4M1g0SDNmQjA1OWhDU0NCRkc2T2lZSlRrVDk4TnctTjFoMlYtWDlNQjNGZXNRNENzc2stY0p6emFQQ3VOaVVKa0JrVS16LVVBMWpHWU1OUUxmRnhVZWlIT29ZRW0wM2duNHRiUlJNZW12S2ozcDBTZ25scC1TOHFfcFhFSWNZV3dzbnhrR2VxQS1RbDJDQkVwb3U3bkJZX09tMTNQVDFYOFZVeGZCajNka3FWT0EyTVl4Z2dDX0ZUckhYcHRQM0JvU3RxNmFB?oc=5)
-
 ## 【低】正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網
 - 類別：鼠患；地區：未註明
 - 摘要：正論：老鼠氾濫已成災食環無能嘥公帑｜評論｜港澳｜on.cc東網（共 2 個來源報道）
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMikwFBVV95cUxPb29GWkJ4R2U3UjRocXJTcUpKY3FjaGtsUURERHprTFlyaW40eWlncDc3bnFEX2hDUmhqdl9kY2tIZDcxSmVlY3J2RjA4bnNaSzN0TW1YQ0taSWpVWDI3LTFvWmM4S3lYbmx6RFpmUDVNdlh3NVZDalh3MjdfY2xFZVkxTnlWNFJGdnV4dHFoVFJZOFE?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMizgJBVV95cUxPeG9pSGQ4OThyN0w3dWNzMVdNOWhzRnB0bFZRSzlEX1lxd21kU1hSMzNCaEZhWE92dU11cmo3UmthTFlKc3V0OWc3RkJZVUc1Q2NsVjZuNW1UOEZOVkdGTnZ6MktVdUxXS291OXdKck9SQzdUem9WcDUzbHFnbWJsUkVjRTRQZFE4My00aFRxSzZ3RXRZWW5FdVBIVmR0QVBJUW5fSW1FdEVkNFptX3hraUNSNUtlT3U4bDZZRmRPenpXWml6empvSkZmanBzRFF0TkZUNVNQZ3BjMDZIb01MaWc1el9GdFlfNnZhU09uTXdKZUExdGlhSHJvSTF3RXFFTGRlZG91MHpvaWNYZG9ZazcwSVhtWXdEVVVWQk5fbHJSSnJlMkZ0U2ZMQmlyT1dQRjN4RFhoMW9kUG5EN2JIdTVlVm1QOTRfdEd3bWRn?oc=5)
-
-## 【低】葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[am730](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5)；[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5)
 
 ## 【低】食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
 - 類別：鼠患、政府政策及執法；地區：未註明
