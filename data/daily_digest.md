@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 35 個事件；高關注 12 個。
+過去24小時共 32 個事件；高關注 12 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患 （附圖）
 - 類別：鼠患、政府政策及執法；地區：油尖旺、九龍城、元朗
@@ -100,13 +100,6 @@
 - 狀態：已發布
 - 來源：[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE81YjhCekVlZll2U1h1LXlyVU9KQllQajhLUVJ3UWJKdExUUHZuVVhSRUZKZ3RucEpNYlp6dGc2OHk3akdjWXk1NWNGVGxlN21fYnZld2ZWdkdac0hib0Y1bzFiSURTenh1anNZS2NlNUp0UQ?oc=5)；[香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE91eTQyVWxqa1NFRXJsUEZ1RDlNV0p6eFhLRU1PY3VHaGgyWWdYVUFNS01hMW5yaG9WTHlLWnNRa2xaZW03MWVHWEFzNW9JaWMwMXd1dTliUHE2cmNFalFIay1LbUFOeFJwQVRVbE1PM0N5bTBFNEpVdkhacw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE13cEExVXdJUmIweDJqS1pkWmZNdzJFVTkyMVFiY2FyNXdHMUx1aFo1TkxBcU5BcVZKbkpDY09FS25rMWxyRXQzQ2JZc21TQVVwcGpfN3FFa05OMnVMTWpLUDZiMGwxTkk1bWFtN0tXWWlaVHc?oc=5)
 
-## 【低】鼠患｜食環署推展兩大行動滅鼠 至今已發現282個鼠洞 捕捉161隻活鼠
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：鼠患｜食環署推展兩大行動滅鼠 至今已發現282個鼠洞 捕捉161隻活鼠（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwANBVV95cUxPMWlQcWp0RlpwTDNVdmJ1b3RtNUJZeHFZU3FndmdUbHh3bDgwcHpzRWU0Y0NWeVBXRFlxbmJrV0tHdHphZnRzRkpQc0JaZ015enRpSnBJZkNmdk5aV2czNDlZTC1sTjlFM296azgzYkp0clJITmswZGVDQmFLZG0tZENKT2dBMTk1MG9ZTEtJdG5HRFRXWmJ4MDNOczBLVFhUQkhfY05rYjB0T0J6R1hjVlRUVlhFNkRDbTdfVGhjcEQ5Vll6TnplWUI0SWM1OUZRQWtPX3c4aFpWRVA1cWdPZks5Z0VSaS1HclVfMm5pNWF2bzBGb2dmNDY0NmZnTk9nRzYydmZPQ1dRUE5HVmZDR2t6VHBqX0Nia2kwRjBtRk1wc2ZQWjJpS2VhUVZXQU02R0hDSUtTY2FzeUJ4aGRvRkY5dFlLdmotUlZRZUtVSDRORVVRQ1h5TEtiRE5YYVJzT0c2ZXE5U1BobzA3ZXBZS2NPREtSV2FwbmFqbjFVWktMT1FhTWU0VnNGS1pFdmw4cWVnQjg4N3V3R2s5a3ZoNUNicWtOVHB4QlZQSUNveEJ4aFRsbzFYQW8wZXp6cWxJ?oc=5)；[www.881903.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE10TU15VGZfMVJqV0RNeENuX0hJbUx4UXNCRmFHOVpfcTljc1g1eUtvVkdYZVZRYzkzS1RmNGgtdllxZWdwdUlQSG1SZ1FKTGpCcjlpZ2pLdmM?oc=5)
-
 ## 【低】鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：鼠患丨食環署:精準打擊文化中心鼠穴 捕逾百隻老鼠（共 2 個來源報道）
@@ -155,20 +148,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSF9OdWxZU01nVTZfR3Y0X0U2OWVURG1lUkhNbWx6emxEVzBaekE3V2Q0V3NIblEyN05qeHhRZnRjTTMtcF9WQU1Nc0YyRjJyU214Y2pyQ0VUSURIOTFTRmwzMGdZSEFaeUkwVWxsRHFGcHYtanhj?oc=5)
-
-## 【低】食環持續「雷霆」滅鼠直搗鼠患黑點捕161隻活鼠收集119隻死鼠- 香港
-- 類別：鼠患；地區：未註明
-- 摘要：食環持續「雷霆」滅鼠直搗鼠患黑點捕161隻活鼠收集119隻死鼠- 香港
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE9SRFlfM2ttQzBqak9MX1RSN0Y1S1NZQXZDSzdHOUR0OUFDVTV0TTF4MXAxS2h2ZGhncDl4V0J5bE5NbDhNYTdTSzN5LVVGS25ueWdFWDJFWS1jX1ZjT3BQREx1QUh0b2R2Q3M2SVFQdzlET2FyVzAw?oc=5)
-
-## 【低】食環署持續打擊鼠患 針對核查全港逾千個位置捕獲161隻活鼠
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署持續打擊鼠患 針對核查全港逾千個位置捕獲161隻活鼠
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kUWZZOEl5dDExV1BQZ3lwSlVhZDZYS05KUVp1NnBPUlR3NjdZV291ckI2dXFkUHpZNVRUa2JPVUlCRXJ3OFFsdXk5Y05wN0t5Wi1CYW5OTlFQVXNxaXNvOXBEMWp0REsyZzFkUk80bw?oc=5)
 
 ## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
