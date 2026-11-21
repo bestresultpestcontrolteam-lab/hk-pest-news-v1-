@@ -216,7 +216,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -235,7 +235,7 @@
     ],
     "needs_resummary": false,
     "relevance": 9,
-    "topic": null,
+    "topic": "蚊患及病媒疾病",
     "categories": [
       "蚊患及病媒疾病"
     ],
@@ -246,7 +246,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:55:53.070552+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -279,7 +279,7 @@
     ],
     "needs_resummary": false,
     "relevance": 6,
-    "topic": null,
+    "topic": "蚊患及病媒疾病",
     "categories": [
       "蚊患及病媒疾病"
     ],
@@ -290,7 +290,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -524,7 +524,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -1360,7 +1360,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1765,7 +1765,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T06:33:00.168405+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -1861,7 +1861,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T22:55:53.070552+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2221,6 +2221,36 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-19T02:08:27.418371+00:00"
+  },
+  {
+    "id": "ba15812958b8",
+    "title": "富國島團中招！越南8日遊「2人染登革熱」 新北也爆本土個案",
+    "description": "",
+    "first_seen": "2026-11-09T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "富國島團中招！越南8日遊「2人染登革熱」 新北也爆本土個案",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOVYwYThLRW9neUl3QnkzSFdFMG02TDlTQkp5TmRpT0k3R3hya3RpWkFjYmowNVV3eUJaRnBTc09tYnBzMFdYNlhINVJfbDQ?oc=5",
+        "media": "TVBS新聞網",
+        "published": "2026-11-09T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蚊患及病媒疾病",
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱",
+    "summary": "富國島團中招！越南8日遊「2人染登革熱」 新北也爆本土個案",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "ce5ada3293ee",
@@ -2874,6 +2904,13 @@
         "media": "星島頭條",
         "published": "2026-11-04T08:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "屯門食肆驚現鼠蹤 食環署：即時檢控持牌人 要求商場加強滅鼠工作",
+        "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNZFFDQm93YVBSTzZzcXRRRXIwZ1cxbEtCWlF1bFZxVDBuWEVhRVZoN19NMUh6X3ZGRlpjRG9HU2dDUzg1RkNBUHU1RVRaNGduSi1JbVFQaVdVNUdBYTRpMDRmRFBWcEZsUl9BTEpMZ1ZEMGY1ZzJVdGI3RzVHaVZvR2tsck1GajhralVrdGVFcjd0MkdnRnlIaUVLWDEtdTZNZ1FYTUlJblpvVlZtQ1V2eVZsSGhXbzZDTWwwUnhobmZzSXFTTURjOFM2alVWZEpaQlVLME1kVXlfYmlXNGc3UzZ1a0VOZ1Bzcmh3RnUzT0piaWkxZlR1S2REWW9ydzBWbzdNQ1VuQlZSdkxOV1l0RGhlS2Y3ZE1NdDlYalMzTHltR1VaRkU1TXdxUjBaSk1UNXRIbXZ5bjJVRExvOFFNYjFyaTduRVZEbTdHVlZUNHdkY204VndhM205cjhPZ2o4cG00Ujk1dWU2V2ZSaHhhcVI3OHZheDA0UWd6TWpHbXpadWlYMGtFOWg2OTVjcGFpM0gwM3ltU1UzbFIzV01vMU9GRXZxVkVmSHJGTjdYRVZVUGNtdl92ZWdwd9IBjAFBVV95cUxQSGd1alNMRDZsbVJFMG8xVmZ3LVlJVVVQaVkzSmphN2w4WmRWQll1dS03dFZPLVFGM2NCbEgxQ2N4eURURHMyN1QzU0ZsUFV0WHRXelBNMXBKazRNelpKVUpWS19BMTlQTFN3WGVRYV9FQnJHTTFOdzJhUkRRYl9UM3JadE9taXhxMTVhdg?oc=5",
+        "media": "Sing Tao Daily 星島日報加拿大",
+        "published": "2026-11-04T08:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -2888,11 +2925,11 @@
     ],
     "priority": "高",
     "priority_reason": "檢控、商場、食肆",
-    "summary": "屯門食肆3鼠狂奔｜食環：即時檢控持牌人 要求商場店舖加強滅鼠（共 2 個來源報道）",
+    "summary": "屯門食肆3鼠狂奔｜食環：即時檢控持牌人 要求商場店舖加強滅鼠（共 3 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "b1e965bd99a8",
@@ -3466,7 +3503,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "0dd8d274892f",
@@ -3640,6 +3677,13 @@
         "media": "am730",
         "published": "2026-10-29T07:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "紅磡葵芳現鼠蹤｜食環查食肆調派「夜鼠隊」 必嘉坊兩月捕77老鼠",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNLTZ2T1F2WFBwbDk3MkNtOXRzMEJnRFJvX0JlN0JLMVVDeTN6RlZ4R2hiS0NCV0RNVG5uOVZkZ0h6eFhoekdmeDZCZVJNUUJnQXEzUENzZnV1emRPeGJaUEQ5Q0luTEp1UUVmblNDVnpZSXl0ZUVJQUk2ZjNwcUg0aldyRm1qenlwa1JwdlpEbWtkR3YxTzNsR3JoMU95Qm1CeXIyQ0swU04wa2xWVW1vZTRyUVlQek5rcE5KcVBPZHBqZGJpYk9OT09EMGkydXdKNUxxN0Z6ZEM4SlduM3FlbVhZTTRSc0VWVXdrQjQwNXh3aUZoQWtpUEo1SWZrOFR0M09ldTF2c3FSSE9lVFVzNG53VGpacnY5dzAySHl2VFlpLVQ2YWZlNHpOYnhJNnJMNWx1WkhOTDFEUVdPempBYlR3SWZfVzFOVFd1eGxrSUJEYmk0S3BqdG5QQ25YdFlVMUt2T2NEZTFtT0Q0TGJwbFZiT2NzclVCb1dOME5LVno4cWdNWTE0RURETTBVemFI?oc=5",
+        "media": "香港01",
+        "published": "2026-10-28T07:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -3654,11 +3698,11 @@
     ],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠",
+    "summary": "紅磡必嘉坊現鼠蹤 食環署兩月捕77隻老鼠（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-18T22:44:25.670546+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "4bcb74a806a5",
@@ -3755,7 +3799,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4028,6 +4072,13 @@
         "media": "星島頭條",
         "published": "2026-10-27T07:00:00+00:00",
         "tier": "media"
+      },
+      {
+        "title": "大隴街鼠患｜食環署兩月捕近60隻活鼠 加派「夜鼠隊」加強滅鼠",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQSEpNUnpMOWRlcTRjV3dwOW02S2k3VGF6M1luZzVpaXNiMUlxdGJLRGd3N3lTY2VoX3VKeEFPbUZqamY3d2h6MG5yeU9WcU5NckswUmZERy10bGhMNkxYVnBHbWJPaXEzNkRfbTVLRXdnSWF2S1NKWC1feE9qejFtN3hRVGFJbUphZDYtTHFBaEdaRkkzSjQ1RlZ4dEFzbUVPM3dhcHF4ZWxZQUYxTkdoS0tnLXFfQmdreS0tZEduSm5qMXFKNmxBcF9tMnhiNDhLOEFtNVBiRUU4Q3pDLV9hTkFKeDhKTXdsVDBadWdyQ1M4NXhwRFZZV1JZcGpINFJ4R0c3Y0szVm80UUMyeWQ3T2swUnZLcU41dzFVbWlyWi05cHdlMVRkVDRWVmNKSG5LREZBMFhnNGRFUVBTVm82QVh5NEUxWktYaWF2bkJIcExNQVMzeFI0TlpuREE5cVVRb0JqbUR1NHdYSThMb3VWR2dsSXM0ZElwbW05YUFJQUhXWVV2dWItRW5fLTA2Si1pNVFkd25VUTdOY1Awcjk1dDJMZlbSAYwBQVVfeXFMT09Ib3dOcjFxMjdLRU9XUzlHR21GcXhpRlBvNzU0OHlENkpmQlZZOEgwVlZrM2V4Y0hQLVRMandrSVNZLTBucTBGMlJTQmpobW1mYUxMbFRSQnc1clRfOUpaTDRoSXBWNHpyU3lOVTl3MkFMaXZ3U1lzZ09MSFFPN3dYQ3dYV0t4UWFLRl8?oc=5",
+        "media": "Sing Tao Daily 星島日報加拿大",
+        "published": "2026-10-26T07:00:00+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -4040,11 +4091,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "大隴街鼠患｜食環署兩月捕近60隻活鼠 加派「夜鼠隊」加強滅鼠",
+    "summary": "大隴街鼠患｜食環署兩月捕近60隻活鼠 加派「夜鼠隊」加強滅鼠（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-17T08:17:20.268577+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "7d24ecb9864f",
@@ -4692,7 +4743,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T01:21:25.967020+00:00"
+    "updated": "2026-11-21T05:03:39.240464+00:00"
   },
   {
     "id": "76e16c9cce43",
