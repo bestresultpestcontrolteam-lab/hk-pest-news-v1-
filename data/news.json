@@ -1,7 +1,32 @@
 {
-  "generated": "2026-11-21T16:55:14.353056+00:00",
-  "count": 147,
+  "generated": "2026-11-21T18:56:40.910537+00:00",
+  "count": 148,
   "items": [
+    {
+      "id": "143f769289d5",
+      "title": "土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片",
+      "summary": "土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "高",
+      "priority_reason": "食肆",
+      "districts": [
+        "九龍城"
+      ],
+      "first_seen": "2026-11-21T18:53:05+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQc1lkN0xWcEpMYjIxRVdNQ3A5cEN1TXNic2ZpWkJCRFhlU202ZmNLWE1CRXBoMGtTTG41SEpMOWlGLU03dmxSZWZTaVVQNy0xbmVLV2gzS3NoZjFrTmNJOHpGX3prUF81QWJjYkVIS2xZWjBXenVGRE1RMzgzLXBfVzZKTHcwSUFQbnFrOFplTGJyUi1BMS12RlVkR1paVEFSdk5BcjZLYVlHQXd1YzdsSG9uVmdWZ3Z6aWpmQTZEenVuQTdxMnpnZVpvWmZGbVNIc3d0TFRDOTJSOFJJQzB3b2xHTm5lM1lHSlJIcjJQbWRGS2F1QnhyQVRUTDBOMHZWYng2S3BIUF8yaTdrY2g3bWFmSWlVeHNuS3dCajdLenpkYkNtSzVYUWJqSm40c0ZEX3pOS290a2p3WmFrdHhjQkxQWTc0YWhQNElpTUJ4cFJmMHNNb2l4NmxhcGZIRXY0RTB6ZXZrblczakdnVk1tWkc2b0I2NHI2QkJvYlQtczQzNmRiYTFUeGx2aHFPWThQdUpLU2txVm9NcmZkcUNGc3NUalB2dw?oc=5",
+          "media": "香港01",
+          "published": "2026-11-21T18:53:05+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "6e19239669ce",
       "title": "食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港",
