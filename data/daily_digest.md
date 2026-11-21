@@ -16,6 +16,13 @@
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5)；[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5)
 
+## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 3 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWmhIZTBLTUtTRUJOQTlIMUJQUW9Wa2JhNmFTNExid3JIeTJlUHhQcU5YOEFBMkJQQW9IeVRaVzRuaFFKU2huV3JwampzZjhVSVlCbUlGZE13eUdpWFlveXg2VVFoOWctcUxCd0dhek5uN3c?oc=5)
+
 ## 【高】屯門食肆3鼠狂奔｜食環：即時檢控持牌人 要求商場店舖加強滅鼠
 - 類別：鼠患、政府政策及執法；地區：屯門
 - 摘要：屯門食肆3鼠狂奔｜食環：即時檢控持牌人 要求商場店舖加強滅鼠（共 3 個來源報道）
@@ -29,13 +36,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxNMkswcmQyN1N0R1BhZUN3SEEwSHMtVXVRMDk0b0tQZE1Dcm1OQ3ltS01TUkJISm9jaWQxUlFEZWUySUpjS0daeU12dmpCRjlLUGNLSHZvY2xHTW1id0lfUFVzbDJnWTFYaUN0aGUzSkJMOVZCTmNxTGFYZER0U2dyczdkSUU0WlowSTJkT2tWOHpiUWhpT29iVEd1eXF5R2x4MFJKTW5tVzVXQXZKVGlfX0lMZkJhMDFkemhIaTZYbHJNbzBTRmVUNklEcl9BaTBuaWI3UllZYmlTLVJLUWNLdnYxZm5kcS1GQjZINlZVMWhyZklOSXpydzk1c1BNWmhwTzRySVRnMFFHaVFOZ0g4YmNyaUJESmY1ZlB2UllhQ281OEt4THVJM3BOU20yUnFCZGVoU09uT1FveDFqSm9Rd254TEU4VXZudTF5NEhLMnBESEcwUmpZXzRJZlJWZlAtUmVCZWdVMzVST0VfQXZDMXpWLW1QWDJXWmFvQzhsajVqcUd4M0sxWUZ5SWxIVUZIUzhYaHEzVElqUXVBbTRRNUlRc0lmM0x5c21FVGZwTnQ1M2d4SUVNbUJlbEpldw?oc=5)；[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxNejk3WGVManFjRnNFNFhTYmVwMHc0VTlIbk9BaFFHcmUzWnd6X2d5N0x5d1I1eGdlbjdQbjlkWl9BWUJiNXowYkwwZFlGZWVrM2tkZ0JFMkxyRTRpbDVnc3dtaVBCTm9UNkZqLUpfWTdxcjJyM1JBV3RXSEZSOE5TLTQ4OGpnNW9tQUVnNWpDa3pwUnNHVlVjMzRjUzVIN2tqMW9FTjJNdWVWalJxSWNTc2VNVkwzQWhMTDhtTmIwS093R0dyS2pibl9pRTZFbDE0Um5WODd5QThnSE5UTW9sdzVCckNveTBhWGtISzJXV3R6N2hTbnZucmVvX191c2tFd1poNWpfQmthc1pTcXZTUUt1R0JjazlzQ2pXaUVwWDZTcnBJRl9UUU9XeWJQZ2plTEtrMG9uMzN1ejVIVDBiazNZSWNMbG9lSVNDQU1Uc080SFRFaUhZN1NBMFFDWHdXNVN3QmxLcDdKT3dwNVdLME9yV1JRM0dXRFNxeEVCbVJjR285cmg2RFlFSlBkTU1ueUdsNUs5d3cyeHJmUU9ydjlWZUxBUmVRV1p5VDlMZXpqa3BELUJadnZZS0owZw?oc=5)
-
-## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
-- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)
 
 ## 【高】鼠患丨食環署9月底至今累計提出196宗檢控
 - 類別：鼠患、政府政策及執法；地區：未註明
@@ -170,13 +170,6 @@
 - 狀態：已發布
 - 來源：[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1kUWZZOEl5dDExV1BQZ3lwSlVhZDZYS05KUVp1NnBPUlR3NjdZV291ckI2dXFkUHpZNVRUa2JPVUlCRXJ3OFFsdXk5Y05wN0t5Wi1CYW5OTlFQVXNxaXNvOXBEMWp0REsyZzFkUk80bw?oc=5)
 
-## 【低】將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
-- 類別：蟑螂及室內害蟲；地區：西貢
-- 摘要：將軍澳快餐店西多士疑現曱甴 港男拍片報食環 網民驚呼：咁生猛
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMivgNBVV95cUxOTHF2Tl9ZcTNNZzlwUE9JVkdRM1RVbng0djlRX3Q1NTJQQzdFQU8xc0o1eTRFaFNTSHpsSTF0TjVXd0M5bFRuWkh4WDBwaEFGWVdPQW8yZEF0akFJNmUyT29JRWZkRnRFeURZWllMZnBlMW5jRmpUYllaMTNHbl9fWlZfcEJ4emMzajQ2UXpXOEpncnlMR1hQQXRET2NyY2k5Q0twNF93aUdGcS1UUERuejcwcG53WlVKWWc2ckQ2RTZCWHh4cklVbFM3US05TzFEM1NYaDR1djhXOXQyR0dMSDhud08zcFdTNEtjSUpjYUo0SHFoTXVKekhUcl9KWk1xWnNnSFl5YVFWS0JGZUVVbXEySGZXZ0gxN1FqMHRVSWlxNW1iM09UamVENEV0SUVSR0d2RTdmcE1aYkd5bENfZ2lGZWwxcjlRTlpqcmpKZ2dPSHZmZS1WY1V2cll3dDFOdUFuUUJ0Rk9KakxuTGdkendacmppREk5cE9NNHJIY29MUlQ0WEpDSHZXNXhxYTU0blBrTGtEWnJBNENtMC0za003SkhhQmZXNEVtZXAyZWNkTkxIVjlSZkVWNm80QQ?oc=5)
-
 ## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
@@ -225,6 +218,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNkdFYUtoX0d1NTdEc2VtdGFLbEtVMDNWdUxUbFNqTHhBbzZ3dzFkeDBOazVublpjMGI1SVNGRXZKNXp1Z0UtRWpjNV9kN3FTSXlPMkQ5ZndCZ2o1d1h3bEN1SjdBbWY4VEhvZ2REVEp2OXZUOHJz?oc=5)
+
+## 【低】紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
+- 類別：鼠患；地區：九龍城
+- 摘要：紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[TVB](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWFNqZE5RcFUtaEkwMWdvMmIzRWROdGFrV2lER2tpLUp4TUhud0RmZHFaYk9YV0NGSHRyMTJSUW1fcHlUVmhOc3oxYUZ3bUF4MXdXLWFuQjdnLXFKeXMxci02R0VrVk5Md2JERXF6bWkxd1R0TUVSaE1NSUd4dUM1ekxEcmNsREFkYzlhdmhwOUx0SGVGOFhhZFR4bDRWN1VjUFY5REJsN0kwSEdkVmlzbUszZ0psa1VaVEREQnRwejBkSlMySVdqWFgxNG5UMVBSUzhRZDhkSlBlNmhXcFlwbUR5Rmp3Y2ZmM3ZRME5UTEJuSVh6Um1WNGVBTkhqSWM1SzhxZ245MUQwZVBNMDdsUUFHWXJiNnVET2RJeDlOS2FKTUNpbHNuOU1ac2hwa0ttbl8wa3hVQTRMS05rbU1DRXV1czZJeWhVaHltVmM5QU1kVHhxaFpKRXVSUGVid0psN0g4a1JVQ2FlWVg0cXZBRU5CRQ?oc=5)
 
 ## 【低】直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀
 - 類別：鼠患；地區：深水埗
