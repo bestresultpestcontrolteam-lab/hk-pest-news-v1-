@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-21）
 
-過去24小時共 34 個事件；高關注 12 個。
+過去24小時共 35 個事件；高關注 12 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患 （附圖）
 - 類別：鼠患、政府政策及執法；地區：油尖旺、九龍城、元朗
@@ -190,6 +190,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[東方日報](https://news.google.com/rss/articles/CBMiugNBVV95cUxOUW9FNnZXbjdkaGd3UXlzdk41dk8waVB6Rk1WSjBEdEVXY1FCZURoclZXX1FIbjZlWGwzYXhOUXNUd2ZZMkU4U3Fib0RKbzdGa3VsVFlpZmdfX2JBWkZ2ZC0zTlk4UHluaW81TWFiZlo0Y21lYUI0RzhZWHZDdDBHTzd5dTlxWjJRMWoxSEVyMWRUUjNidktUVGp6bHIwYVBaR2dfSm50S2pGUjVMRVlJenNlTlp6clN4OVhXSUxGd3ZIa014MlJMUlJBaGpEQlMxc2NBZ0R3QTQ3YXhuX3BacWlWQmY0UkdCaERyRkhMQ2lLSGg5Sno1Q1VFcWhYUElGVGNrUVhqVEpzSlg5enNxSTRWdG1PSWliOXdJbDJ6LWJpNl9nblF5UE1aN3hEaVFvRUV5UFgzcC1fenIyTFp6alp4VE9OSS05MTBtT2xoVlJRZ0tjR0sxVFhrQl9aZFBsSzNrY3lxeG5ydmRIaXVYeEw0V3lhNTRWWVRSNVM5WXczYnZiRlVMOHdrUS1saVQ3b3pETzlocDl1eDUyeVM3RURHWUVEdVNWNWZyeHNfNkRRXzdLWHNyckxR?oc=5)
+
+## 【低】有片｜觀塘工廈外垃圾桶變「鼠竇」 逾10隻出動覓食 捕鼠籠擒獲一鼠
+- 類別：鼠患、技術及藥劑；地區：觀塘
+- 摘要：有片｜觀塘工廈外垃圾桶變「鼠竇」 逾10隻出動覓食 捕鼠籠擒獲一鼠
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMimwNBVV95cUxOY3NiUzlEcURrT0pVSDE3blVvU082QkpocnV1QzU5WXIwbHB0R2hnU2h5MDVrV2hHVllvTmRRc1BOV01NODA1SUpfQ3BpOVp6c2dNeE1jU3NZY1c1bTFzWXdTLWYtS0FUZlM3UUVSdm9GRWFOT193SEV1Z1VHY3IxT052dy1EdWJWMjgyLXF1NGhkcG5PWEl2OFVTdVdmZWF2NTJyZ2FvZmVtWjZoMUhiN1ZKZmNyMEoxZ05saTluSmdHaDhpeUo1QkZSbXlCQ3Q5ZnpVNEwyU1Jkb29xX3dSUUJEenQtTlJmRlF2cHo1UFI4Nk0ycHRXV1NIZ2hSaGJhd1VQNEpIMG9mczFDNjBUeUpvdGtNTXYxSUtfeEdOZDhaNHZWcmZHM1FqelFJZkJMUVNxOER6Ulg2Y3VRTm9ZcWVDc01zaTVpNVBudUpGbUVsdVhIakM1UFh0aDNPbTBuazd6M0pTWjNuUjFqSkQzNHVFZjVHLWVBT2hGUWRkNVA4TndHLTl6dVN2V25acldONWVtbmtnNkhZdG8?oc=5)
 
 ## 【低】八分鐘本地新聞重點｜宏福苑報告公開／李家超：大火問題開端在圍標／滅鼠工作
 - 類別：鼠患；地區：未註明
