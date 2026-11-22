@@ -1,5 +1,45 @@
 [
   {
+    "id": "21dc60e88bcf",
+    "title": "土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控",
+    "description": "",
+    "first_seen": "2026-11-22T13:30:50+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNVJUd2lKb0xNTENjTkFQQTh2QlZ1SFIyVlJjWDhESmdSUzRLZncwMGJHQzNRa29ZLUQyNVRTUFUyblpJNm9oaUN2SGM4ZlpBT2JTTG1GNEdOZUVldDI5RXh5NV9XUDVhVUhRbnJaNW9LT2RybkJhbnB0RUtXT25RV01nRWN6TnNJRXcxbVJBZ09zY2pTU05vUjlPUExzM3pXOTBVUTE4SEprVHJpaWwxdkJsTlZHanhCRUloWWIxbmVDcXE4cmNSdVlPMk1sMlFjUndRYXdlUl80NUotSzZmYmF2ZldLYURQT1hkYW9PQVJzemtBOW5CN0xDNm4xbFRoVEl1QThabTgxQVNZU0JXYzk5OXotOExYNDNuR3pVNjlKUGNadHlvTU4yenlVUFluUnVGb3dOdlBzeVNtSGNqaGppaDF5QldLdDNNZmVOYzJRMTNWbU4zcE9raUZkSVRnQ1hiZFdlZ1NXWUtORVlubWRySGcwTWNsLTUxZTJlUDFMbW5ld012ZHFhLTZZZ29BUjlhb0JZeEVNS1RSWlU4SzF1UFRDZw?oc=5",
+        "media": "香港01",
+        "published": "2026-11-22T13:30:50+00:00",
+        "tier": "media"
+      },
+      {
+        "title": "土瓜灣連鎖快餐店現兩老鼠「共舞」 食環：已向負責人提檢控(有片)",
+        "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbTVrbUdLMENHdDNPYjhhMjdlSmtaSVNPNTNEaWNHUXVISUttazNGQ0pCVTlNLWluLXB1bHJBOGdhS1Q4QU45MFBpd0pvbWRub0s5U2JibE5PQ2x1bkE3VmJrU3FVaEZkX0FxQUEtYnFreFNVcGJQMkhpdkFLeHMzM0lmNG5SNmtxbW0zNFVWX3BZNGd0Mzc3aUxRd0hqN19oUWJlRmJ0bHFIZlRSZTlXd0NJYjNFMGZCVzJERjRyY1ZEVVMxdm5aQ3VSNktnTnBUbVF4N2dpYTV3a3ZaTk5vOEMwTnZnNGN5eF8tUWlYZGFBZmd1QWppemZIVktHTEJzU2FwdVpzT2pYY1Jzd0t2XzVnQURfR2tKU0VTbEY5Y19EQXk2dEdvNVBTOVV4QnVsUG5ja29WZlRlT3F4UkstbE1OQVBWWXZ3TmJabkthQk44dVg5d3N5ZEl0OGh2TW9SMTBzeGl1VDdaQmplUl9zOThnMnFzekFEYTA3MURhZmZnNlJQVXN0RnltVnAxaXlaTjJMWlVKb3h0TXdvX3dzMw?oc=5",
+        "media": "AM730",
+        "published": "2026-11-22T14:20:30+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [
+      "九龍城"
+    ],
+    "priority": "高",
+    "priority_reason": "檢控",
+    "summary": "土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控（共 2 個來源報道）",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T14:56:27.891785+00:00"
+  },
+  {
     "id": "679bc249f0b9",
     "title": "天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌",
     "description": "",
@@ -384,7 +424,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -428,7 +468,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -1512,7 +1552,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1917,7 +1957,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2013,7 +2053,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2610,7 +2650,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "15f79c166547",
@@ -2863,7 +2903,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -4011,7 +4051,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T13:03:33.555270+00:00"
+    "updated": "2026-11-22T14:56:27.891785+00:00"
   },
   {
     "id": "2c7c41581a2c",
