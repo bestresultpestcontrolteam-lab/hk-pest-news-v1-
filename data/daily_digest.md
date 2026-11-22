@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-22）
 
-過去24小時共 27 個事件；高關注 13 個。
+過去24小時共 25 個事件；高關注 12 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患 （附圖）
 - 類別：鼠患、政府政策及執法；地區：油尖旺、九龍城、元朗
@@ -86,13 +86,6 @@
 - 狀態：已發布
 - 來源：[TVBS新聞網](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOVYwYThLRW9neUl3QnkzSFdFMG02TDlTQkp5TmRpT0k3R3hya3RpWkFjYmowNVV3eUJaRnBTc09tYnBzMFdYNlhINVJfbDQ?oc=5)
 
-## 【高】有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食
-- 類別：鼠患；地區：屯門
-- 摘要：有片〡屯門食肆驚見老鼠天花橫行 嚇煞食客：以後都唔敢食
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFAzeUprVUNjMkt6UGZYQ3pQUnJZeDNxZHM2RmxrbTZvRVp0dVVqZmIycTdQeEdHSVI1Z1JBSUJ5RDZ2V1VFYzJjazRoenpZbFdWeWdnQXZ2dHRoRkRtb0lhY3dqcEp2QXBIRVR4SXdaNG4?oc=5)
-
 ## 【中】葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒
 - 類別：鼠患、技術及藥劑、政府政策及執法；地區：葵青
 - 摘要：葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒
@@ -149,6 +142,13 @@
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMimwNBVV95cUxOY3NiUzlEcURrT0pVSDE3blVvU082QkpocnV1QzU5WXIwbHB0R2hnU2h5MDVrV2hHVllvTmRRc1BOV01NODA1SUpfQ3BpOVp6c2dNeE1jU3NZY1c1bTFzWXdTLWYtS0FUZlM3UUVSdm9GRWFOT193SEV1Z1VHY3IxT052dy1EdWJWMjgyLXF1NGhkcG5PWEl2OFVTdVdmZWF2NTJyZ2FvZmVtWjZoMUhiN1ZKZmNyMEoxZ05saTluSmdHaDhpeUo1QkZSbXlCQ3Q5ZnpVNEwyU1Jkb29xX3dSUUJEenQtTlJmRlF2cHo1UFI4Nk0ycHRXV1NIZ2hSaGJhd1VQNEpIMG9mczFDNjBUeUpvdGtNTXYxSUtfeEdOZDhaNHZWcmZHM1FqelFJZkJMUVNxOER6Ulg2Y3VRTm9ZcWVDc01zaTVpNVBudUpGbUVsdVhIakM1UFh0aDNPbTBuazd6M0pTWjNuUjFqSkQzNHVFZjVHLWVBT2hGUWRkNVA4TndHLTl6dVN2V25acldONWVtbmtnNkhZdG8?oc=5)
 
+## 【低】醫學新發現 研究：持續吃果糖吃4星期 老鼠記憶中樞結構有變
+- 類別：鼠患；地區：未註明
+- 摘要：醫學新發現 研究：持續吃果糖吃4星期 老鼠記憶中樞結構有變
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[AM730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZkpvN01tWWtoM2lWUTB4RVhQeXRLdFNyR0EyOWd5YjYwN0NLdWdxOHpVQjFhemo2Vnc0QndNZDRNUktQUXotdmhrZVFIeml3Ync?oc=5)
+
 ## 【低】八分鐘本地新聞重點｜宏福苑報告公開／李家超：大火問題開端在圍標／滅鼠工作
 - 類別：鼠患；地區：未註明
 - 摘要：八分鐘本地新聞重點｜宏福苑報告公開／李家超：大火問題開端在圍標／滅鼠工作
@@ -176,17 +176,3 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWFNqZE5RcFUtaEkwMWdvMmIzRWROdGFrV2lER2tpLUp4TUhud0RmZHFaYk9YV0NGSHRyMTJSUW1fcHlUVmhOc3oxYUZ3bUF4MXdXLWFuQjdnLXFKeXMxci02R0VrVk5Md2JERXF6bWkxd1R0TUVSaE1NSUd4dUM1ekxEcmNsREFkYzlhdmhwOUx0SGVGOFhhZFR4bDRWN1VjUFY5REJsN0kwSEdkVmlzbUszZ0psa1VaVEREQnRwejBkSlMySVdqWFgxNG5UMVBSUzhRZDhkSlBlNmhXcFlwbUR5Rmp3Y2ZmM3ZRME5UTEJuSVh6Um1WNGVBTkhqSWM1SzhxZ245MUQwZVBNMDdsUUFHWXJiNnVET2RJeDlOS2FKTUNpbHNuOU1ac2hwa0ttbl8wa3hVQTRMS05rbU1DRXV1czZJeWhVaHltVmM5QU1kVHhxaFpKRXVSUGVid0psN0g4a1JVQ2FlWVg0cXZBRU5CRQ?oc=5)
-
-## 【低】直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀
-- 類別：鼠患；地區：深水埗
-- 摘要：直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxNc1ZNdnZtS3E2bXcyaUlZeFhLdlZiUWRvODZnSGtHVUU2T05kR2FBNG0wS0dDU1NtWWk5ZGUyaDYwSHoxUlpCcmh1YnRLMkt4SFdiQkdYVzlIYlk1ZjVCSmJYaC1BdUs2ZC1SVmQyWktxSEx1MHd3UHZHOTlCQlZQaW5ScHB4c3lzajlSTDR3YWJVNWQxVnlReW5jQWlwbUxLWkhfV0RpVEVYUWZTc3RtcUhTbmRhbmhXYmcyUmpJNnhjWXNULS1jWGRGQnFHQ29mbW1QUndOc1dONVJVTW1EdUZ6N3BTTVdDTkxUbGdGR3dMMXQ4TW51alZjcXpsSlJaMVNnZzBJQTZFY2ZWNHhtbnFrcVpKRDNKU1J6TlBsVl9Rc3NDZl9fSXBEX3FvTnowQ1Joa1JYRVFBZGtpaE9TblhYRndpRjh4Q0YzTS1tWGlON2J2YlNUdVpGdUxxemQtWjBjM2FXZkJLSTh4dnVrS1JkVEltM1dDOWdodjlpWkRiMjFvVkJZUTNwMmlPaGFWeGQ3R1NDV0F1YklK?oc=5)
-
-## 【低】有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀
-- 類別：鼠患；地區：深水埗
-- 摘要：有片〡貓義工石硤尾揭毒貓 警拘34歲男檢老鼠藥生果刀
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE44Vko1Tm9Fa0dmQmFzQW1KUjFnZkFEeXp2dlJNTnp3cFNZemlVNHhoYzRBa2lSR3FuTVpYV1U3MlpBbzhvUmlOVU1faHg3QVJTeTF2QWZHZ2VGM0dBYnNQQV8xTXlNUlZPQW8zNmwycTJ2TEdHa09hZVQ2MA?oc=5)

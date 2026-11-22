@@ -354,7 +354,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -398,7 +398,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -639,7 +639,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -1475,7 +1475,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1880,7 +1880,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2573,7 +2573,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "15f79c166547",
@@ -3493,6 +3493,36 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "40191c3a6974",
+    "title": "醫學新發現 研究：持續吃果糖吃4星期 老鼠記憶中樞結構有變",
+    "description": "",
+    "first_seen": "2026-10-30T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "醫學新發現 研究：持續吃果糖吃4星期 老鼠記憶中樞結構有變",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kZkpvN01tWWtoM2lWUTB4RVhQeXRLdFNyR0EyOWd5YjYwN0NLdWdxOHpVQjFhemo2Vnc0QndNZDRNUktQUXotdmhrZVFIeml3Ync?oc=5",
+        "media": "AM730",
+        "published": "2026-10-30T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "醫學新發現 研究：持續吃果糖吃4星期 老鼠記憶中樞結構有變",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T01:17:29.312354+00:00"
+  },
+  {
     "id": "67539ca26fae",
     "title": "東方日報A1：落地窗內客人晚餐 大群老鼠外圍陪歎",
     "description": "",
@@ -3914,7 +3944,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T22:50:17.812827+00:00"
+    "updated": "2026-11-22T01:17:29.312354+00:00"
   },
   {
     "id": "2c7c41581a2c",
