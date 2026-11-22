@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-22）
 
-過去24小時共 22 個事件；高關注 9 個。
+過去24小時共 21 個事件；高關注 8 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -8,13 +8,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5)；[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5)
-
-## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
-- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
-- 摘要：衞生署衞生防護中心（中心）今日（十一月二十日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一月…（共 3 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/20/P2026112000622.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5GQjBWdHNhUklyUUZ5Qmk3SUdMNy0yMTY3LUg4T2FCV3lRQVZ0aHlkNTNVR2I4OExQOUsxcFhpRDNQQ2ZReUtzQTA5WV9EeERpT205RGpCQlhCSExUS0ZfX055Q2VwZkFFZnVqQnFYRmpKdw?oc=5)；[www.info.gov.hk](https://news.google.com/rss/articles/CBMic0FVX3lxTE9PWmhIZTBLTUtTRUJOQTlIMUJQUW9Wa2JhNmFTNExid3JIeTJlUHhQcU5YOEFBMkJQQW9IeVRaVzRuaFFKU2huV3JwampzZjhVSVlCbUlGZE13eUdpWFlveXg2VVFoOWctcUxCd0dhek5uN3c?oc=5)
 
 ## 【高】土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片
 - 類別：鼠患；地區：九龍城
