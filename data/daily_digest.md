@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-22）
 
-過去24小時共 21 個事件；高關注 9 個。
+過去24小時共 22 個事件；高關注 9 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -85,6 +85,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[信報網站](https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMWN1bC1JU3pWRTRFSGxNSjlFOXVNZVBIZThBaFN6LTRlMkFKM3BjY1BoR2N2V0tmaVZtYlRGM2JhempZa2lkRlRYaDdKYUI4WWpoTHBWSVZ0ZXFuVmlLeFJGeFZzaG4tdXZsVXhGT05yem5XVUtEY3oxY0FxbVh2UHJDakUwWHVlb0NrdVE2QTVOdzB3MWUyYlJkN1BzMGdiSF9fNmd1akN1ZldzOXBxNGh3QTItYXJXWHcyWXg3OFBWeTZYcW5qWm0xTDlGSWw5X25kODhKU0FxY2gzQ3FWRy1heFBySldyUG5VZTVCMi1tU25wTFQ4a1RScFV1SDFVQlpGZ1lOWkZBczRBRThzQ0RfNnJ3eGw5Rk80dzdBM1A3ak5IcWc5dGxQbkwtbVJJVmFVOW5ZMUxfY2I3aHBzRFFzTDVHTnFRQ2ZSZFoyLWNsMngwTm9IbnFobWZ2VG9hZGlqbkpKcXBMWHB2?oc=5)；[香港01](https://news.google.com/rss/articles/CBMitANBVV95cUxPRWlYTEM5TUJDM1dMR3hDb2J4Z2lLQU4zWURmRUJ4UFY5QVRETF95elY0QUZrRmIyQ2tDbTM3V2JXWTdrVllGQjk4TlRXQl81d0ZhMTFoQzZnUUp5SDQ2RVJqOVJ5Zm5ZaHFXS2pUdVEyMEhPSlp6RXVncEVpSk44WVpKUktMMkU1RW9UbU1INzNOcjBqZm1lODRUaEl4VU82T2s0ZkVTdFY1cTcwTFozU0Rsekg4amE3bmsxbHQwN3AxQkVaOG9NMzNYSjlZNDFfcGY5SEpydjF4MVZlQUFaaDhvR0oxZEFubzA4SmhidTVCbzJoNUpYOXQ2RGp5bjdYd3MzQUZVNkRLdzJfSmszMnRWR0JwSEZrd2RSSm9yN2V0RGtuTWFNQ3NoSXVBbWVHdnVfLWZwV2N2MllYckg0aW85R1lGNl94YnZERGx5Sk1jYlk0cFJKZ2ZMaEVkbFk1X2FZMHdDRVY3VFBzSDJCUHhRdHlKRHpOTmxfNEZsOUVtUE1nLWx2MnE2Vk5OR1RyN0NLMTkxT3lhRVpkckF5V2R6a0JiZXFBX3pRTFhYWTIyNFIt?oc=5)
+
+## 【低】天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：天氣轉冷曱甴躲入屋？小雪防蟲3大原則「防螂水」封鎖入屋路- 健康快活誌
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUTVfODByeUVpamdUQ3JVMF9uakk4dVRHTzAwWlNxWGdaRHE2d3IwMDhhRC1xNVVvSDJXdzFXLWU5VHJibFF0UklsSFlRUUdXbjNvMkg2RXNDb2dZb3gtOS1jeTRvQzF4UTQ5Tl9wSjhMeVFqbjcw?oc=5)
 
 ## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
