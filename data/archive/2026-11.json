@@ -667,5 +667,431 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "b53826b6e61c",
+    "title": "康文署大隴街公園斜坡鼠患食環署應要求派員視察提供意見- 香港",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "康文署大隴街公園斜坡鼠患食環署應要求派員視察提供意見- 香港",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVlRGOVZaTU9pUFYxM241OGI0SDBreTRqQW4tMFRKU2pzZUFlY0dCMTRZQmsxMV9XUWJGb0E1Qll1eHBYeHhOaTBLdlpnNENUd2VKMWx1N0JSRDRvdC1EMlE2c1VvdkFFWFlOUnlOOVR6eFhUbWNn?oc=5",
+        "media": "香港文匯報",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "康文署大隴街公園斜坡鼠患食環署應要求派員視察提供意見- 香港",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "8c6cef62bda8",
+    "title": "葵涌大隴街鼠患｜食環今年接3鼠蹤投訴 跨部門視察放鼠餌捕鼠器",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街鼠患｜食環今年接3鼠蹤投訴 跨部門視察放鼠餌捕鼠器",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOY1VRR2lIVkN1eHplVjJESHZRaklMYzFsTUt5RzFTbDFEVTJZb0VjRUk0Qmx0UzEzeFpVbXFLRG5RRFh6YUpkOGs4cG1NbkI1UFY5d0pfQzdGb25iUFZPN3VobDN4NmdHUWpqenNueGxIZ3NKZ3lWa2ZVWEEzWEd0YWQ0VFNkd25vR2hVdC1GcnMyTUVYT3l0OUFRX2JpRkVLX3U5eGZ6WGRFbVJwWVREb29pMGx6LWdHd2RPZ2doRGdNM3FjVWtHd25nZ0dEX2NjdldEQXVhOVVHNEFwMW0tUzJMN2d6MTVjZ1FlT2l6N3ZscTZwdUNGZUEydlBQVzN2Q2lFMmhGNDdVcTNfVWZqTUVfN3YtSS1tc2QxczVjWmlGMUpORkh4YXhRX3lsc1ZKMVE3WlJQU0xZbW13N3QyQUk4MXZzZjRfSkRpNmFJYmw0Yl9MYUV6a0J6LWdxRnlZNWdkNXpkRzRncjI3cGUtQkJZY0RQUXlDVXhVZ0lNQ2ZGeGo2NnZVSkdoXzg0RVNmdE1CVGFsV0V4cUhOZ0hqRzB2NmxlZw?oc=5",
+        "media": "香港01",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 6,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患",
+      "技術及藥劑"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "中",
+    "priority_reason": "投訴",
+    "summary": "葵涌大隴街鼠患｜食環今年接3鼠蹤投訴 跨部門視察放鼠餌捕鼠器",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "c2abb07417e3",
+    "title": "葵涌大隴街鼠患｜影片直擊群鼠亂竄吱吱叫 街坊倡鋪設石屎塞鼠洞",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街鼠患｜影片直擊群鼠亂竄吱吱叫 街坊倡鋪設石屎塞鼠洞",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQMTQyUHF4dGFLWEhMWllROUNSNkNSZDZRZ0tQWkQxelktd2hwSGE4Z2lXZHktMXRYVFZTQUhJZ05kczdWYnI5dVBzNjg0TFIybmhhTkprQzYyWEw1dmV3WGxWMllyc2F4Z0VrWndDaWV0TWNyQ0szeGZDSjdzZmdiSXpvVmtod19JalV2aUJVSGFtSkUzOGhuMEh2VjNoejdTQUxEX3NTcUJjOEFwdU5JRkVSS1FtOS00bUtMeE1xZWFCSnk1RWFET0Q4YTNRQ044N0M4MnJjWkVkck1hOTlZUjVOX0dlaXU2YTZoNVhNN280dU5zeF83NmcwbllvMld1dlk2WlhlYV9xQlVneFctaXpaUG4tN2lNUG5PQ25TZXppbnB4aWYwb3ZHdVo1NFNoVWFMaUx1M2NibmFLS0F5S1dzby1MOEFhTGhZbzEzU0p0ZmJjY1p2OWk3SlpqX005cW13MmdTSWFhUkFYMlJBX3Zybk9wV0JyRDJoUGxBc1BYUHNzUjltanJSX3Jmb2s3anI2NjFwdThTUFowU1llV2xHUHI5dDBubEgtWVRZRFQ?oc=5",
+        "media": "香港01",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葵涌大隴街鼠患｜影片直擊群鼠亂竄吱吱叫 街坊倡鋪設石屎塞鼠洞",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "3b7f0eb518e3",
+    "title": "新增兩宗外地傳入登革熱感染個案",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "新增兩宗外地傳入登革熱感染個案",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMlA4aFZFZ1pvN1lyVlhiVlhHWFRnOFhpT0FrUTRqU05QbE9oN1ZHTzQwa01GUUZVSjRxVlJUbVZrN2RqZmlPd1NRVWc3RkJwYVdnNEk1U0l6ZHJUYjlWRUNoZUJhc3UxWWxGQXFEUQ?oc=5",
+        "media": "RTHK News",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蚊患及病媒疾病",
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱",
+    "summary": "新增兩宗外地傳入登革熱感染個案",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "728e97d936a8",
+    "title": "白紋伊蚊誘蚊器指數荔景及天水圍最高 食環署跟進發出3張通知書",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "白紋伊蚊誘蚊器指數荔景及天水圍最高 食環署跟進發出3張通知書",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZXV5MFd4YlczVWFhTENwWENRYUFqbDA0NjMyMHdyRE05Q0h1a2VyaFVzM09UeHRUMmxGZEVOU2JtY3BPYTFPVmZmME9QLVpFZnB3WjhhZktGRm1xOGVGdEg0dHRkREtpN3AwekZEU2U?oc=5",
+        "media": "香港商报",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      },
+      {
+        "title": "白紋伊蚊誘蚊器指數荔景及天水圍最高 食環署跟進發出3張通知書",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sa09Bd2YzLVU2TzRIeEdPLU04OWRGRzdPLTkyTU1WaVhldlo3V2hZRE1BWk1aRm9WY1NVZ1FLck1JM2k4eW00M2RJMHRVUzlVekZ3eTI5MlNfUHNreHAwSGoyTE43UkVYWmRuOGh4Yw?oc=5",
+        "media": "RTHK News",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 8,
+    "topic": "蚊患及病媒疾病",
+    "categories": [
+      "蚊患及病媒疾病",
+      "技術及藥劑",
+      "政府政策及執法"
+    ],
+    "districts": [
+      "元朗"
+    ],
+    "priority": "中",
+    "priority_reason": "指數",
+    "summary": "白紋伊蚊誘蚊器指數荔景及天水圍最高 食環署跟進發出3張通知書（共 2 個來源報道）",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "6ea4e591646d",
+    "title": "葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQYnJhd0hqUG9LRVVpT1ZuR2s3azJoaDJHNU5jdDVEc0ROcWNtMUtJTEl3OWFJV0M3dzRpZ3hsNFNhMTVuOWpuNXNLU0pqcnVDY0RxSnU0Qll0aXFYbHA4Z09JSEZyd1dKRllZZ01rUnZTeVpKWmRzSzZnTG5zaXl0QnRNUG9JTjVFa3JoQmdIb3h5bkFqM3ZqYmU4RnZPRkxrUUR5N2FDNWtsTTJ6ZWJPZ0FnYkFEcEpRbVU3ZVA3ZVl1YnU0LVUwMTMxTVM0ZVFKVmR3c1FUeGg4YS1vTjN0Q0Y0YkVoXzZSZGFZRTFtVFFzc2RGeHlzMkZMQWJ1RWVNNS05ZndZVVBkcGl5eHJYMFkzWDcwelBETzZmUG9Ob0RnaGFoc0cwS1ZlWHR0Uk5mTXpuSGZyeVVKV0lPNk45d3F5Q1N4emYwY1k3YVhFZDlNUkprME1lcUl2M19JZzlqajhRQWFxdzJJU01rbEFRSWRGVDFTajU4ZGpaU3NHT2IyVkZESHQ5Qm5IdDRaRWlqMU85VkYwazFMRFBaYTVIWkxwZEpiTkcwU2ZBRlNvT2xBcUFBRHcwR09WbEMyNmt2OUw3MVlqZGFmNlZVeGpMbXdmcHdQYTF1V19NaEptSWZwdFVra1NIaU9jQlo?oc=5",
+        "media": "星島頭條",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 6,
+    "topic": null,
+    "categories": [
+      "鼠患",
+      "技術及藥劑",
+      "政府政策及執法"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "中",
+    "priority_reason": "防治",
+    "summary": "葵涌大隴街斜坡變老鼠窩 跨部門採多項防治蟲鼠措施 放置捕鼠器及鼠藥餌盒",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T02:57:24.228333+00:00"
+  },
+  {
+    "id": "76e16c9cce43",
+    "title": "葵涌斜坡變老鼠「劏房」 毗鄰兒童遊樂設施恐被播菌",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌斜坡變老鼠「劏房」 毗鄰兒童遊樂設施恐被播菌",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGFjMHBoVzBkWEYwZkY5a0xod01QSVZ4ZDVzcmhEaTZRYzh6WWVBNXUwcnBtdnlLdzI0R0pnRmNmZG05dlVCLWZseFc3TEx2djk0ejVyclpHVTVES1Z1YjVhU0hjM0RHbDM3OWp6QWlKZGIzNnpfdnE4LVJnVjVuTUVfanpCYzItZjBz?oc=5",
+        "media": "on.cc東網",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葵涌斜坡變老鼠「劏房」 毗鄰兒童遊樂設施恐被播菌",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "f74a4577b05c",
+    "title": "大隴街斜坡現鼠患 議員籲加緊巡查及「鼠患情報通報機制」",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "大隴街斜坡現鼠患 議員籲加緊巡查及「鼠患情報通報機制」",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1FEUXcxOGxfNGlMOFZpbkRXZTVPNzFTV0tEc3Qwa2JaS2VXZmZHUEFTMWgzbHh1WUxKNENIMTUyYUVwNDN3c2lLTldXR080bmMzM1lKQ1M5aUw2ekdzYXgtcGFHejVDT1ZKV1ZSalRHX2F3TDRPSFEtSHE1ckpNd0ZTZHRBUE16VXgw?oc=5",
+        "media": "on.cc東網",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "中",
+    "priority_reason": "巡查",
+    "summary": "大隴街斜坡現鼠患 議員籲加緊巡查及「鼠患情報通報機制」",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "f12ced263358",
+    "title": "蚊傳疾病｜本港新增2宗登革熱外地傳入個案 患者分別到過印度及孟加拉",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "蚊傳疾病｜本港新增2宗登革熱外地傳入個案 患者分別到過印度及孟加拉",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQWC1MajA5VDVVeGFlOWpacGNGOFVDRS1wWEUyTWhNdXJ5UkwyWDJzQ283LS1velA1Y2toWmdpQlFwM09jU0VscXFnNnVNLUdkaHIxc2FfSHAzRkJmWTl2TFB2N2tNay1WcVNQdjgxN3l3TWdNLUh1eG1FdFNqUjFNbkJIWnIwLXY2bFpJTEc5WWVVTUdDZTBab05YLUZ2ZFB0MVlDQk1oZmJHdzRZVkxpZkxURHBETnBjaEdORmZoV0lIOVlhc2RleVhpZkR5OG9sOXJfOC02bGdWYjJSc3hKLUg2VTRCdHFzTDNwVk1ydHNMS2Q2SW1WNVpwYkFLTWtzemFiNWVHS09SaDBXMDhoSmVXMkFEMDcweW9nTjN5WEdUbUZzOTVuR2VTU0hxQ0hka295WUUtZXp6enl6cjNDd0VhWV9zNlpONVZpRnlhS0pHZGlEZDljUlNYMEdhZ1hpRHBkRlB3eE1hc28tZlN5RUQtbm9neXRDT3k5aHRmME0xaGg5YXpyQk9SVDI4ZUlPOHNJSG5ha0w2aXpFQU1ISmxLOTZYak9DWjFpUnZsVWdVaW1wbHM3TVdhMl93blFsdHdxeVJhVGZpLU1HNEdvVw?oc=5",
+        "media": "香港經濟日報HKET",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱",
+    "summary": "蚊傳疾病｜本港新增2宗登革熱外地傳入個案 患者分別到過印度及孟加拉",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "e61c10efb8c6",
+    "title": "（有片）大角咀「老鼠樂園」原來是櫻桃街小園地？記者直擊多隻老鼠「跑酷」",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "（有片）大角咀「老鼠樂園」原來是櫻桃街小園地？記者直擊多隻老鼠「跑酷」",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFNkw3UHE4dTZoT3A2bUkzNkN2Umd6U2g0VGtDemg0RVg5NTVwdHEtMXZGY2d4dThWVWt6NDJUOXhlOXRvXzdCTXNuVWlwLUdHeGdHeXg0bjBKNEZDUTRMX0xDNnhUdVlubG1JUk5qLURPOG9aWWg4?oc=5",
+        "media": "香港文匯報",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "油尖旺"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "（有片）大角咀「老鼠樂園」原來是櫻桃街小園地？記者直擊多隻老鼠「跑酷」",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "8d99d1709ab0",
+    "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "official",
+    "sources": [
+      {
+        "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oRzRwVkJwSDhMaGNRUENYa19aUktUbUJoVDdzR0tITmxCUk9BMzFSN2F0VTdFRUZxT3FpVnVnNkpHeGMxd3FSVGI3Yi1GZHkzdDd2VzB0WEFWT2MxX1k1RUYwVWZucGRvM1liY1RqZk9ZUQ?oc=5",
+        "media": "香港政府資訊中心",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "official"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 7,
+    "topic": null,
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱、基孔肯雅熱",
+    "summary": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "434bf86d7231",
+    "title": "食環署公布十月份第三批白紋伊蚊誘蚊器指數（附圖）",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "official",
+    "sources": [
+      {
+        "title": "食環署公布十月份第三批白紋伊蚊誘蚊器指數（附圖）",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yVUhpYXlZcTVaS2k4UlhnQ1VFQ2lJRDZWcGdYSy1GclhGektBZDM3S0ZleW5MUFRRdnZsMHhoNmFfOTkzZ0NOWU56NzZwT2tYUXEtMTBWUTNCbnhZcVo1SUNNeUJLOVFNekNPR29YaFQxdw?oc=5",
+        "media": "香港政府資訊中心",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "official"
+      },
+      {
+        "title": "食環署公布十月份第三批白紋伊蚊誘蚊器指數（附圖）",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oUlJOdi1rbWl3cDlFdmlrVUZ2T2swZ1pERWY4WFFWRnJzSk9fc2N0ZUhLS3VnRjB1YkJzajFUbWpLdXdRXzhsRGs3UUc3ekhubU9iTzdxVGQ3ZTRuREJPTFN5ckdWMnJBNTBWTGxVVmFKVFU?oc=5",
+        "media": "www.info.gov.hk",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "official"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 7,
+    "topic": null,
+    "categories": [
+      "蚊患及病媒疾病",
+      "技術及藥劑",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "中",
+    "priority_reason": "指數",
+    "summary": "食環署公布十月份第三批白紋伊蚊誘蚊器指數（附圖）（共 2 個來源報道）",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:17:20.268577+00:00"
+  },
+  {
+    "id": "b03da1fa4655",
+    "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+    "description": "",
+    "first_seen": "2026-10-23T07:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+        "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbURWUDdtQlNEVXRiTnJoVXpEVTdXYTQxejFpc2lveERFREMxS25IU3NkTVJ4NVBIQXNLWndtVDVhU3FXSm5ETUd4d2dVUTlVN0VQMUFZZWhibUljOEY0Q2lQTXlYb19kSjNwREw1MXoxbWhUM3lhTDU3SGNfM2xpaGR5VEFmQl9lTVdyd3NPRU9KYWtWRWo2MEVnVDB5UzVpcEFCd2duVjFmVDY5UkdWYng4dVN4SG5JUkFIS1h3NkJIZUFwVFlUNFVxMFZKVmt5UWFpeWhhUk5XTjVoRHFaMUUwcGRWMlNxa2UzcTlGenZtbEZPWERYSWY0MUprZUl0cFZLc0lkT1hnX3NtNDFnWUJ6Yl9lZk81UmdYdE1qSXFfX3N4ZElYNlhNLTB4VmJVSXpoNk9FTW92SHNyMEhHUzlnOWNjQXdqSmQtR09KcURkX3hSUWxESFFpWXpXSjJ1RGE5ZHJZUTVUMGhjUjRYMzVKUWtWRVd4MHRKRnJIOENsOW03QmVsNlNnbjhvZw?oc=5",
+        "media": "香港01",
+        "published": "2026-10-23T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "葵青"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葵涌大隴街斜坡變老鼠窩 鼠群亂竄 旁邊公園淪高危區｜有片",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-17T08:31:01.706365+00:00"
   }
 ]
