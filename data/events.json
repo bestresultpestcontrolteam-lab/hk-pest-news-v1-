@@ -354,7 +354,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -398,7 +398,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -639,7 +639,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "ab55e88c5244",
@@ -671,7 +671,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-19T17:15:24.867369+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "6cdf92552465",
@@ -1475,7 +1475,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1880,7 +1880,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2573,7 +2573,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "15f79c166547",
@@ -2959,6 +2959,36 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-19T17:15:24.867369+00:00"
+  },
+  {
+    "id": "08b745c957ce",
+    "title": "大窩口港鐵站老鼠狂飈跑樓梯 女子驚呼：黐線㗎(有片)",
+    "description": "",
+    "first_seen": "2026-11-05T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "大窩口港鐵站老鼠狂飈跑樓梯 女子驚呼：黐線㗎(有片)",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zS05UZUdKZWJMVjBwdnpZN0pURkl3WE5jTWhiU0hFNlptLUZRYzNxVEdWd09jc2hJaC1UblIwM0ctazZ5aWlTZUJNNTZjZU9jaUE?oc=5",
+        "media": "am730",
+        "published": "2026-11-05T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "大窩口港鐵站老鼠狂飈跑樓梯 女子驚呼：黐線㗎(有片)",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "86e7189c1eca",
@@ -3944,7 +3974,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T01:17:29.312354+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4075,7 +4105,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T02:57:24.228333+00:00"
+    "updated": "2026-11-22T05:06:19.026627+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",
