@@ -12,6 +12,13 @@
         "media": "on.cc東網",
         "published": "2026-11-23T19:00:52+00:00",
         "tier": "media"
+      },
+      {
+        "title": "筆下風雲：這就是精準滅鼠？",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNeTctV1lLaFRubE91Q0hBQWhNXzdUN2pJbm9nWHl6TkFvSW5RMy1SdFM1UnVndWE2UE9HdDJtRTc0cE8tNlBQdVB0bGxGLUpYRzlTYV9NRkdNOFpVS19WajZVcTR1Q2tKV1BsYmxPTDhjSmxEdEJic1ZuQVNlZjZPdVpteUVYXzVVOUtiYmgxNEZzZHJZU3Z2ckVRLW1mMk1pU0lSa1U1RDBIQnlYdTlaQl9yS0lkRVd5T3FOblRnU0FaYkhBUFB0RkF1RENnZ3NSaGxONXdiNkY1SUlWWjNuczNLbVJTSkdFeU14amhzNWN4eTNzbjR4N1pVV2tvOThvMm01cTZBdXVrOVZQeXlDOFowdHNsZUNKS0FjVkNaUlJvV1p1a1JQTllMN05BMGN0MXo3akIwUEhOS2V5cVM4?oc=5",
+        "media": "東方日報",
+        "published": "2026-11-23T20:22:26+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -23,11 +30,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "筆下風雲：這就是精準滅鼠？｜評論｜港澳",
+    "summary": "筆下風雲：這就是精準滅鼠？｜評論｜港澳（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "8309182d6107",
@@ -90,7 +97,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -568,7 +575,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -612,7 +619,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -788,7 +795,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "0a1dc2439536",
@@ -1696,7 +1703,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2101,7 +2108,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2197,7 +2204,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2826,7 +2833,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "15f79c166547",
@@ -3079,7 +3086,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -4227,7 +4234,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T19:11:54.874815+00:00"
+    "updated": "2026-11-23T20:59:46.882205+00:00"
   },
   {
     "id": "2c7c41581a2c",
