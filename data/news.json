@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-23T17:12:31.755004+00:00",
-  "count": 139,
+  "generated": "2026-11-23T19:11:54.874815+00:00",
+  "count": 140,
   "items": [
+    {
+      "id": "a9de2ead58fa",
+      "title": "筆下風雲：這就是精準滅鼠？｜評論｜港澳",
+      "summary": "筆下風雲：這就是精準滅鼠？｜評論｜港澳",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-23T19:00:52+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "筆下風雲：這就是精準滅鼠？｜評論｜港澳",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPam92djdKQVoxdV9RaUZyWHZ5R2JKTkJRY2pfWHE1cUhTN3dxanEzQTE4SlhEWENacmFzYkwxUnlKLXV4bGl1dXJmTVZFUEhzUWlmZFVEbkxHZm14eDVwU2diNWZkajZwbUxyQ3ExRWhMcUdXUG5NVHdXZHY3TlpqV1JKb0JhRW45RndPdnhTWmx0RUE?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-23T19:00:52+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "8309182d6107",
       "title": "香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控",

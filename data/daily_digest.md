@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 21 個事件；高關注 9 個。
+過去24小時共 22 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -92,6 +92,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi0wNBVV95cUxQMldQRU54SXhyRWJtQi12c1B4b1NGR3EzXzd5a0tqeXpYcFFlUXRSWlNPZVR5SmJHakp6LUNSZi1uaGRsaWE2YkJVLS15NFZJOUxRQzFzdDZuT3dNMHZQV0lvY1F3OGswREZvdF9WNktPYmp2T0plQVRMdlY2cXpJd0toRjJqRG10MzF5UFFjUlBmWVdNRk5sLXNWYnZNVkF1bHd4NDFZYVF3bnEwT0ZPOVJvd1ZaOFBuZjI0VjNObzZWdW5VM1RiYTg4TTVtV1gybWtmZnBkNWZTS1JfdE14ekNsVS1vRUtrYVQ4b1BzMUFjSC04UmFFOGNadU5LQmx0aWhvcTlzT0hFdDB0WHlBMURjbG9JalVPYmtsQUw1YTU1NEU3VTJmc29PcTZ6cFZoaEFDMzRZSlRZSXl4R3NYZDhnMWljNDNIVDFHdEF3MnZSRjJNYlM1c09CbS1mUXF5dXlSZGZNZkVHMU5tX01TNFJOSFczVmZDeHdlMlotc0pCOThra2x6WXFrQnl6akxKc3RmM1F0UF9ycVF1YUpxanNodXpPbFRUVjRsS1JRUTduZDFxd3JDejNuYUI5T3AwVHFxcG5icUEzWFJhVXpIR1lzdw?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5)
+
+## 【低】筆下風雲：這就是精準滅鼠？｜評論｜港澳
+- 類別：鼠患；地區：未註明
+- 摘要：筆下風雲：這就是精準滅鼠？｜評論｜港澳
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMikwFBVV95cUxPam92djdKQVoxdV9RaUZyWHZ5R2JKTkJRY2pfWHE1cUhTN3dxanEzQTE4SlhEWENacmFzYkwxUnlKLXV4bGl1dXJmTVZFUEhzUWlmZFVEbkxHZm14eDVwU2diNWZkajZwbUxyQ3ExRWhMcUdXUG5NVHdXZHY3TlpqV1JKb0JhRW45RndPdnhTWmx0RUE?oc=5)
 
 ## 【低】橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠
 - 類別：鼠患；地區：未註明
