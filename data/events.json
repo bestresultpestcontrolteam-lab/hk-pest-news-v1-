@@ -1,5 +1,35 @@
 [
   {
+    "id": "a7bf1f4720aa",
+    "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+    "description": "",
+    "first_seen": "2026-11-23T00:00:29+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPS0xveFJPS2llVVpLaHNpaFdBMGR0ZUYzNFhFdTRrNzBpTkdNckhUVkxoQWhXT1c4Y0tJd1J3d2Zvem9fZC1lcFJsX0JBQ1BxSFFueFJad0JOcm02UnlxbTNwdTZSWEUtV2Flb3BRUndIQWpJWHBSeDRXbzVIWEdkZ2hkekxkeGMwU1Yzd2REQzB0LXhpaV9UUlJmVmFhanFOd2F3c2hZR0U4bGxDbHJGcjltSjU3OXM0VnJNS3FsdmdaV0RpWFpBVm9CLWVQQ1pRekhDa2haN3pwaThSanpvRE9MV0E3cXppcDZHTnVhYVFfZWlxNURzbnlBUHA1RlN0RllENGJfdFU3Sk1FanpWeGVJOERscG4zSmxUV2R4UXY0bFh0aE5tTGdQbXh3dVlLTld1anVuQ1Y3UFc3eUFOSmRFdVgxd3VEbVI5YzZXZHZyWk5PcEVoMVo4SkFOT05iNm1TalVLTTB4bU9Qa0M1U0tIdGI0ejJ3azB1d29BUkRxWjc2a0E4SjFnRDR6RWZJZjhORjRHZ1RBalFyY3pXWm80dG1OUQ?oc=5",
+        "media": "香港01",
+        "published": "2026-11-23T00:00:29+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-23T01:24:25.429754+00:00"
+  },
+  {
     "id": "21dc60e88bcf",
     "title": "土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控",
     "description": "",
@@ -381,6 +411,13 @@
         "media": "星島頭條",
         "published": "2026-11-20T13:25:44+00:00",
         "tier": "media"
+      },
+      {
+        "title": "食環署持續推展「雷霆行動」和「天羅行動」滅鼠 截至昨日檢近300隻老鼠",
+        "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQcWFWcEJvWWFoVjVINFZ3bEZXZkdVUTcwMU9nMEl0eXlEYU9uWWFrUEtXNDdrQkpWWFFfaEtkbFJrMmVpRHRINWhnTGFTYmhnTUtna0NyUkIyU0IwZnBGaDJkQWdVVDBWUEF3NnFnaEc0bHctalg4YTlqdVZmVXhWZXVjLWlaeU1hQzU5VFNrRFdZOFFvQ2FETEgtVklzRWcxeVNxcHEzUldVRy0wenRqc0EzdzlzaTQ3UnNZc0NleUNzdHpldmdXVUpNWDMtSmFLZk55VDVCeEJxeVlLYWFZV0I1ckR2VTVveEtzYndzdEdXTEI4WXZSZnF5M0ljUS1rS1JZTmI3RzBGX01yQzVmX3p6WXVrcTRDYnQtRTN3TklQRnQwN2J4ZDNocndSaTdnR3prZ3hXaFExN0RBSWl5U1Z6OUREZVRnanVtYmNqQ3dhdi1Oc3UycjhvRWxzazgwMUVZaDhpaG40S2QxZFNzV2FmaHpnZlRzNUEyQzF3X1czLVJ4dVNBcTV3UkhJaExPeFZiU1huSjlzVVpoc3RSTGt6M0V2Y0dHVGZjVUZUdjdCNWJmWmVhNXhQRjN6R1ZNNlhQRE1RTjhaZ0dFTmY0N0E5bUVWRDJn0gGKAUFVX3lxTE1tU0FBRnA3c1ZNd1Nab2ZCWkFxSGp5a25UaVAtMTAyNVNnUnVrWEZjWGpWRTBVcVdoc0E3LWZLZF9mcUZpTTRFMnhJWk05enBvODZlZzNiUHhqcW9UcWR5U0RkVldVSjhYZUREb25tRmZrWXU0a0Rwekg1QWdhbXhOZklpVE5KWE9QZw?oc=5",
+        "media": "Sing Tao Daily 星島日報加拿大",
+        "published": "2026-11-20T13:49:35+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -397,11 +434,11 @@
     ],
     "priority": "高",
     "priority_reason": "檢控、消除蟲鼠通知、商場",
-    "summary": "食物環境衞生署（食環署）發言人今日（十一月二十日）表示，署方持續在全港各區推展「雷霆行動」和「天羅行動」，以專項巡查和精準措施全方位打擊鼠患問題，旨在堵截鼠患源頭，改善社區環境衞生。 自十一月四日開展的「雷霆行動」秉…（共 3 個來源報道）",
+    "summary": "食物環境衞生署（食環署）發言人今日（十一月二十日）表示，署方持續在全港各區推展「雷霆行動」和「天羅行動」，以專項巡查和精準措施全方位打擊鼠患問題，旨在堵截鼠患源頭，改善社區環境衞生。 自十一月四日開展的「雷霆行動」秉…（共 4 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-21T07:19:25.645281+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "efdb46c4be10",
@@ -431,7 +468,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -475,7 +512,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -651,7 +688,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "0a1dc2439536",
@@ -1559,7 +1596,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -1964,7 +2001,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2657,7 +2694,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "15f79c166547",
@@ -2910,7 +2947,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "60675f6f5be6",
@@ -3793,7 +3830,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T16:55:20.264488+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -4058,7 +4095,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4189,7 +4226,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T22:52:35.282378+00:00"
+    "updated": "2026-11-23T01:24:25.429754+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",
