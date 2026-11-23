@@ -74,7 +74,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "679bc249f0b9",
@@ -143,7 +143,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T16:55:20.264488+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "3930f2298d71",
@@ -382,7 +382,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-22T08:56:22.093548+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -468,7 +468,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -512,7 +512,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -688,7 +688,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "0a1dc2439536",
@@ -1596,7 +1596,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2001,7 +2001,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2354,7 +2354,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-20T19:10:09.799015+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "714e47d43198",
@@ -2487,6 +2487,38 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-21T05:03:39.240464+00:00"
+  },
+  {
+    "id": "534cd6ceb732",
+    "title": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+    "description": "",
+    "first_seen": "2026-11-09T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USXhvX201OW4tUGNNTk80dkpmUU84aUtwT0l2Q1VHbi1EVlp2WWR0QzYyRklDcGpUY2V0SHNpdTM0OTF6QVhrMjZKa2M0eE9GY1E?oc=5",
+        "media": "am730",
+        "published": "2026-11-09T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "油尖旺"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "ce5ada3293ee",
@@ -2694,7 +2726,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "15f79c166547",
@@ -3830,7 +3862,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T01:24:25.429754+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -4095,7 +4127,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-23T09:33:28.297187+00:00"
   },
   {
     "id": "2c7c41581a2c",

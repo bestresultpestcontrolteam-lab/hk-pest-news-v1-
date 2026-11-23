@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T07:45:24.504824+00:00",
-  "count": 136,
+  "generated": "2026-11-23T09:33:28.297187+00:00",
+  "count": 137,
   "items": [
     {
       "id": "a7bf1f4720aa",
@@ -1884,6 +1884,31 @@
           "title": "富國島團中招！越南8日遊「2人染登革熱」 新北也爆本土個案",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOVYwYThLRW9neUl3QnkzSFdFMG02TDlTQkp5TmRpT0k3R3hya3RpWkFjYmowNVV3eUJaRnBTc09tYnBzMFdYNlhINVJfbDQ?oc=5",
           "media": "TVBS新聞網",
+          "published": "2026-11-09T08:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "534cd6ceb732",
+      "title": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+      "summary": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "油尖旺"
+      ],
+      "first_seen": "2026-11-09T08:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USXhvX201OW4tUGNNTk80dkpmUU84aUtwT0l2Q1VHbi1EVlp2WWR0QzYyRklDcGpUY2V0SHNpdTM0OTF6QVhrMjZKa2M0eE9GY1E?oc=5",
+          "media": "am730",
           "published": "2026-11-09T08:00:00+00:00",
           "tier": "media"
         }
