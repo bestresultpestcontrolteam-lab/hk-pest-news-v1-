@@ -1,5 +1,35 @@
 [
   {
+    "id": "48fef14052ce",
+    "title": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+    "description": "",
+    "first_seen": "2026-11-23T11:35:33+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPc1hub19sMlBpZldIQ1VfVjZCakZnd0ZyQ2JLbWxVTzZieUdjdGpZMkJoRHJFVC14eW1SaXdDcFBVdzV6cF9IOHdGR3o3OEtkc01mXzFpRG5fbng2T2JZdXN2VXNJcHR4ZmxRdzZFemhpMXYwMi05cnllNy1WR1VKbEtfRlFVQTlRSEwxUnZmOFdPTkRiYS0wUlVzMVUtTVdiRjNORzg4NF9lcHZzX21icFZUYnVNLVZKclJFWThSTzZlYTJzWGJ5aTNDMldVekRsMENVLVotb1hXcHQtTXg4cEJWY04wQWNhTDAtdUVEMXBERTR6Q3Eyc3BuYkh1aERGZ0RUN0Z0TDJMbS03c1dzRzlmdDg2UFJUeVh2T2tJWjYyQ0xTVThaWmU3Nmhtb3F2QXNLbnEwdmJlNVVMcmtxSV95NnBHUkVTS1RsQjRydTlBLTdRRVk1MGl4QlZOaWEtY1RMaUo3VXRJS1V3cUt3Zkx1aVdoWTBvRUdZblhiOFRRLUlYb0hnNGlHX3JyTmFCX0ZrWnlHVkIxYXRXSnpTWFRJUTNVZw?oc=5",
+        "media": "星島頭條",
+        "published": "2026-11-23T11:35:33+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱",
+    "summary": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-23T13:29:57.177420+00:00"
+  },
+  {
     "id": "a7bf1f4720aa",
     "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
     "description": "",
@@ -389,7 +419,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -475,7 +505,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -519,7 +549,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -695,7 +725,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "0a1dc2439536",
@@ -1603,7 +1633,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2008,7 +2038,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2733,7 +2763,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "15f79c166547",
@@ -3869,7 +3899,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T09:33:28.297187+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -4134,7 +4164,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T11:15:12.851974+00:00"
+    "updated": "2026-11-23T13:29:57.177420+00:00"
   },
   {
     "id": "2c7c41581a2c",

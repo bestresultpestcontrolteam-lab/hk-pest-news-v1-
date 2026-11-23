@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-23T11:15:12.851974+00:00",
-  "count": 137,
+  "generated": "2026-11-23T13:29:57.177420+00:00",
+  "count": 138,
   "items": [
+    {
+      "id": "48fef14052ce",
+      "title": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+      "summary": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-23T11:35:33+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPc1hub19sMlBpZldIQ1VfVjZCakZnd0ZyQ2JLbWxVTzZieUdjdGpZMkJoRHJFVC14eW1SaXdDcFBVdzV6cF9IOHdGR3o3OEtkc01mXzFpRG5fbng2T2JZdXN2VXNJcHR4ZmxRdzZFemhpMXYwMi05cnllNy1WR1VKbEtfRlFVQTlRSEwxUnZmOFdPTkRiYS0wUlVzMVUtTVdiRjNORzg4NF9lcHZzX21icFZUYnVNLVZKclJFWThSTzZlYTJzWGJ5aTNDMldVekRsMENVLVotb1hXcHQtTXg4cEJWY04wQWNhTDAtdUVEMXBERTR6Q3Eyc3BuYkh1aERGZ0RUN0Z0TDJMbS03c1dzRzlmdDg2UFJUeVh2T2tJWjYyQ0xTVThaWmU3Nmhtb3F2QXNLbnEwdmJlNVVMcmtxSV95NnBHUkVTS1RsQjRydTlBLTdRRVk1MGl4QlZOaWEtY1RMaUo3VXRJS1V3cUt3Zkx1aVdoWTBvRUdZblhiOFRRLUlYb0hnNGlHX3JyTmFCX0ZrWnlHVkIxYXRXSnpTWFRJUTNVZw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-23T11:35:33+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "a7bf1f4720aa",
       "title": "橘貓潛伏民居5個月無人知 偷吃貓糧用貓砂盆 屋主誤當是大老鼠",
