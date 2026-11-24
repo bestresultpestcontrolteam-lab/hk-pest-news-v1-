@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 22 個事件；高關注 8 個。
+過去24小時共 21 個事件；高關注 8 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -148,10 +148,3 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNkdFYUtoX0d1NTdEc2VtdGFLbEtVMDNWdUxUbFNqTHhBbzZ3dzFkeDBOazVublpjMGI1SVNGRXZKNXp1Z0UtRWpjNV9kN3FTSXlPMkQ5ZndCZ2o1d1h3bEN1SjdBbWY4VEhvZ2REVEp2OXZUOHJz?oc=5)
-
-## 【低】紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
-- 類別：鼠患；地區：九龍城
-- 摘要：紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[TVB](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWFNqZE5RcFUtaEkwMWdvMmIzRWROdGFrV2lER2tpLUp4TUhud0RmZHFaYk9YV0NGSHRyMTJSUW1fcHlUVmhOc3oxYUZ3bUF4MXdXLWFuQjdnLXFKeXMxci02R0VrVk5Md2JERXF6bWkxd1R0TUVSaE1NSUd4dUM1ekxEcmNsREFkYzlhdmhwOUx0SGVGOFhhZFR4bDRWN1VjUFY5REJsN0kwSEdkVmlzbUszZ0psa1VaVEREQnRwejBkSlMySVdqWFgxNG5UMVBSUzhRZDhkSlBlNmhXcFlwbUR5Rmp3Y2ZmM3ZRME5UTEJuSVh6Um1WNGVBTkhqSWM1SzhxZ245MUQwZVBNMDdsUUFHWXJiNnVET2RJeDlOS2FKTUNpbHNuOU1ac2hwa0ttbl8wa3hVQTRMS05rbU1DRXV1czZJeWhVaHltVmM5QU1kVHhxaFpKRXVSUGVid0psN0g4a1JVQ2FlWVg0cXZBRU5CRQ?oc=5)
