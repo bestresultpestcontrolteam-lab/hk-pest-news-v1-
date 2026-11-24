@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 22 個事件；高關注 9 個。
+過去24小時共 21 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -127,13 +127,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMivwNBVV95cUxOMUtQTkRnRlVZUm9veloyQnZYN0xTbWcwZ3lWNW15bExFWDMtVzBwYW1Jc1FGV3V2MjIxYlRYajdHQU8xSzlqdjlNNU8xNlBISkpPVUV3dFBENVNQNzVDQldlV29QblFSRURsbmFlSUQ1SjRXTl9KSDY3c2hVY0JxemU1Mk1nNzNQV2laNVNBajlHcnZZeVZQbGFBMzdrNF81blc4R2JEWDFlMWJVTUpMcHpXQkxmVE85Y21tZFBCMzd4RTJtcm5USllJT19CUW1Ubk5vRGN4NnBCS0RvZzVZdEk3WTEwdW5fWkJRMFBhZWFYNnBVTDJyUkVNQkhnaUE0Um9JbUtCRWdxYk5vem51dHdZSkVUSDNFUktXd056eURTNHFTclVlZ05XcWtiRmw1Wnp3dmdrRUxTYVByVVBXZTdqRHhteUVTVWdwZW9RYUE0Ti1ocC1sbmVrd0swQ3R5cWRfM0NHc3IweFMtcE55OUV2cmVXRHgyTS0wenJaaElyTDVTQmxGVWlSWlh6eGg4elptY0JOb19OQ0RGcjJ6d0VUYjF2U3NpdVJNNEt0aHV2TzRRa3RlSmszNmliU2s?oc=5)
-
-## 【低】尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)
-- 類別：鼠患；地區：油尖旺
-- 摘要：尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[am730](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USXhvX201OW4tUGNNTk80dkpmUU84aUtwT0l2Q1VHbi1EVlp2WWR0QzYyRklDcGpUY2V0SHNpdTM0OTF6QVhrMjZKa2M0eE9GY1E?oc=5)
 
 ## 【低】有片｜觀塘工廈外垃圾桶變「鼠竇」 逾10隻出動覓食 捕鼠籠擒獲一鼠
 - 類別：鼠患、技術及藥劑；地區：觀塘
