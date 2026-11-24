@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-24）
+# 香港蟲害管理新聞每日摘要（2026-11-25）
 
-過去24小時共 22 個事件；高關注 9 個。
+過去24小時共 24 個事件；高關注 9 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -135,6 +135,13 @@
 - 狀態：已發布
 - 來源：[星島頭條](https://news.google.com/rss/articles/CBMivwNBVV95cUxOMUtQTkRnRlVZUm9veloyQnZYN0xTbWcwZ3lWNW15bExFWDMtVzBwYW1Jc1FGV3V2MjIxYlRYajdHQU8xSzlqdjlNNU8xNlBISkpPVUV3dFBENVNQNzVDQldlV29QblFSRURsbmFlSUQ1SjRXTl9KSDY3c2hVY0JxemU1Mk1nNzNQV2laNVNBajlHcnZZeVZQbGFBMzdrNF81blc4R2JEWDFlMWJVTUpMcHpXQkxmVE85Y21tZFBCMzd4RTJtcm5USllJT19CUW1Ubk5vRGN4NnBCS0RvZzVZdEk3WTEwdW5fWkJRMFBhZWFYNnBVTDJyUkVNQkhnaUE0Um9JbUtCRWdxYk5vem51dHdZSkVUSDNFUktXd056eURTNHFTclVlZ05XcWtiRmw1Wnp3dmdrRUxTYVByVVBXZTdqRHhteUVTVWdwZW9RYUE0Ti1ocC1sbmVrd0swQ3R5cWRfM0NHc3IweFMtcE55OUV2cmVXRHgyTS0wenJaaElyTDVTQmxGVWlSWlh6eGg4elptY0JOb19OQ0RGcjJ6d0VUYjF2U3NpdVJNNEt0aHV2TzRRa3RlSmszNmliU2s?oc=5)
 
+## 【低】連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲
+- 類別：鼠患；地區：油尖旺
+- 摘要：連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMi9AJBVV95cUxNdWJVeHZsZWhJTW5lcE9RLUNzbzNEQlZFU3hicm0zQXIxX1NmWEdwX3VrS1F4Zm1FbXVWWTU5WjB3UUtkN2J4Um12QWxyVnRMMThJX0syblNwQkswY2tYajJGaG5hcHo3S1RBajZoVk1tZkxnVUg4blNfamljVEprei1KOEdEQno2TW1LYWZiWElJR3hNRVNRMklwd1JBMmY0Mm1mY25SbFRiSGpkM2NRT0VLTHJxcnV2MUN4cEhUdktqbWZqR1RMTzFIYkcwNE1pYzhQREh5eU5CUGE2dy14MWlsWmxSNlpjRElKcjBUbDlReHFHRWFOLU9HcDZtSDhlcThkTkRJdEFNaGxQeGlfbXJvTlptaTRULTZlVlBHajU1ZFVvN1g2OU9BMU9MdzhKWktpRWxtNnJFS2FtOS1nMHlpY1ZCX3UxREt6eFpfYWFvZm52emtXMU43YzN3ay01VDY2V0Y4S0pKcnpFNUhlaklwb08?oc=5)
+
 ## 【低】有片｜觀塘工廈外垃圾桶變「鼠竇」 逾10隻出動覓食 捕鼠籠擒獲一鼠
 - 類別：鼠患、技術及藥劑；地區：觀塘
 - 摘要：有片｜觀塘工廈外垃圾桶變「鼠竇」 逾10隻出動覓食 捕鼠籠擒獲一鼠
@@ -155,3 +162,10 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNkdFYUtoX0d1NTdEc2VtdGFLbEtVMDNWdUxUbFNqTHhBbzZ3dzFkeDBOazVublpjMGI1SVNGRXZKNXp1Z0UtRWpjNV9kN3FTSXlPMkQ5ZndCZ2o1d1h3bEN1SjdBbWY4VEhvZ2REVEp2OXZUOHJz?oc=5)
+
+## 【低】紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
+- 類別：鼠患；地區：九龍城
+- 摘要：紅磡後巷老鼠自由行 十多隻後巷開餐 與餐廳食客一牆之隔
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[TVB](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWFNqZE5RcFUtaEkwMWdvMmIzRWROdGFrV2lER2tpLUp4TUhud0RmZHFaYk9YV0NGSHRyMTJSUW1fcHlUVmhOc3oxYUZ3bUF4MXdXLWFuQjdnLXFKeXMxci02R0VrVk5Md2JERXF6bWkxd1R0TUVSaE1NSUd4dUM1ekxEcmNsREFkYzlhdmhwOUx0SGVGOFhhZFR4bDRWN1VjUFY5REJsN0kwSEdkVmlzbUszZ0psa1VaVEREQnRwejBkSlMySVdqWFgxNG5UMVBSUzhRZDhkSlBlNmhXcFlwbUR5Rmp3Y2ZmM3ZRME5UTEJuSVh6Um1WNGVBTkhqSWM1SzhxZ245MUQwZVBNMDdsUUFHWXJiNnVET2RJeDlOS2FKTUNpbHNuOU1ac2hwa0ttbl8wa3hVQTRMS05rbU1DRXV1czZJeWhVaHltVmM5QU1kVHhxaFpKRXVSUGVid0psN0g4a1JVQ2FlWVg0cXZBRU5CRQ?oc=5)

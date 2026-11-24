@@ -158,7 +158,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -380,7 +380,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -411,7 +411,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -550,7 +550,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -636,7 +636,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -680,7 +680,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -1764,7 +1764,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2169,7 +2169,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2265,7 +2265,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -2522,7 +2522,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "714e47d43198",
@@ -2760,6 +2760,38 @@
     "updated": "2026-11-17T08:17:20.268577+00:00"
   },
   {
+    "id": "53120118d796",
+    "title": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+    "description": "",
+    "first_seen": "2026-11-08T08:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNdWJVeHZsZWhJTW5lcE9RLUNzbzNEQlZFU3hicm0zQXIxX1NmWEdwX3VrS1F4Zm1FbXVWWTU5WjB3UUtkN2J4Um12QWxyVnRMMThJX0syblNwQkswY2tYajJGaG5hcHo3S1RBajZoVk1tZkxnVUg4blNfamljVEprei1KOEdEQno2TW1LYWZiWElJR3hNRVNRMklwd1JBMmY0Mm1mY25SbFRiSGpkM2NRT0VLTHJxcnV2MUN4cEhUdktqbWZqR1RMTzFIYkcwNE1pYzhQREh5eU5CUGE2dy14MWlsWmxSNlpjRElKcjBUbDlReHFHRWFOLU9HcDZtSDhlcThkTkRJdEFNaGxQeGlfbXJvTlptaTRULTZlVlBHajU1ZFVvN1g2OU9BMU9MdzhKWktpRWxtNnJFS2FtOS1nMHlpY1ZCX3UxREt6eFpfYWFvZm52emtXMU43YzN3ay01VDY2V0Y4S0pKcnpFNUhlaklwb08?oc=5",
+        "media": "香港01",
+        "published": "2026-11-08T08:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": "鼠患",
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "油尖旺"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-24T17:12:27.308665+00:00"
+  },
+  {
     "id": "844fa568eb90",
     "title": "食環署嚴打商場鼠患重申嚴重違規可封舖- 香港",
     "description": "",
@@ -2894,7 +2926,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "15f79c166547",
@@ -4030,7 +4062,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -4295,7 +4327,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-24T15:12:38.851765+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "2c7c41581a2c",
@@ -4426,7 +4458,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-23T05:28:03.415526+00:00"
+    "updated": "2026-11-24T17:12:27.308665+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

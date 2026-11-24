@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T15:12:38.851765+00:00",
-  "count": 137,
+  "generated": "2026-11-24T17:12:27.308665+00:00",
+  "count": 138,
   "items": [
     {
       "id": "520aafce1b9a",
@@ -2100,6 +2100,31 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalFwNUctc0JxMXNIUlg5VmVkcTNqdFJNWTg1bjlPNTM1WkhJM2lUMzB3T2pDUWtJQmx1N0k2QUNZZGJNNTJnam0zSVB0T2lKcTNMSkpudmhKSF9SQU42NUlaWHU4aXJUZ0lRVGVxRTNBbW9DSFJqNFdJTFQ3Q0RYY044b2puWExHWm9v?oc=5",
           "media": "on.cc東網",
           "published": "2026-11-08T19:52:20+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "53120118d796",
+      "title": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+      "summary": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [
+        "油尖旺"
+      ],
+      "first_seen": "2026-11-08T08:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "連鎖食店旺角分店疑現3老鼠 炮台山分店燈箱內爬滿蟲",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNdWJVeHZsZWhJTW5lcE9RLUNzbzNEQlZFU3hicm0zQXIxX1NmWEdwX3VrS1F4Zm1FbXVWWTU5WjB3UUtkN2J4Um12QWxyVnRMMThJX0syblNwQkswY2tYajJGaG5hcHo3S1RBajZoVk1tZkxnVUg4blNfamljVEprei1KOEdEQno2TW1LYWZiWElJR3hNRVNRMklwd1JBMmY0Mm1mY25SbFRiSGpkM2NRT0VLTHJxcnV2MUN4cEhUdktqbWZqR1RMTzFIYkcwNE1pYzhQREh5eU5CUGE2dy14MWlsWmxSNlpjRElKcjBUbDlReHFHRWFOLU9HcDZtSDhlcThkTkRJdEFNaGxQeGlfbXJvTlptaTRULTZlVlBHajU1ZFVvN1g2OU9BMU9MdzhKWktpRWxtNnJFS2FtOS1nMHlpY1ZCX3UxREt6eFpfYWFvZm52emtXMU43YzN3ay01VDY2V0Y4S0pKcnpFNUhlaklwb08?oc=5",
+          "media": "香港01",
+          "published": "2026-11-08T08:00:00+00:00",
           "tier": "media"
         }
       ]
