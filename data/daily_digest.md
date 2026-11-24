@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-25）
 
-過去24小時共 24 個事件；高關注 9 個。
+過去24小時共 23 個事件；高關注 8 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -36,13 +36,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/24/P2026112400574.htm)
-
-## 【高】香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控
-- 類別：鼠患、政府政策及執法；地區：南區
-- 摘要：香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMimgNBVV95cUxNdW1QQTBtc3pQWTlKT19KMU1BNUZJTEtvQV8xSHZuYy1waXptRHUxVk1CYlYwUFhNU3g0Y3prTGtzQU9sUkR6Y0Q5VmVPUXY1NHlPSGFZZjY1eS0xSVB0RUdyOWxRSTF0dTNLcmlYdFcyZEI0YmRXczZnbVpaYlE5YVZ4MGdCVERSaVUwUnhNQlFKd0c0MGxqLTF4czYzb1pfV3I5cGNDd1dkMlNBM1NRZWt6Um9vQWtHU0k3UXNQaDkzanNXMVluUzRKQkJsXy1OR1Z0MHZnMl9RUk01UVpndzhUZG0zQWw3OV81Nk9Oa0E5OUJlWWpDUHpaUjZWSUtKbEN5MVpvYm9kdWw5Z01pLTM2Y0hxd21XbkV0X2oxMHBSTnZmVUVDaFdNcVNieWNrOG9iaERKVVJEQXFBSnRRb2xlX3I4dmFLQXpPcUhybTNGNTVhZ0dETExNa21BZVFqekxkQnJsZEtBLS1id19HREYtZ1B2TzRHdDNKeTZ2MlJIdDZUY1lXTjUtdm9hS05tSTg5TmZQX0diQQ?oc=5)
 
 ## 【高】以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成
 - 類別：蚊患及病媒疾病；地區：未註明
