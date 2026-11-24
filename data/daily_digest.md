@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-24）
 
-過去24小時共 23 個事件；高關注 9 個。
+過去24小時共 24 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -106,6 +106,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMipgNBVV95cUxPS0xveFJPS2llVVpLaHNpaFdBMGR0ZUYzNFhFdTRrNzBpTkdNckhUVkxoQWhXT1c4Y0tJd1J3d2Zvem9fZC1lcFJsX0JBQ1BxSFFueFJad0JOcm02UnlxbTNwdTZSWEUtV2Flb3BRUndIQWpJWHBSeDRXbzVIWEdkZ2hkekxkeGMwU1Yzd2REQzB0LXhpaV9UUlJmVmFhanFOd2F3c2hZR0U4bGxDbHJGcjltSjU3OXM0VnJNS3FsdmdaV0RpWFpBVm9CLWVQQ1pRekhDa2haN3pwaThSanpvRE9MV0E3cXppcDZHTnVhYVFfZWlxNURzbnlBUHA1RlN0RllENGJfdFU3Sk1FanpWeGVJOERscG4zSmxUV2R4UXY0bFh0aE5tTGdQbXh3dVlLTld1anVuQ1Y3UFc3eUFOSmRFdVgxd3VEbVI5YzZXZHZyWk5PcEVoMVo4SkFOT05iNm1TalVLTTB4bU9Qa0M1U0tIdGI0ejJ3azB1d29BUkRxWjc2a0E4SjFnRDR6RWZJZjhORjRHZ1RBalFyY3pXWm80dG1OUQ?oc=5)
+
+## 【低】食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSF9OdWxZU01nVTZfR3Y0X0U2OWVURG1lUkhNbWx6emxEVzBaekE3V2Q0V3NIblEyN05qeHhRZnRjTTMtcF9WQU1Nc0YyRjJyU214Y2pyQ0VUSURIOTFTRmwzMGdZSEFaeUkwVWxsRHFGcHYtanhj?oc=5)
 
 ## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
 - 類別：鼠患；地區：未註明
