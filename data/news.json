@@ -1,7 +1,54 @@
 {
-  "generated": "2026-11-24T11:01:51.359547+00:00",
-  "count": 135,
+  "generated": "2026-11-24T15:12:38.851765+00:00",
+  "count": 137,
   "items": [
+    {
+      "id": "520aafce1b9a",
+      "title": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+      "summary": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-24T13:00:43+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "黃穎君從政後轉戰教育界任城大講師培育年輕人 曾主持《東張西望》勇闖曱甴屋成名",
+          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxNZVVmQkdaSlZnTVJDQTRLSHEwcV80ajVRU1RKZmhSNmRNcmN5WlRoTDc0SEtMa2JubnVsRlNwbVJCQ3N3cTlLQ3lsdXpxQ0s2T0x0Rzg2LTk4SnVjWDBrbjZQWW9Gc1VIdTZqRjNQeVhoZXRmUzBWcnNFYktEb1NsbWh1NkNFR3puNGJGczA3VWo2TVpDY2JHZkotd3VEWjlXeEFGV1JzTFpfbmNrX0tvdnBCOUllSXo0azlITjM0bmxKOGk2NmNaV2s1ZnJRaXRkR2c5eGM1RUFxcFFVR3E1MDM0NGwxZmswVE1lbEl5dW1mTjc5emRfbUR4Y2ZCdVYwNHpYV1FVQndKSzFaTDBUR3B4eDZsMGZKTFlualFYRW9hQkVtSHFIYW9rWVdXcV9Xb1RrTExTekVnTl9naEc2dGZXZG5Sdjg1eUVhVWhmNUQzMHRCUXVjeS1SVi1oWF9PTll1Y2NwUS0yVGFEQjVHNUlhZmxqblRCYXh5bWNDRjlJSkh4LXdtSExqejczbXdpdURiNWp3ZXcxSFROUlJTMnVhQW1HTmtyRHRtVzJrbmYwd3FZdC1TUzBIa2VBdWJnOHp1czRpcnVtUUMzTXZWWmw5QU5qRUMzR1FGVjlNVDE5UnpYMWNwelo5UXlGa0Q5bUlzaUJtUG15MFFxM3Uw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-24T13:00:43+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "7b7740f73978",
+      "title": "粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）",
+      "summary": "第二十三次粵港澳防治傳染病聯席會議今日（十一月二十四日）於澳門舉行，廣東、香港特別行政區（特區）及澳門特區衞生部門的代表圍繞三地傳染病疫情概況、蚊傳疾病的防控、結核病醫防融合與健康促進，以及疫苗可預防疾病的防控等議題…",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱、基孔肯雅熱、醫院",
+      "districts": [],
+      "first_seen": "2026-11-24T11:30:00+00:00",
+      "tier": "official",
+      "sources": [
+        {
+          "title": "粵港澳防治傳染病聯席會議 推動深度對接「健康灣區」建設（附圖）",
+          "url": "https://www.info.gov.hk/gia/general/202611/24/P2026112400574.htm",
+          "media": "政府新聞公報 RSS",
+          "published": "2026-11-24T11:30:00+00:00",
+          "tier": "official"
+        }
+      ]
+    },
     {
       "id": "a9de2ead58fa",
       "title": "筆下風雲：這就是精準滅鼠？｜評論｜港澳",
