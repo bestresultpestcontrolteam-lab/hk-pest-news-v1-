@@ -1281,5 +1281,42 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-20T22:55:53.070552+00:00"
+  },
+  {
+    "id": "42677d7593ff",
+    "title": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+    "description": "",
+    "first_seen": "2026-10-25T02:26:01+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GY0hXUXNtS2EyRlNUb1hVMTRMR3gxMTNWRlNrNFBEWFFFMzlQX2RYWXVVOU00dGNGYjhFQ2Q5TDhHZFNNQksxR2NNQV9ZaVgzQnc2VQ?oc=5",
+        "media": "am730",
+        "published": "2026-10-25T02:26:01+00:00",
+        "tier": "media"
+      },
+      {
+        "title": "葉蒨文拍拖遊盡電影取景地 爆GM曾展望食完大王具足蟲變曱甴剋星",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQ0RGakZqUTg2Ni1NYVNKQjBnVVA2QlVYc0lJMVIyOWJxMzc2THlpR2VTOE9WM3J6bUd4TU1UOWpOdG01b0VjXzExanFVeWc1eGc?oc=5",
+        "media": "am730",
+        "published": "2026-10-22T07:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蟑螂及室內害蟲",
+    "categories": [
+      "蟑螂及室內害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "葉蒨文拍拖遊盡電影取景地爆GM曾展望食完大王具足蟲變曱甴剋星| 影片（共 2 個來源報道）",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-20T01:17:09.908732+00:00"
   }
 ]
