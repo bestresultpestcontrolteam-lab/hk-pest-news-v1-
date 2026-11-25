@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-25T05:20:19.250195+00:00",
-  "count": 146,
+  "generated": "2026-11-25T07:33:08.784173+00:00",
+  "count": 144,
   "items": [
+    {
+      "id": "29b02f49241f",
+      "title": "DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港",
+      "summary": "DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T06:11:47+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbVRFQl9aMlR5UDVDcXk3bmRoVFpKMHhwT0phdTUxU3hMUURUNTdDRjFMQ2FRRE9fLUhRNzN3SE5qMGFnWW03N1o3dFNOS3dZbVVVTHQtMXRJMHFkVkM5OXRPSEJBMml2QkJWUFA2bE9ac0hSeVBN?oc=5",
+          "media": "香港文匯報",
+          "published": "2026-11-25T06:11:47+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "33f4cfd8934b",
       "title": "謝展寰稱採取具針對性防治鼠患策略 目標年底前黑點數目減六成",
@@ -3788,79 +3811,6 @@
           "title": "大隴街鼠患｜食環署兩月捕近60隻活鼠 加派「夜鼠隊」加強滅鼠",
           "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQSEpNUnpMOWRlcTRjV3dwOW02S2k3VGF6M1luZzVpaXNiMUlxdGJLRGd3N3lTY2VoX3VKeEFPbUZqamY3d2h6MG5yeU9WcU5NckswUmZERy10bGhMNkxYVnBHbWJPaXEzNkRfbTVLRXdnSWF2S1NKWC1feE9qejFtN3hRVGFJbUphZDYtTHFBaEdaRkkzSjQ1RlZ4dEFzbUVPM3dhcHF4ZWxZQUYxTkdoS0tnLXFfQmdreS0tZEduSm5qMXFKNmxBcF9tMnhiNDhLOEFtNVBiRUU4Q3pDLV9hTkFKeDhKTXdsVDBadWdyQ1M4NXhwRFZZV1JZcGpINFJ4R0c3Y0szVm80UUMyeWQ3T2swUnZLcU41dzFVbWlyWi05cHdlMVRkVDRWVmNKSG5LREZBMFhnNGRFUVBTVm82QVh5NEUxWktYaWF2bkJIcExNQVMzeFI0TlpuREE5cVVRb0JqbUR1NHdYSThMb3VWR2dsSXM0ZElwbW05YUFJQUhXWVV2dWItRW5fLTA2Si1pNVFkd25VUTdOY1Awcjk1dDJMZlbSAYwBQVVfeXFMT09Ib3dOcjFxMjdLRU9XUzlHR21GcXhpRlBvNzU0OHlENkpmQlZZOEgwVlZrM2V4Y0hQLVRMandrSVNZLTBucTBGMlJTQmpobW1mYUxMbFRSQnc1clRfOUpaTDRoSXBWNHpyU3lOVTl3MkFMaXZ3U1lzZ09MSFFPN3dYQ3dYV0t4UWFLRl8?oc=5",
           "media": "Sing Tao Daily 星島日報加拿大",
-          "published": "2026-10-26T07:00:00+00:00",
-          "tier": "media"
-        }
-      ]
-    },
-    {
-      "id": "7d24ecb9864f",
-      "title": "超市三色米驚現穀牛？網友恥笑：含豐富蛋白質 蒜頭八角平價驅蟲！",
-      "summary": "超市三色米驚現穀牛？網友恥笑：含豐富蛋白質 蒜頭八角平價驅蟲！",
-      "management_note": "資料不足，請參閱原文",
-      "categories": [
-        "技術及藥劑"
-      ],
-      "priority": "低",
-      "priority_reason": "一般資訊",
-      "districts": [],
-      "first_seen": "2026-10-26T07:00:00+00:00",
-      "tier": "media",
-      "sources": [
-        {
-          "title": "超市三色米驚現穀牛？網友恥笑：含豐富蛋白質 蒜頭八角平價驅蟲！",
-          "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPMGxOLVJuSlF6b01pRk1JVzMtZTlzcDdEaGotclQ2d0ZaekRvRWlnQmJqd00xQktVRzRZRmJFbjdFVTZjNmhHSThHa3NBOXhidTE4V2Vlb2NFOGJqaFUwVjI4RTJSaFpIeGQ5UVZRREdpR09jVTh5ZU1oNXZoa0lyQTFHcmFXbXNnRzVJaUdGWXRLU1ZIM0VRSHlha2MxLXJTSS10bVZaZ3JNTkFKaUlWbnFtamZnakdoNXBwU0JJeUtEU1o4WWFPTHRIdDAxOTJmWFBIRlBKRkQ0MmtpdDdFYUVDcUEtMkJXSFVCVlk0Y2pJUzNPWDc4QU5ub251SWxsLVZiMGozaXhXV0hCd0Q0NVhZV0laYTNZSFFNcVktc2RNV3h0TWRCeUJMN3ZrSFNqY0Ywb081cU5NMDVrWm1nV0xYZ3NQbkFudmNLRzZocU5fQ3dGd2pyclBsYl82RTZ4WXFIdmt0MkQwekNud05lNkdWQll4NXNsUnhvU1d5bmdmNlJHU0lvZTF3NmtiUmlJZ1liS3JwSVlEZ2Rra1JrRQ?oc=5",
-          "media": "星島頭條",
-          "published": "2026-10-26T07:00:00+00:00",
-          "tier": "media"
-        }
-      ]
-    },
-    {
-      "id": "ad34a1f703fd",
-      "title": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
-      "summary": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
-      "management_note": "資料不足，請參閱原文",
-      "categories": [
-        "鼠患"
-      ],
-      "priority": "高",
-      "priority_reason": "食肆",
-      "districts": [
-        "九龍城"
-      ],
-      "first_seen": "2026-10-26T07:00:00+00:00",
-      "tier": "media",
-      "sources": [
-        {
-          "title": "紅磡鼠患｜紅磡必嘉坊食肆旁小巷現大批鼠群 餐廳衛生問題惹關注",
-          "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOZFBCYWFRWWZjb2hsWmZ5cXJfUW9PSGhPMGtuelN5NkxmeWlTVl8zQy1IVWdUY05qY1lja2gtMFYtQUtxcm00T3hvX1dkSlEyZk85cXhRbVlKTmkybU5Hd0VxbFpONVljcXpkYlNVQTdxbjFISk5TT1ZTQUJPUk8xUDQ4U2tCeDBESFZPWHk1Tm9HVkNqZFF4dWxOdXR5MUd3NHd6UGg4YnFCTlQwS2VhUUtEMnJRa1lKY3dWZkZXNG8zSUJueHcwdDZNWWlnS0o3Y2dxbGxjREhiLVZaU2dQZkZGOTd3T0ViTGJMMkMzT0FaVmZ3VVQzWEhQMU53aGE5SHlPdGROTzBTSzdsTW5JTzc1OEpJdUFfeTRjTDh3Q0gzYTNtcUJabU5fbk42TFBJWTA5LVdQeGY0akdYQ3F4TTFtR3FyTXhuNHNnSU5xSHU0ZUtGMlY3dmxXMGVTR1hEdnBPYkRlaGJOTm56SEg2UGxvS3Vrb2V3cndpTzJ6bG5EM3lRS2pPN3hzbEFyM3VzbWtBSlZSbGx4T2RWMThGcFNXSGdXQng1ZzZRQ3N5bWtsa0RySTJ3?oc=5",
-          "media": "香港經濟日報HKET",
-          "published": "2026-10-26T07:00:00+00:00",
-          "tier": "media"
-        }
-      ]
-    },
-    {
-      "id": "1948c892122b",
-      "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
-      "summary": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
-      "management_note": "資料不足，請參閱原文",
-      "categories": [
-        "鼠患"
-      ],
-      "priority": "低",
-      "priority_reason": "一般資訊",
-      "districts": [
-        "深水埗"
-      ],
-      "first_seen": "2026-10-26T07:00:00+00:00",
-      "tier": "media",
-      "sources": [
-        {
-          "title": "直擊石硤尾跑步男疑在貓糧投毒 義工裝cam擒人 揭藏老鼠藥利刀",
-          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNc1ZNdnZtS3E2bXcyaUlZeFhLdlZiUWRvODZnSGtHVUU2T05kR2FBNG0wS0dDU1NtWWk5ZGUyaDYwSHoxUlpCcmh1YnRLMkt4SFdiQkdYVzlIYlk1ZjVCSmJYaC1BdUs2ZC1SVmQyWktxSEx1MHd3UHZHOTlCQlZQaW5ScHB4c3lzajlSTDR3YWJVNWQxVnlReW5jQWlwbUxLWkhfV0RpVEVYUWZTc3RtcUhTbmRhbmhXYmcyUmpJNnhjWXNULS1jWGRGQnFHQ29mbW1QUndOc1dONVJVTW1EdUZ6N3BTTVdDTkxUbGdGR3dMMXQ4TW51alZjcXpsSlJaMVNnZzBJQTZFY2ZWNHhtbnFrcVpKRDNKU1J6TlBsVl9Rc3NDZl9fSXBEX3FvTnowQ1Joa1JYRVFBZGtpaE9TblhYRndpRjh4Q0YzTS1tWGlON2J2YlNUdVpGdUxxemQtWjBjM2FXZkJLSTh4dnVrS1JkVEltM1dDOWdodjlpWkRiMjFvVkJZUTNwMmlPaGFWeGQ3R1NDV0F1YklK?oc=5",
-          "media": "香港01",
           "published": "2026-10-26T07:00:00+00:00",
           "tier": "media"
         }
