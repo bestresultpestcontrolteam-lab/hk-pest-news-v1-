@@ -1,5 +1,66 @@
 [
   {
+    "id": "b275ba94590d",
+    "title": "Govt pledges 60pc elimination of rodent spots",
+    "description": "",
+    "first_seen": "2026-11-25T08:33:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "Govt pledges 60pc elimination of rodent spots",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmtiUkRucXlONGhzVlNiR3l6dXc5M29YNVhqOHpoaTFKVXRFb0wwNV85YXJ5OFBreWx3aTQzZFh3di1tWTBOUHQxOFR3SUNULVF0S3EzTXFIaHhicWZJNUNnMXg5c3E5Y2p1TVo0SlZKV0J4bFBYU1MzbWtHSWg1R2xsWExsX0htREd4aG1jdlV0Nl96LXRiYkJ2U1NwXzZRcmJJ?oc=5",
+        "media": "香港電台",
+        "published": "2026-11-25T08:33:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "Govt pledges 60pc elimination of rodent spots",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-25T09:22:15.879725+00:00"
+  },
+  {
+    "id": "0f259d8db1c5",
+    "title": "食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成",
+    "description": "",
+    "first_seen": "2026-11-25T08:14:42+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnJ1Wi1DNnE0N3E1U3dLUnBFX0JER2huOVpfMmdDbnJJNUpDd0haOXBTOThDYUc1RElLMEgycXQ4RGtYMWdnaWRnT254X0pUMS04Z1F0aWtpMjBmalBxZkxxcmNvUkY3Yzh3RXFkRVl5alZNX1BGT0FQQV83WEl3MjQ2ZVJzbEhzRzVj?oc=5",
+        "media": "on.cc東網",
+        "published": "2026-11-25T08:14:42+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 6,
+    "topic": null,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-25T09:22:15.879725+00:00"
+  },
+  {
     "id": "29b02f49241f",
     "title": "DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港",
     "description": "",
@@ -268,7 +329,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -406,7 +467,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -436,7 +497,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -658,7 +719,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -689,7 +750,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -828,7 +889,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -914,7 +975,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -958,7 +1019,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2042,7 +2103,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2447,7 +2508,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -3204,7 +3265,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "15f79c166547",
@@ -4766,7 +4827,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T07:33:08.784173+00:00"
+    "updated": "2026-11-25T09:22:15.879725+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

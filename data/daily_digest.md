@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-25）
 
-過去24小時共 28 個事件；高關注 9 個。
+過去24小時共 30 個事件；高關注 9 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -113,6 +113,20 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi0wNBVV95cUxQMldQRU54SXhyRWJtQi12c1B4b1NGR3EzXzd5a0tqeXpYcFFlUXRSWlNPZVR5SmJHakp6LUNSZi1uaGRsaWE2YkJVLS15NFZJOUxRQzFzdDZuT3dNMHZQV0lvY1F3OGswREZvdF9WNktPYmp2T0plQVRMdlY2cXpJd0toRjJqRG10MzF5UFFjUlBmWVdNRk5sLXNWYnZNVkF1bHd4NDFZYVF3bnEwT0ZPOVJvd1ZaOFBuZjI0VjNObzZWdW5VM1RiYTg4TTVtV1gybWtmZnBkNWZTS1JfdE14ekNsVS1vRUtrYVQ4b1BzMUFjSC04UmFFOGNadU5LQmx0aWhvcTlzT0hFdDB0WHlBMURjbG9JalVPYmtsQUw1YTU1NEU3VTJmc29PcTZ6cFZoaEFDMzRZSlRZSXl4R3NYZDhnMWljNDNIVDFHdEF3MnZSRjJNYlM1c09CbS1mUXF5dXlSZGZNZkVHMU5tX01TNFJOSFczVmZDeHdlMlotc0pCOThra2x6WXFrQnl6akxKc3RmM1F0UF9ycVF1YUpxanNodXpPbFRUVjRsS1JRUTduZDFxd3JDejNuYUI5T3AwVHFxcG5icUEzWFJhVXpIR1lzdw?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5)
+
+## 【低】Govt pledges 60pc elimination of rodent spots
+- 類別：鼠患；地區：未註明
+- 摘要：Govt pledges 60pc elimination of rodent spots
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港電台](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmtiUkRucXlONGhzVlNiR3l6dXc5M29YNVhqOHpoaTFKVXRFb0wwNV85YXJ5OFBreWx3aTQzZFh3di1tWTBOUHQxOFR3SUNULVF0S3EzTXFIaHhicWZJNUNnMXg5c3E5Y2p1TVo0SlZKV0J4bFBYU1MzbWtHSWg1R2xsWExsX0htREd4aG1jdlV0Nl96LXRiYkJ2U1NwXzZRcmJJ?oc=5)
+
+## 【低】食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
+- 類別：鼠患、政府政策及執法；地區：未註明
+- 摘要：食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnJ1Wi1DNnE0N3E1U3dLUnBFX0JER2huOVpfMmdDbnJJNUpDd0haOXBTOThDYUc1RElLMEgycXQ4RGtYMWdnaWRnT254X0pUMS04Z1F0aWtpMjBmalBxZkxxcmNvUkY3Yzh3RXFkRVl5alZNX1BGT0FQQV83WEl3MjQ2ZVJzbEhzRzVj?oc=5)
 
 ## 【低】DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港
 - 類別：鼠患；地區：未註明
