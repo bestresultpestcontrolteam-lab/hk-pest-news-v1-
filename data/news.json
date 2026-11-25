@@ -1,7 +1,54 @@
 {
-  "generated": "2026-11-25T13:33:05.274963+00:00",
-  "count": 146,
+  "generated": "2026-11-25T15:17:55.516088+00:00",
+  "count": 149,
   "items": [
+    {
+      "id": "ec2906ae737d",
+      "title": "食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%",
+      "summary": "食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T13:31:32+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rV1g1X2U4WE9pR1dYcU1TRWkzWlRvMXREQUhpSUZuaDhVeGFHWUVkQmR4MmdsaE45YnZnVjJ6THdJT1BsX3VMYi1yRGxxdkZFUWVSRW16UGUxUDdnamtEeXFn?oc=5",
+          "media": "Now 新聞",
+          "published": "2026-11-25T13:31:32+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "1b85df682e64",
+      "title": "港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物",
+      "summary": "港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T08:38:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物",
+          "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPekJKZWNCajRBUjlwSkNBT2hhNVQtX3JONmltZkJhbEgtUmVUTWY5QXg0TFF0eGdRY1VBaS1wYW9nbFgtYm9UYVR6VVVOeGozcDYxS2xDeDdsMkJPWmNUMndtU1NxeFh3Si1oSHB6TXBKUFlYOVZzUWQxNXE5QU10a3JJY19qc2RxOWlCcnp5cHdacTN4MElyQk1Yc0VoMDJOckNuek5aV3ViWjVnbFJ1aXNVbm1WNmZOTThTMTJ0N01yenpIcU1XMVdwS2lUNFhCMW16eDh1WXctcC1TT3dTWGd0cnE3NkVvWTRORDV0dUNkdFFNY0pQVm95TFk2Y01DTUc1MUU0MmRZYVl4T2VYSVk5bS00Y21OLThRcF9MNzdBOTVEMUdXSk1MYWhGQ1pQNmtrcTBXTEVvQ0V6NF9fclozNzVFNFQ5V2J6SFc0NWkyWjhJTS1HcmNfeU1oY2FsdjdTbERXd2xrQQ?oc=5",
+          "media": "TVB",
+          "published": "2026-11-25T08:38:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "b275ba94590d",
       "title": "Govt pledges 60pc elimination of rodent spots",
@@ -68,6 +115,30 @@
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbVRFQl9aMlR5UDVDcXk3bmRoVFpKMHhwT0phdTUxU3hMUURUNTdDRjFMQ2FRRE9fLUhRNzN3SE5qMGFnWW03N1o3dFNOS3dZbVVVTHQtMXRJMHFkVkM5OXRPSEJBMml2QkJWUFA2bE9ac0hSeVBN?oc=5",
           "media": "香港文匯報",
           "published": "2026-11-25T06:11:47+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "d694b01ab80d",
+      "title": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
+      "summary": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T05:29:27+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQlg1bVVrNVNmd2djY1l2WEN2NUVUaHhZWFNNR2gyNmpMc0wxTWhKdkFMSjVFVDY0Z3RjSHZIaGxGX090Z1ZkT0ljUnBHX0V4c1FwRVdVZDh0WHFYS2FUTFNKczNiZUxRNS0ya2Y4SUkwMWZQNWI0MzQyeHVIcElMRDBETkUwVUM4QlE3a0k2dnN3OVVqZU1RN0ppLUNYaDBxMHJneWcyNGl1VTgzY2o0SFBnLXhnaEloMWRpMTBaWkVoMkwxbVpsaHctalNJQkVvQ281TU0yZGdvNGhiSUxYSnExVjBLamNxdVk4bEh4TnpVS3A2ZGpWeGo2b3NqcjRFR0J4QjNHNmVsUEd2dFhnekNGTEdMazhWdk1OOE55Y29KODNsNVhYUA?oc=5",
+          "media": "am730",
+          "published": "2026-11-25T05:29:27+00:00",
           "tier": "media"
         }
       ]
