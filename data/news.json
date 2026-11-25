@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T23:06:04.809634+00:00",
-  "count": 140,
+  "generated": "2026-11-25T01:26:59.488910+00:00",
+  "count": 141,
   "items": [
     {
       "id": "000ca1173f95",
@@ -2886,6 +2886,29 @@
           "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPRUMwOE5CQnFHaWVYZ3VpbUM0R3dkdWVlX1l4V1NhaFd3cHVHQnFQVHRyNWJmMjVYMlpOeDA4UmVTZEJ0WWhNMjFoWXBSY21uVWsweklubkZHOW5qdU1lYkVxWWJNX2R1U2x1RGV0bnhfMXFTX3liMjNEaUlEbU8wcHNmQ2FILTNyNmVya0YzMVBlaUZzRklYeHVqR0E0VUpYZm9FcUM3Wjd3MGtFZzhtMVA0ZmdZUHlqNDVwRzlhZk9QOENRbmNlSlo1dUVvRzAzcm9JdVZfWks1LTFsSGw1ZDZsQjhDNHZDQU92VW9jb19JSHY0RldCUW5iZHc0OF8zczlvT3F6bllhZGNzdVR4U08zd3c5bExDVF93Q05aMTBjMFZPeC1CcmhmX2tSM21uQzFXUXZianVXT1ZkNUMwSDR3NndWOE9QVDVXV1hzMGhBMEk0S0x4d3hPVVhGeGlMOG83MDJNUkVjaHdESkoyQU1PaVcydWxBcnoyRUVjVmF3MkIyVmNsZEtKQWtTcEZ2WG9mSVhWbzYtUUE5WmtHMTQ3YklqS1lVeWl3VDZYRW9qcURRdFpncjF4bEZkNlVOUnZpbldUaHM?oc=5",
           "media": "香港01",
           "published": "2026-11-02T08:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "97eb3370e424",
+      "title": "蟑螂「學」會如何救人",
+      "summary": "蟑螂「學」會如何救人",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-01T11:56:40+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "蟑螂「學」會如何救人",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnRNQ3NsZVdsY0FPNlB3TkNBdmpxMVNvMENXcXNmODM1b1lNSTNuS2pzektmTU05Z01TdVNGNl9DWlBnZDEtdjh4eHhuTWdGTU5uU2thVlRZVDh0STFNMHY3UW1GNVJlLTZja2lLaEUyMUxwTUtENzVVbmViTkhmdkJULVM1RkdRV1Q4dEV0bW1xZXRObUdPdWYtYzZOTkwwZ3RtNGxHbnJNYnN2VUdJRWxMcWFlcG8xQW02VUQzZ2pvWElfU2loNklaMGt2UWNjM29UMEhFLWNWUQ?oc=5",
+          "media": "信報財經月刊",
+          "published": "2026-11-01T11:56:40+00:00",
           "tier": "media"
         }
       ]

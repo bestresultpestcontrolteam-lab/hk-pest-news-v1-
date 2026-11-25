@@ -114,13 +114,6 @@
 - 狀態：已發布
 - 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSF9OdWxZU01nVTZfR3Y0X0U2OWVURG1lUkhNbWx6emxEVzBaekE3V2Q0V3NIblEyN05qeHhRZnRjTTMtcF9WQU1Nc0YyRjJyU214Y2pyQ0VUSURIOTFTRmwzMGdZSEFaeUkwVWxsRHFGcHYtanhj?oc=5)
 
-## 【低】甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
-- 類別：鼠患；地區：未註明
-- 摘要：甘肅「死城」爆紅！全城僅5架的士連老鼠都冇 網民讚：適合躺平
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMingNBVV95cUxOOTFJWVAxVHlzT2JyNTFnekRsZklJY0hzVUxtb0NrU2M0bU9pWmZRalJTdzZBYVgwek52cXhqMGtUVDVSV0VJYm9RWllDWWRMa19aSGEzeDlOYVBqUHcza3JrQUFsSXhLN3RfWkZnNmtwT3lZWkV3OWxBSFloeGxXM2U5QzlBa09CS3U0ZXpnSHBOOTAxUDB4MkZYeFNVT3dRMERsM19aMXkxYWRLYzdscHYwT1d2M0ZFTGxIWlNsRXF5TGNzV3FFUGtqbl9XeXFjRGM1Q01uX1d4Y3RLU1pfMWd6VmtSVWxNZ09jYk9rOWJsZmNrTHo5TWl6ZjZ0X2h6eDBxQWstRjlOTkNGV0pJT3Q5aE1lb0lNZjNwYUZxMF9yaFcwVVZUSE8yeXZWV0NqR3RGbl9weFRzOXdCR09hV0l6WTdKWTBGTl92TTlBdmJUSENjY2w3OW93eU41SGxXMkxBVWxNejVGN2JjS0tqeUJJQnByNUdNLWJZSktEWFVPWGdRVUdpajk4cDNjNVg0NVVObXk1SElMNUJsZnc?oc=5)
-
 ## 【低】食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：食環署稱過去一周加強滅鼠 捕捉過百隻老鼠
@@ -141,6 +134,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[香港01](https://news.google.com/rss/articles/CBMi9AJBVV95cUxNdWJVeHZsZWhJTW5lcE9RLUNzbzNEQlZFU3hicm0zQXIxX1NmWEdwX3VrS1F4Zm1FbXVWWTU5WjB3UUtkN2J4Um12QWxyVnRMMThJX0syblNwQkswY2tYajJGaG5hcHo3S1RBajZoVk1tZkxnVUg4blNfamljVEprei1KOEdEQno2TW1LYWZiWElJR3hNRVNRMklwd1JBMmY0Mm1mY25SbFRiSGpkM2NRT0VLTHJxcnV2MUN4cEhUdktqbWZqR1RMTzFIYkcwNE1pYzhQREh5eU5CUGE2dy14MWlsWmxSNlpjRElKcjBUbDlReHFHRWFOLU9HcDZtSDhlcThkTkRJdEFNaGxQeGlfbXJvTlptaTRULTZlVlBHajU1ZFVvN1g2OU9BMU9MdzhKWktpRWxtNnJFS2FtOS1nMHlpY1ZCX3UxREt6eFpfYWFvZm52emtXMU43YzN3ay01VDY2V0Y4S0pKcnpFNUhlaklwb08?oc=5)
+
+## 【低】蟑螂「學」會如何救人
+- 類別：蟑螂及室內害蟲；地區：未註明
+- 摘要：蟑螂「學」會如何救人
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[信報財經月刊](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnRNQ3NsZVdsY0FPNlB3TkNBdmpxMVNvMENXcXNmODM1b1lNSTNuS2pzektmTU05Z01TdVNGNl9DWlBnZDEtdjh4eHhuTWdGTU5uU2thVlRZVDh0STFNMHY3UW1GNVJlLTZja2lLaEUyMUxwTUtENzVVbmViTkhmdkJULVM1RkdRV1Q4dEV0bW1xZXRObUdPdWYtYzZOTkwwZ3RtNGxHbnJNYnN2VUdJRWxMcWFlcG8xQW02VUQzZ2pvWElfU2loNklaMGt2UWNjM29UMEhFLWNWUQ?oc=5)
 
 ## 【低】食環署首三季捕近11萬活鼠超去年總數 專家指城市老鼠警覺性高須多管齊下
 - 類別：鼠患、政府政策及執法；地區：未註明
