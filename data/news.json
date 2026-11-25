@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T17:12:37.465451+00:00",
-  "count": 149,
+  "generated": "2026-11-25T19:02:25.122093+00:00",
+  "count": 150,
   "items": [
     {
       "id": "ec2906ae737d",
@@ -2382,6 +2382,29 @@
           "title": "尖沙咀海旁觀景台淪「老鼠觀光區」 拍攝者稱目測20隻以上遊走 (有片)",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USXhvX201OW4tUGNNTk80dkpmUU84aUtwT0l2Q1VHbi1EVlp2WWR0QzYyRklDcGpUY2V0SHNpdTM0OTF6QVhrMjZKa2M0eE9GY1E?oc=5",
           "media": "am730",
+          "published": "2026-11-09T08:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "7ed270c28fec",
+      "title": "台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛",
+      "summary": "台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-09T08:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Z2tZaURfUmIwV1hLdXlLQWdMNUNOZHV0M0dRTk9PYlZURnYxXzUyUjFtWXNNb1Byc2hOX2pYQnFqYlBLRUdLaDhmcVNkSW1zdUcxWDdsQWpJdzY3T2xPWU93?oc=5",
+          "media": "TVBS新聞",
           "published": "2026-11-09T08:00:00+00:00",
           "tier": "media"
         }
