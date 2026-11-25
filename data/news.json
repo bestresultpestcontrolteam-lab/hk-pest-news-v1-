@@ -1,7 +1,91 @@
 {
-  "generated": "2026-11-25T03:05:47.755836+00:00",
-  "count": 142,
+  "generated": "2026-11-25T05:20:19.250195+00:00",
+  "count": 146,
   "items": [
+    {
+      "id": "33f4cfd8934b",
+      "title": "謝展寰稱採取具針對性防治鼠患策略 目標年底前黑點數目減六成",
+      "summary": "謝展寰稱採取具針對性防治鼠患策略 目標年底前黑點數目減六成",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "中",
+      "priority_reason": "防治",
+      "districts": [],
+      "first_seen": "2026-11-25T05:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "謝展寰稱採取具針對性防治鼠患策略 目標年底前黑點數目減六成",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RbHdSd1h3dk1TS1pqU01yNXVXdTFtSUw2VGJ3SkRRRTRlcEFVbG9IX2ZUUEhXLW9DdEhsZ0R0OThiMnp2X0NFX1JXazRVR3U2cDNMMk5YN2xGR3hDdVI5R3daamE1MmJhRXBwRHVhUQ?oc=5",
+          "media": "RTHK News",
+          "published": "2026-11-25T05:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "c78074faeb8e",
+      "title": "立法會十八題：追蹤及防治鼠患",
+      "summary": "以下是今日（十一月二十五日）在立法會會議上陳學鋒議員的提問和環境及生態局局長謝展寰的書面答覆︰ 問題： 食物環境衞生署早前公布本年上半年全港整體「無鼠百分比」為96.4%，與去年上半年（96.0%）及下半年（96.1…（共 2 個來源報道）",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "蚊患及病媒疾病",
+        "技術及藥劑",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "商場、食肆、街市",
+      "districts": [
+        "灣仔",
+        "油尖旺",
+        "九龍城"
+      ],
+      "first_seen": "2026-11-25T04:00:00+00:00",
+      "tier": "official",
+      "sources": [
+        {
+          "title": "立法會十八題：追蹤及防治鼠患",
+          "url": "https://www.info.gov.hk/gia/general/202611/25/P2026112400497.htm",
+          "media": "政府新聞公報 RSS",
+          "published": "2026-11-25T04:00:00+00:00",
+          "tier": "official"
+        },
+        {
+          "title": "立法會十八題：追蹤及防治鼠患",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fMjhESHdiNmZnWlk4Nlk5UUJkZGNTRzZldDlmS0VWaWRpaTRjOHVyUTBSSlIyRDZQVmNMM24zZWY5bFdNZE5XOWV2LUpsTUlNRWNYVmZnOTNVaGpRZDRSQ2xWcG52YktGS1Vjd3ZyT2ZSQQ?oc=5",
+          "media": "香港政府資訊中心",
+          "published": "2026-11-25T04:04:10+00:00",
+          "tier": "official"
+        }
+      ]
+    },
+    {
+      "id": "6b5234e38b72",
+      "title": "議政四方｜陳學鋒倡政府統籌各部門處理鼠患",
+      "summary": "議政四方｜陳學鋒倡政府統籌各部門處理鼠患",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T03:39:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "議政四方｜陳學鋒倡政府統籌各部門處理鼠患",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ad1ViTzdiU1ZnSU1uZl9KbUtzV0tqVDQxV0tjRkJaQWxRTGlQYVdvamc2TkFDdlRFOXVySEZBQTFMUDN6Vm5uXzBqcEdiYy13ckZERWJvVTRIQ0poY05DOEhlNk9LV3Fpa1YtTS1PYw?oc=5",
+          "media": "RTHK News",
+          "published": "2026-11-25T03:39:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "9333d7047ad7",
       "title": "前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶",
@@ -21,6 +105,29 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcldfaEJtemRxYVZHNm4wSFNTbzl1SGFSVmlsdmlBYTJLX29KcFJkenRRLVNDZEpZU2YwZEtkTHVNOG9xQUszUTRJVnRHaGVPTXh3WnQ0RjYxdmVWcXFKWVZSaWh4b29yc1QtZEFES1JKQW5RckVjaHNJVHR5WlVsQkZIaW91ZUZ6c3Qw?oc=5",
           "media": "on.cc東網",
           "published": "2026-11-25T02:04:47+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "d6e6ced9276d",
+      "title": "濱崎真緒遇機艙老鼠 失$15萬首飾手錶 經理人：擺行李架即出事",
+      "summary": "濱崎真緒遇機艙老鼠 失$15萬首飾手錶 經理人：擺行李架即出事",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T01:05:45+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "濱崎真緒遇機艙老鼠 失$15萬首飾手錶 經理人：擺行李架即出事",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFJZb3Z4d0xhc21KNmRlSUVrSzVsQVVRM1pvYmRxQ2ZONTloLUhBWUxfMElHd1AyTEpRMUJ1eEhyZUE4enlrc1hCbUVvMTZrVlVLNTBnU3JQZmJVYkhXS3l0MDg1MzV5WW1VbUd1bnBVaGljUmJVTEtPaDhTQXQ4eGZUSjZvNWZBcElKcC1GdmR2VVBncllxOEFWeVZwaERSRkxiTkZvNnpMcC15N0M5enhYd2tlZ1hFN3VObmFXeGRaOUthbUo5RjZGSEVjLUQtUTRGblpzVEZXdHBpVXBUVi1FZ2V3YzRydFh4X3d4bl9XT2NzdDJHQ3psak5DczRMN1V3dDhVNm9HZGRjNkZoakhkbEZNcjM4Vkk2aTBxQ3d6SU1Da21neUczajB3Y3Zjb1VvYURIMjJmUC1FNThkVFYwbjRkV29EYVJNYl85dWh3U3pEQUpoNHZIOFN4MzNHU2oySjg2MXhHM0paT3VnU3VPUjVwaE91TjRhNGRScHlVazB2OTNKSG4yQWEyNjVyaHc?oc=5",
+          "media": "香港01",
+          "published": "2026-11-25T01:05:45+00:00",
           "tier": "media"
         }
       ]
@@ -60,7 +167,7 @@
     {
       "id": "3aa74d8d93e3",
       "title": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回",
-      "summary": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回",
+      "summary": "濱崎真緒坐香港快運遇「機艙老鼠」 手錶首飾盒被偷去心知難尋回（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患"
@@ -76,6 +183,13 @@
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPejFFbFRKR2JDNmtuYzd2SWV2WEpjeHAwaVZMSWVQcE1MaWV3RFRPaDFQQmdTT29WdGkwTGxMQmxQZm1iSlU1aXhuSjBBUElWdk1tVjVkZ2w2WFhkWXZ3R2RjUlFzWWFMeFlFS09nX2NkN1lyVGJUdnRTY2FpX2JSM2s4M3AxaWVDSy15Qm9vamtZRXFKVlJBOU91dk5mdEdkVEFHSDUxU0V5am1SYTcwLVZQa2tXUXUyN2pUSXd3d2d2Y2h6QkZJSGd1NFNZd1I4MDkxaWFTVGt1N2JjZXowSVF5NVlDd1hxWXRJakl5ZHZCWlVabWo0OUNXYlZSU1A0OFFVcHRzWUkySmlVQ0NsTmh1OTdmcnNUTy1mZUdTMVI1UlFhRjFqbVFoOVpYNEZOZHdWNUpRd2p2V0NTTElyM2ljMVFjOEtMQ0hKdG5lUDdMcGhDWTFad1MxTG5Hc3h6MDNNc0p1ZnhkOEQxVDN3eVljV0RzM1hMc2lMWG9BME9xcUZiVFkwX3Q5SnB6TFRlemJIUzVCWWtzU3ZsbDZDalNQdHRNaTZPV2tPLTBZbFB3eVpaSDVBbElmM0g?oc=5",
           "media": "香港01",
           "published": "2026-11-24T19:09:10+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "濱崎真緒回港遇「機艙老鼠」 手錶首飾盒同被偷",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU21pSXNLOFhDM2kyZmZXTEhqRHJFSWN0S0lRR3RVT0pCOTZTUHJ4R05mRS1ZY3hHLUNNaGxtdVpXdHUxUUlhMTQ2aWluMFVINkVQdm9pOXZqRXE3eFpwa0pEOWFXMkN4MnUyc2o0bUFnRGRyZ3pGUUhVdVpHa0dVYWRlb2J6QnF6azNSODhnUkZhNE02MThv?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-25T02:18:08+00:00",
           "tier": "media"
         }
       ]
