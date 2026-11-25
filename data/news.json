@@ -1,11 +1,34 @@
 {
-  "generated": "2026-11-25T01:26:59.488910+00:00",
-  "count": 141,
+  "generated": "2026-11-25T03:05:47.755836+00:00",
+  "count": 142,
   "items": [
+    {
+      "id": "9333d7047ad7",
+      "title": "前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶",
+      "summary": "前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-25T02:04:47+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcldfaEJtemRxYVZHNm4wSFNTbzl1SGFSVmlsdmlBYTJLX29KcFJkenRRLVNDZEpZU2YwZEtkTHVNOG9xQUszUTRJVnRHaGVPTXh3WnQ0RjYxdmVWcXFKWVZSaWh4b29yc1QtZEFES1JKQW5RckVjaHNJVHR5WlVsQkZIaW91ZUZ6c3Qw?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-25T02:04:47+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "000ca1173f95",
       "title": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋",
-      "summary": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋",
+      "summary": "獨家報道：中環活化項目 月租2.3萬淪曱甴屋（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "蟑螂及室內害蟲"
@@ -23,6 +46,13 @@
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQYWtnT3hOOFU4LXV2UFFwRHRtZUg5T3UxUTd0LWF5c3JpNGJ1WWdyU2o2LUs0ZXp0S0NjWkI3UFhMbXVEcVg3Vjk0SzRGUHo5V0xrZDFPSUZrb19ubGZnMlhwZkRrOTZsNFBtR0E1bWZXVG1SMWV1U3ZKWFVMWlVyMng2MWhxMFhNVDZJU0ZCN1duQ1dDaE95UjhUSU9IXzYwVkE3RjM5NEtzU3RIZmRVOTNXdEhoZE4zVXg0TEZOdmJvYi1TZlU3T3RCdEF6T1JaZnNvVnBMVXRaS0I4a29xTllZTlZrU3FBT21tVTkxcl9iMnpybFk0UjJTZzRTMktVVFNVX1VjVm41VEJHZHBSejI1NURNMEZ0RFNFZkpnOVJsN0FrRi1LSnoxTXplbFNzOFZTbkF3NHpaRGxIdlNPeVhLSHBXNG9RaVRnbE9jdnJoNV90Ym1HQ1NlV3ZZalQ2c0RvYmZvU1h2REtqaEIwSU5raHRtUGc0RGtjVm1vaXpJUQ?oc=5",
           "media": "東方日報",
           "published": "2026-11-24T19:41:42+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "東方日報A1：中環活化項目 月租2.3萬淪曱甴屋",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVowaFdOLUI5ZEpsZ0NLMGdYZXAzNEtSR3k4c1d1RGdIYXJRZDdUSGdISFhDQ29sMjRsdnJ3UEgwNFJLWElmQ0N2WXRCMDZrUGJwZmZKT3pNUEhycEh3aF9nM1BRMkk2NVdqVERMSU5tT1l5S0M5Nlc5bXZxYXR3Ymx6SGNWaXJPd2k0?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-24T19:39:45+00:00",
           "tier": "media"
         }
       ]
