@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 30 個事件；高關注 9 個。
+過去24小時共 28 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -148,20 +148,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPekJKZWNCajRBUjlwSkNBT2hhNVQtX3JONmltZkJhbEgtUmVUTWY5QXg0TFF0eGdRY1VBaS1wYW9nbFgtYm9UYVR6VVVOeGozcDYxS2xDeDdsMkJPWmNUMndtU1NxeFh3Si1oSHB6TXBKUFlYOVZzUWQxNXE5QU10a3JJY19qc2RxOWlCcnp5cHdacTN4MElyQk1Yc0VoMDJOckNuek5aV3ViWjVnbFJ1aXNVbm1WNmZOTThTMTJ0N01yenpIcU1XMVdwS2lUNFhCMW16eDh1WXctcC1TT3dTWGd0cnE3NkVvWTRORDV0dUNkdFFNY0pQVm95TFk2Y01DTUc1MUU0MmRZYVl4T2VYSVk5bS00Y21OLThRcF9MNzdBOTVEMUdXSk1MYWhGQ1pQNmtrcTBXTEVvQ0V6NF9fclozNzVFNFQ5V2J6SFc0NWkyWjhJTS1HcmNfeU1oY2FsdjdTbERXd2xrQQ?oc=5)
-
-## 【低】Govt pledges 60pc elimination of rodent spots
-- 類別：鼠患；地區：未註明
-- 摘要：Govt pledges 60pc elimination of rodent spots
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港電台](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmtiUkRucXlONGhzVlNiR3l6dXc5M29YNVhqOHpoaTFKVXRFb0wwNV85YXJ5OFBreWx3aTQzZFh3di1tWTBOUHQxOFR3SUNULVF0S3EzTXFIaHhicWZJNUNnMXg5c3E5Y2p1TVo0SlZKV0J4bFBYU1MzbWtHSWg1R2xsWExsX0htREd4aG1jdlV0Nl96LXRiYkJ2U1NwXzZRcmJJ?oc=5)
-
-## 【低】食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署今年至10月檢獲逾14萬隻老鼠 目標年底前鼠患黑點減6成
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnJ1Wi1DNnE0N3E1U3dLUnBFX0JER2huOVpfMmdDbnJJNUpDd0haOXBTOThDYUc1RElLMEgycXQ4RGtYMWdnaWRnT254X0pUMS04Z1F0aWtpMjBmalBxZkxxcmNvUkY3Yzh3RXFkRVl5alZNX1BGT0FQQV83WEl3MjQ2ZVJzbEhzRzVj?oc=5)
 
 ## 【低】鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
