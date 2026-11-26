@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 30 個事件；高關注 9 個。
+過去24小時共 31 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -190,6 +190,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSGtEUHdLcUNmU21YcUMyMjd4akZfd3lxTlVLejliT1huNk5Pd3RTQkNzbGNqV1luamw5MW9kcnFiZnNSZmt1XzdtZFB5M0RWQXZUSDRpWUxUOElGazY0WFAtbnZGRzBHVUFVYi1DOWk1T2xaSGZTdW1pYjQzazA3by11SnpHNThpNF9odkpqcDZZTXRseFZiZVpTQWpVTzBTZFRHeXhZTmR5TkxEUlAzUThZbTlxS1hmamRHdGFpUzh6bGxDVm4waDlHZm1SM1pfM1hZVFpWaVBWVXB5dWo1dmEzRy1KVk1vNzRUV2lNUUNEcC1iT0pXREhESGxTYjF6Z0dVMERYQjgtUVd3RHNIdjZ2eF9nVmNsdUs2SzRoNURNMUxlOUFYa0NNSQ?oc=5)
+
+## 【低】油尖旺捕鼠量冠全港 直擊食環署蟲鼠組「油炸鬼 + AI」滅鼠行動 | 星島申訴王
+- 類別：鼠患、政府政策及執法；地區：油尖旺
+- 摘要：油尖旺捕鼠量冠全港 直擊食環署蟲鼠組「油炸鬼 + AI」滅鼠行動 | 星島申訴王
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMivwNBVV95cUxOMUtQTkRnRlVZUm9veloyQnZYN0xTbWcwZ3lWNW15bExFWDMtVzBwYW1Jc1FGV3V2MjIxYlRYajdHQU8xSzlqdjlNNU8xNlBISkpPVUV3dFBENVNQNzVDQldlV29QblFSRURsbmFlSUQ1SjRXTl9KSDY3c2hVY0JxemU1Mk1nNzNQV2laNVNBajlHcnZZeVZQbGFBMzdrNF81blc4R2JEWDFlMWJVTUpMcHpXQkxmVE85Y21tZFBCMzd4RTJtcm5USllJT19CUW1Ubk5vRGN4NnBCS0RvZzVZdEk3WTEwdW5fWkJRMFBhZWFYNnBVTDJyUkVNQkhnaUE0Um9JbUtCRWdxYk5vem51dHdZSkVUSDNFUktXd056eURTNHFTclVlZ05XcWtiRmw1Wnp3dmdrRUxTYVByVVBXZTdqRHhteUVTVWdwZW9RYUE0Ti1ocC1sbmVrd0swQ3R5cWRfM0NHc3IweFMtcE55OUV2cmVXRHgyTS0wenJaaElyTDVTQmxGVWlSWlh6eGg4elptY0JOb19OQ0RGcjJ6d0VUYjF2U3NpdVJNNEt0aHV2TzRRa3RlSmszNmliU2s?oc=5)
 
 ## 【低】台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛
 - 類別：蟑螂及室內害蟲；地區：未註明
