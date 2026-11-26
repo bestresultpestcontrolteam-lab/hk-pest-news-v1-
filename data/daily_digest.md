@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 31 個事件；高關注 9 個。
+過去24小時共 30 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -162,13 +162,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnJ1Wi1DNnE0N3E1U3dLUnBFX0JER2huOVpfMmdDbnJJNUpDd0haOXBTOThDYUc1RElLMEgycXQ4RGtYMWdnaWRnT254X0pUMS04Z1F0aWtpMjBmalBxZkxxcmNvUkY3Yzh3RXFkRVl5alZNX1BGT0FQQV83WEl3MjQ2ZVJzbEhzRzVj?oc=5)
-
-## 【低】DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港
-- 類別：鼠患；地區：未註明
-- 摘要：DJ浜崎真緒日本返港疑遇「機艙老鼠」 手錶珠寶等逾15萬元財物不翼而飛- 香港
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbVRFQl9aMlR5UDVDcXk3bmRoVFpKMHhwT0phdTUxU3hMUURUNTdDRjFMQ2FRRE9fLUhRNzN3SE5qMGFnWW03N1o3dFNOS3dZbVVVTHQtMXRJMHFkVkM5OXRPSEJBMml2QkJWUFA2bE9ac0hSeVBN?oc=5)
 
 ## 【低】鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
