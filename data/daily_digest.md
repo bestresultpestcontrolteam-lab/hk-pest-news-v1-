@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 33 個事件；高關注 10 個。
+過去24小時共 30 個事件；高關注 9 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -15,13 +15,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5)；[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5)
-
-## 【高】立法會十八題：追蹤及防治鼠患
-- 類別：鼠患、蚊患及病媒疾病、技術及藥劑、政府政策及執法；地區：灣仔、油尖旺、九龍城
-- 摘要：以下是今日（十一月二十五日）在立法會會議上陳學鋒議員的提問和環境及生態局局長謝展寰的書面答覆︰ 問題： 食物環境衞生署早前公布本年上半年全港整體「無鼠百分比」為96.4%，與去年上半年（96.0%）及下半年（96.1…（共 2 個來源報道）
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/25/P2026112400497.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5fMjhESHdiNmZnWlk4Nlk5UUJkZGNTRzZldDlmS0VWaWRpaTRjOHVyUTBSSlIyRDZQVmNMM24zZWY5bFdNZE5XOWV2LUpsTUlNRWNYVmZnOTNVaGpRZDRSQ2xWcG52YktGS1Vjd3ZyT2ZSQQ?oc=5)
 
 ## 【高】土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片
 - 類別：鼠患；地區：九龍城
@@ -107,6 +100,20 @@
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi0wNBVV95cUxQMldQRU54SXhyRWJtQi12c1B4b1NGR3EzXzd5a0tqeXpYcFFlUXRSWlNPZVR5SmJHakp6LUNSZi1uaGRsaWE2YkJVLS15NFZJOUxRQzFzdDZuT3dNMHZQV0lvY1F3OGswREZvdF9WNktPYmp2T0plQVRMdlY2cXpJd0toRjJqRG10MzF5UFFjUlBmWVdNRk5sLXNWYnZNVkF1bHd4NDFZYVF3bnEwT0ZPOVJvd1ZaOFBuZjI0VjNObzZWdW5VM1RiYTg4TTVtV1gybWtmZnBkNWZTS1JfdE14ekNsVS1vRUtrYVQ4b1BzMUFjSC04UmFFOGNadU5LQmx0aWhvcTlzT0hFdDB0WHlBMURjbG9JalVPYmtsQUw1YTU1NEU3VTJmc29PcTZ6cFZoaEFDMzRZSlRZSXl4R3NYZDhnMWljNDNIVDFHdEF3MnZSRjJNYlM1c09CbS1mUXF5dXlSZGZNZkVHMU5tX01TNFJOSFczVmZDeHdlMlotc0pCOThra2x6WXFrQnl6akxKc3RmM1F0UF9ycVF1YUpxanNodXpPbFRUVjRsS1JRUTduZDFxd3JDejNuYUI5T3AwVHFxcG5icUEzWFJhVXpIR1lzdw?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5)
 
+## 【低】屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重
+- 類別：鼠患；地區：屯門
+- 摘要：屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[TVB](https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZnFVamlvMlk5R3BwU3Rnd2FRSHlvRWJPdkxIeXRMR2pPNlVNeFpDOFl3V25SaURnWVVudDdiaHhoM2dTWE1nYzJvN2FtZkVoMEtBSTRON21UeWdNUWxxclRmb3NOWUFwdVZOZ0NZQ01KbjBGRWVZSzkyTXpjN2tfMS0zczZwZkk5TTdwb01uQW1kcjFJREoyMWI2ZkJaTEZ3LVJfcC1QY1RRQjY1UFczeWQ4cWJvT0NzbFlsMW5wUUdOYkNsU2dVME5neVJUb202Vko4NVZMWDFfMnhVR2piN2lEYjNGbE05aVAzVXBZbUZPMF80UlBfRzdPNkphUVV4M3VQX3Y4X1h3X05yczR5V0U1QVFxWlVLR2tUdmNHcXZKQWV5MUF4Q2pQRFJOQWtoSV8zS3ZqdF9hQWZONGdWVm9la2VsbUFocVB5dURzbFloUE14QVhtSjlYSEhMYW13dDRNb2JoeEo2V21WOWNNOWxJZw?oc=5)
+
+## 【低】課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂
+- 類別：鼠患；地區：未註明
+- 摘要：課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[星島頭條](https://news.google.com/rss/articles/CBMinANBVV95cUxNaUo0OFQ3bWR6eUQ4N3cwWFpkcGpEMWstcVc2ZEpMRGFTMFRmU0ZZVEdLNmRVd2V4TTJMOG8xTWNGdEtxcmlFM2hORVY4MUd2M042MnNtUnRpTlVJM1p5aF9LQnA3Ri1pTDhjQngyeUNUUVN5bUlseEVpaFlNc2JOaFhFVnhwbVZNMlVQLU0wWl95MXF3TjdMaTRsVW5aTGlKb1I1aEgwUEI4TG5VNk5WZ2dnMUprR2Nmcy1VdHFyTkZsMVI3UUVyck1ybjZIaTdMMHZiV1hrWExGVzZocTE5RmxBN1h5OTFpVkZXcXo3Rm9DQnlCZzZEeGNHODRnSTRRMFNQMkphaHc1T2h2MjRTanhvb3RWRVR2ZmU5YnFEazVGM1dtTGlLUTlvRmtET3dKLUMwNnUtZnE1ZjNuTzNHQm80WlRaVklsRVRHdHZ1TFFtNGE3UXUyU2g4MFZSWVpTRi11UXNJR3JSNTJxTFFVYUdXWmNleUdLb2RRNzQ3V3BKalRtMnJaSmtPdVZ0X0w4dUNSeXRXZDEwU0Uw?oc=5)
+
 ## 【低】上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
 - 類別：鼠患；地區：未註明
 - 摘要：上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
@@ -170,27 +177,6 @@
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQlg1bVVrNVNmd2djY1l2WEN2NUVUaHhZWFNNR2gyNmpMc0wxTWhKdkFMSjVFVDY0Z3RjSHZIaGxGX090Z1ZkT0ljUnBHX0V4c1FwRVdVZDh0WHFYS2FUTFNKczNiZUxRNS0ya2Y4SUkwMWZQNWI0MzQyeHVIcElMRDBETkUwVUM4QlE3a0k2dnN3OVVqZU1RN0ppLUNYaDBxMHJneWcyNGl1VTgzY2o0SFBnLXhnaEloMWRpMTBaWkVoMkwxbVpsaHctalNJQkVvQ281TU0yZGdvNGhiSUxYSnExVjBLamNxdVk4bEh4TnpVS3A2ZGpWeGo2b3NqcjRFR0J4QjNHNmVsUEd2dFhnekNGTEdMazhWdk1OOE55Y29KODNsNVhYUA?oc=5)
 
-## 【低】議政四方｜陳學鋒倡政府統籌各部門處理鼠患
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：議政四方｜陳學鋒倡政府統籌各部門處理鼠患
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE1ad1ViTzdiU1ZnSU1uZl9KbUtzV0tqVDQxV0tjRkJaQWxRTGlQYVdvamc2TkFDdlRFOXVySEZBQTFMUDN6Vm5uXzBqcEdiYy13ckZERWJvVTRIQ0poY05DOEhlNk9LV3Fpa1YtTS1PYw?oc=5)
-
-## 【低】前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶
-- 類別：鼠患；地區：未註明
-- 摘要：前AV女優濱崎真緒乘航班回港遇「機艙老鼠」 失15萬元首飾及手錶
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcldfaEJtemRxYVZHNm4wSFNTbzl1SGFSVmlsdmlBYTJLX29KcFJkenRRLVNDZEpZU2YwZEtkTHVNOG9xQUszUTRJVnRHaGVPTXh3WnQ0RjYxdmVWcXFKWVZSaWh4b29yc1QtZEFES1JKQW5RckVjaHNJVHR5WlVsQkZIaW91ZUZ6c3Qw?oc=5)
-
-## 【低】濱崎真緒遇機艙老鼠 失$15萬首飾手錶 經理人：擺行李架即出事
-- 類別：鼠患；地區：未註明
-- 摘要：濱崎真緒遇機艙老鼠 失$15萬首飾手錶 經理人：擺行李架即出事
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[香港01](https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFJZb3Z4d0xhc21KNmRlSUVrSzVsQVVRM1pvYmRxQ2ZONTloLUhBWUxfMElHd1AyTEpRMUJ1eEhyZUE4enlrc1hCbUVvMTZrVlVLNTBnU3JQZmJVYkhXS3l0MDg1MzV5WW1VbUd1bnBVaGljUmJVTEtPaDhTQXQ4eGZUSjZvNWZBcElKcC1GdmR2VVBncllxOEFWeVZwaERSRkxiTkZvNnpMcC15N0M5enhYd2tlZ1hFN3VObmFXeGRaOUthbUo5RjZGSEVjLUQtUTRGblpzVEZXdHBpVXBUVi1FZ2V3YzRydFh4X3d4bl9XT2NzdDJHQ3psak5DczRMN1V3dDhVNm9HZGRjNkZoakhkbEZNcjM4Vkk2aTBxQ3d6SU1Da21neUczajB3Y3Zjb1VvYURIMjJmUC1FNThkVFYwbjRkV29EYVJNYl85dWh3U3pEQUpoNHZIOFN4MzNHU2oySjg2MXhHM0paT3VnU3VPUjVwaE91TjRhNGRScHlVazB2OTNKSG4yQWEyNjVyaHc?oc=5)
-
 ## 【低】食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
 - 類別：鼠患、政府政策及執法；地區：未註明
 - 摘要：食環署「雷霆」遏鼠患捕逾百隻活鼠- 香港
@@ -204,13 +190,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSGtEUHdLcUNmU21YcUMyMjd4akZfd3lxTlVLejliT1huNk5Pd3RTQkNzbGNqV1luamw5MW9kcnFiZnNSZmt1XzdtZFB5M0RWQXZUSDRpWUxUOElGazY0WFAtbnZGRzBHVUFVYi1DOWk1T2xaSGZTdW1pYjQzazA3by11SnpHNThpNF9odkpqcDZZTXRseFZiZVpTQWpVTzBTZFRHeXhZTmR5TkxEUlAzUThZbTlxS1hmamRHdGFpUzh6bGxDVm4waDlHZm1SM1pfM1hZVFpWaVBWVXB5dWo1dmEzRy1KVk1vNzRUV2lNUUNEcC1iT0pXREhESGxTYjF6Z0dVMERYQjgtUVd3RHNIdjZ2eF9nVmNsdUs2SzRoNURNMUxlOUFYa0NNSQ?oc=5)
-
-## 【低】油尖旺捕鼠量冠全港 直擊食環署蟲鼠組「油炸鬼 + AI」滅鼠行動 | 星島申訴王
-- 類別：鼠患、政府政策及執法；地區：油尖旺
-- 摘要：油尖旺捕鼠量冠全港 直擊食環署蟲鼠組「油炸鬼 + AI」滅鼠行動 | 星島申訴王
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[星島頭條](https://news.google.com/rss/articles/CBMivwNBVV95cUxOMUtQTkRnRlVZUm9veloyQnZYN0xTbWcwZ3lWNW15bExFWDMtVzBwYW1Jc1FGV3V2MjIxYlRYajdHQU8xSzlqdjlNNU8xNlBISkpPVUV3dFBENVNQNzVDQldlV29QblFSRURsbmFlSUQ1SjRXTl9KSDY3c2hVY0JxemU1Mk1nNzNQV2laNVNBajlHcnZZeVZQbGFBMzdrNF81blc4R2JEWDFlMWJVTUpMcHpXQkxmVE85Y21tZFBCMzd4RTJtcm5USllJT19CUW1Ubk5vRGN4NnBCS0RvZzVZdEk3WTEwdW5fWkJRMFBhZWFYNnBVTDJyUkVNQkhnaUE0Um9JbUtCRWdxYk5vem51dHdZSkVUSDNFUktXd056eURTNHFTclVlZ05XcWtiRmw1Wnp3dmdrRUxTYVByVVBXZTdqRHhteUVTVWdwZW9RYUE0Ti1ocC1sbmVrd0swQ3R5cWRfM0NHc3IweFMtcE55OUV2cmVXRHgyTS0wenJaaElyTDVTQmxGVWlSWlh6eGg4elptY0JOb19OQ0RGcjJ6d0VUYjF2U3NpdVJNNEt0aHV2TzRRa3RlSmszNmliU2s?oc=5)
 
 ## 【低】台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛
 - 類別：蟑螂及室內害蟲；地區：未註明

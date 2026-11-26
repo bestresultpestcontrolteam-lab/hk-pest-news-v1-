@@ -1,5 +1,67 @@
 [
   {
+    "id": "d389c89ea846",
+    "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+    "description": "",
+    "first_seen": "2026-11-26T03:29:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQZnFVamlvMlk5R3BwU3Rnd2FRSHlvRWJPdkxIeXRMR2pPNlVNeFpDOFl3V25SaURnWVVudDdiaHhoM2dTWE1nYzJvN2FtZkVoMEtBSTRON21UeWdNUWxxclRmb3NOWUFwdVZOZ0NZQ01KbjBGRWVZSzkyTXpjN2tfMS0zczZwZkk5TTdwb01uQW1kcjFJREoyMWI2ZkJaTEZ3LVJfcC1QY1RRQjY1UFczeWQ4cWJvT0NzbFlsMW5wUUdOYkNsU2dVME5neVJUb202Vko4NVZMWDFfMnhVR2piN2lEYjNGbE05aVAzVXBZbUZPMF80UlBfRzdPNkphUVV4M3VQX3Y4X1h3X05yczR5V0U1QVFxWlVLR2tUdmNHcXZKQWV5MUF4Q2pQRFJOQWtoSV8zS3ZqdF9hQWZONGdWVm9la2VsbUFocVB5dURzbFloUE14QVhtSjlYSEhMYW13dDRNb2JoeEo2V21WOWNNOWxJZw?oc=5",
+        "media": "TVB",
+        "published": "2026-11-26T03:29:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "屯門"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T05:21:36.476324+00:00"
+  },
+  {
+    "id": "2f7460178350",
+    "title": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+    "description": "",
+    "first_seen": "2026-11-26T03:00:03+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNaUo0OFQ3bWR6eUQ4N3cwWFpkcGpEMWstcVc2ZEpMRGFTMFRmU0ZZVEdLNmRVd2V4TTJMOG8xTWNGdEtxcmlFM2hORVY4MUd2M042MnNtUnRpTlVJM1p5aF9LQnA3Ri1pTDhjQngyeUNUUVN5bUlseEVpaFlNc2JOaFhFVnhwbVZNMlVQLU0wWl95MXF3TjdMaTRsVW5aTGlKb1I1aEgwUEI4TG5VNk5WZ2dnMUprR2Nmcy1VdHFyTkZsMVI3UUVyck1ybjZIaTdMMHZiV1hrWExGVzZocTE5RmxBN1h5OTFpVkZXcXo3Rm9DQnlCZzZEeGNHODRnSTRRMFNQMkphaHc1T2h2MjRTanhvb3RWRVR2ZmU5YnFEazVGM1dtTGlLUTlvRmtET3dKLUMwNnUtZnE1ZjNuTzNHQm80WlRaVklsRVRHdHZ1TFFtNGE3UXUyU2g4MFZSWVpTRi11UXNJR3JSNTJxTFFVYUdXWmNleUdLb2RRNzQ3V3BKalRtMnJaSmtPdVZ0X0w4dUNSeXRXZDEwU0Uw?oc=5",
+        "media": "星島頭條",
+        "published": "2026-11-26T03:00:03+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "課堂驚魂｜滬女師遭8cm老鼠鑽褲腳 免嚇學生強裝鎮定捏鼠至落堂",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T05:21:36.476324+00:00"
+  },
+  {
     "id": "1f877521a400",
     "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
     "description": "",
@@ -272,7 +334,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T19:02:25.122093+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "33f4cfd8934b",
@@ -476,7 +538,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -513,7 +575,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -651,7 +713,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -681,7 +743,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -903,7 +965,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -934,7 +996,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -1159,7 +1221,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1203,7 +1265,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2097,7 +2159,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "f87f3a8aed6d",
@@ -2287,7 +2349,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2692,7 +2754,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -3479,7 +3541,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "15f79c166547",
@@ -4645,7 +4707,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -5041,7 +5103,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T03:04:02.808005+00:00"
+    "updated": "2026-11-26T05:21:36.476324+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",
