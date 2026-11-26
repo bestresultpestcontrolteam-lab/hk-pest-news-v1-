@@ -1,5 +1,36 @@
 [
   {
+    "id": "f8274a29e3af",
+    "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+    "description": "",
+    "first_seen": "2026-11-26T19:00:00+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa1hxUTN2ZE40UHAxeFpLYWVBbzc5MkExeUh0MTQzbWZiNWZoSmRydThxZTdKOGlKVV9uQjhySmlicWRHSHZ2LVpRUFlHQV9VV19SZjN1NUxTajROZGYyMkV0SU15TGJvMElTYzY3eVdXd3FiM3d2TG5jVEI2cUFmdGVTZWlOTVJXLU9ELWtSWnRabDQ2d0JwZHU2MXN3c05HUU9kMS0tVlRLemt2OFppVDBjeFEyMnRzeFRNa3ZuLUl1dEZtSmJnT0JUbXdsc1F1am04YUp3NXlIT2lBR0s5WElOV1NoLTNsOV9sR3FFTGRxXzUtZ1lidWo3anBVZ2kzS2JfUFdCQjlaQV9OMzRvWEpRYV9oVm5RMXBQVTZXTE9raHp5TU0ybTJvcw?oc=5",
+        "media": "星島頭條",
+        "published": "2026-11-26T19:00:00+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患",
+      "政府政策及執法"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T21:03:14.764516+00:00"
+  },
+  {
     "id": "d389c89ea846",
     "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
     "description": "",
@@ -29,7 +60,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "2f7460178350",
@@ -59,7 +90,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "1f877521a400",
@@ -568,7 +599,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -605,7 +636,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -743,7 +774,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -773,7 +804,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -995,7 +1026,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -1026,7 +1057,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -1251,7 +1282,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1295,7 +1326,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2379,7 +2410,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2784,7 +2815,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -2880,7 +2911,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T13:30:42.178174+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -3571,7 +3602,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "15f79c166547",
@@ -5133,7 +5164,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T17:17:25.926629+00:00"
+    "updated": "2026-11-26T21:03:14.764516+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

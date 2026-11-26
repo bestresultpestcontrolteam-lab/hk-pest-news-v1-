@@ -1,7 +1,31 @@
 {
-  "generated": "2026-11-26T19:09:40.263329+00:00",
-  "count": 153,
+  "generated": "2026-11-26T21:03:14.764516+00:00",
+  "count": 154,
   "items": [
+    {
+      "id": "f8274a29e3af",
+      "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+      "summary": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-26T19:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa1hxUTN2ZE40UHAxeFpLYWVBbzc5MkExeUh0MTQzbWZiNWZoSmRydThxZTdKOGlKVV9uQjhySmlicWRHSHZ2LVpRUFlHQV9VV19SZjN1NUxTajROZGYyMkV0SU15TGJvMElTYzY3eVdXd3FiM3d2TG5jVEI2cUFmdGVTZWlOTVJXLU9ELWtSWnRabDQ2d0JwZHU2MXN3c05HUU9kMS0tVlRLemt2OFppVDBjeFEyMnRzeFRNa3ZuLUl1dEZtSmJnT0JUbXdsc1F1am04YUp3NXlIT2lBR0s5WElOV1NoLTNsOV9sR3FFTGRxXzUtZ1lidWo3anBVZ2kzS2JfUFdCQjlaQV9OMzRvWEpRYV9oVm5RMXBQVTZXTE9raHp5TU0ybTJvcw?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-26T19:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "d389c89ea846",
       "title": "屯門快餐店現大鼠爬行 食客受驚大叫 網民指附近鼠患嚴重",
