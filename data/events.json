@@ -1,5 +1,35 @@
 [
   {
+    "id": "1f877521a400",
+    "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+    "description": "",
+    "first_seen": "2026-11-26T01:10:38+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPcVpWZEdabnUxWDJwdGdYeklidmZmUkZ2X2ptMGRWWUVvQWtUQ3dhRFEzaUQtQktxMlhXaVdicDF3UVpPNnZTOHZFUVp5R1ZQaVhOUzhtWldKQWZTLTFkOUNVOWMzQno1Y25OTGU3Q2NISmVwd3QtMnhMQ1pzZ0pXSllsRzJfOERkTUdPY0I1OUwyaExoNmxWWkhyZW41WXFsMlFkaHdyUi1HY3ZGYXBIT3lERE16elRwNkxQRjhjVTRYR3g1cXBCVzJLYmdUUklaM21NbGY3YktXTnRVREJNeWREMjJiX25MLWZaNUdpdWxuM3NSU3Q4akwxOXdEWTFlWjExTHpDU0hVZXhmbUQ3bEJEblZsMFVFeWh2Z3Vyd2dDUm84OW50SVI0RlV2QXg2eGZtbTM3MC1SUTFzekphN1YyVUF3eHljb0FuLTVoaDB3QUo0YzJpQ0piU3JPZUt3YzQtbXd2NWdWS3BfUm9vdkEzSmc2SjJleXMwSXFaelJ5czJVYlJiRFhMRjZtREJSQWV5VWZxN3ZqY2ZxeG1BdmNsSXhrSVREb2N2WGt4MzlfNjM5aDB6VWNIa2Y?oc=5",
+        "media": "香港01",
+        "published": "2026-11-26T01:10:38+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T01:26:50.835961+00:00"
+  },
+  {
     "id": "6697bc45ec9b",
     "title": "《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨",
     "description": "",
@@ -28,6 +58,38 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-25T23:03:27.523177+00:00"
+  },
+  {
+    "id": "e9f455f58f22",
+    "title": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+    "description": "",
+    "first_seen": "2026-11-25T19:59:19+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3JNbjFVVFBINXliTDE5QXBfc0NrTDdhVHJBQWp5OGJ4cDJJVERjMkxIT1JZMDBfQUQzdlctYXlMZmJQY3B1TldIM3hWdTZnVlpRZ3Y1RWJxRmUyakFoajRBWVJVQzRnWHZhcUt3R3FYc2VTZzZZS2xCeFdPbUZhdm1lU0Q5YmxhT3hn?oc=5",
+        "media": "on.cc東網",
+        "published": "2026-11-25T19:59:19+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 5,
+    "topic": null,
+    "categories": [
+      "鼠患"
+    ],
+    "districts": [
+      "屯門"
+    ],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "ec2906ae737d",
@@ -414,7 +476,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -451,7 +513,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -589,7 +651,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -619,7 +681,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -841,7 +903,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -872,7 +934,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -1097,7 +1159,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1141,7 +1203,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2225,7 +2287,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2630,7 +2692,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -3417,7 +3479,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "15f79c166547",
@@ -4979,7 +5041,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-25T23:03:27.523177+00:00"
+    "updated": "2026-11-26T01:26:50.835961+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

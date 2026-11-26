@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 32 個事件；高關注 10 個。
+過去24小時共 34 個事件；高關注 10 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -107,12 +107,26 @@
 - 狀態：已發布
 - 來源：[TVB](https://news.google.com/rss/articles/CBMi0wNBVV95cUxQMldQRU54SXhyRWJtQi12c1B4b1NGR3EzXzd5a0tqeXpYcFFlUXRSWlNPZVR5SmJHakp6LUNSZi1uaGRsaWE2YkJVLS15NFZJOUxRQzFzdDZuT3dNMHZQV0lvY1F3OGswREZvdF9WNktPYmp2T0plQVRMdlY2cXpJd0toRjJqRG10MzF5UFFjUlBmWVdNRk5sLXNWYnZNVkF1bHd4NDFZYVF3bnEwT0ZPOVJvd1ZaOFBuZjI0VjNObzZWdW5VM1RiYTg4TTVtV1gybWtmZnBkNWZTS1JfdE14ekNsVS1vRUtrYVQ4b1BzMUFjSC04UmFFOGNadU5LQmx0aWhvcTlzT0hFdDB0WHlBMURjbG9JalVPYmtsQUw1YTU1NEU3VTJmc29PcTZ6cFZoaEFDMzRZSlRZSXl4R3NYZDhnMWljNDNIVDFHdEF3MnZSRjJNYlM1c09CbS1mUXF5dXlSZGZNZkVHMU5tX01TNFJOSFczVmZDeHdlMlotc0pCOThra2x6WXFrQnl6akxKc3RmM1F0UF9ycVF1YUpxanNodXpPbFRUVjRsS1JRUTduZDFxd3JDejNuYUI5T3AwVHFxcG5icUEzWFJhVXpIR1lzdw?oc=5)；[東方日報](https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcFpQZXFmSWRaWThxOWZvVFlRWHBEdGNIYm1yUk1NRGtTcXA1YVpBSDBqdURjdVpwYWc0VlB0SHdfMDF0bUc5bUdkU1FMRWJPWjBGNXJ2d21kekVEY0ViQ0oyQUY5Tm9lemFyRERMUUY2Uy1ablZkbFgycGp1NU1yNmxRM1RFWmpZdl9PSE9KbF8yeW1VMmhPWE9UNkhzcllWaU5uNFlQbkRTN1duUDhMUmZmLTdPM0d0SWhDZV9wN3lnNEMyOGV6bDFjbDJPbmsxWUhnVXBvV1E1clhqZzltanhqY19kMTZPZ21xZEQtc2RkQmlLeXlRV3podE9oTlhWNmxXdUtycEpxTHg3czFqQ0JEVkQwSHRkdkZHempGekFhYmYxcWdSNjNwYVFiV3FOTlpuQWVzYzE4aFhTbjRwNTFkNE1ROU90NHBEbkQ5Rk5UUUVXQzN5NW04bW9nZzQyX3RTY1FiMFJxNWlweTVwREFCdlk?oc=5)
 
+## 【低】上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
+- 類別：鼠患；地區：未註明
+- 摘要：上海女教師遇老鼠鑽闊腳褲！忍懼隔褲捏死照講課 下班開車痛哭
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港01](https://news.google.com/rss/articles/CBMivANBVV95cUxPcVpWZEdabnUxWDJwdGdYeklidmZmUkZ2X2ptMGRWWUVvQWtUQ3dhRFEzaUQtQktxMlhXaVdicDF3UVpPNnZTOHZFUVp5R1ZQaVhOUzhtWldKQWZTLTFkOUNVOWMzQno1Y25OTGU3Q2NISmVwd3QtMnhMQ1pzZ0pXSllsRzJfOERkTUdPY0I1OUwyaExoNmxWWkhyZW41WXFsMlFkaHdyUi1HY3ZGYXBIT3lERE16elRwNkxQRjhjVTRYR3g1cXBCVzJLYmdUUklaM21NbGY3YktXTnRVREJNeWREMjJiX25MLWZaNUdpdWxuM3NSU3Q4akwxOXdEWTFlWjExTHpDU0hVZXhmbUQ3bEJEblZsMFVFeWh2Z3Vyd2dDUm84OW50SVI0RlV2QXg2eGZtbTM3MC1SUTFzekphN1YyVUF3eHljb0FuLTVoaDB3QUo0YzJpQ0piU3JPZUt3YzQtbXd2NWdWS3BfUm9vdkEzSmc2SjJleXMwSXFaelJ5czJVYlJiRFhMRjZtREJSQWV5VWZxN3ZqY2ZxeG1BdmNsSXhrSVREb2N2WGt4MzlfNjM5aDB6VWNIa2Y?oc=5)
+
 ## 【低】《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨
 - 類別：蟑螂及室內害蟲；地區：未註明
 - 摘要：《善男信女》拍到崩潰！活體蟑螂開拍前「魂斷片場」 劇組急抓補貨
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVBS新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heFdhQWMyWWdSVlRmVVV2N3JmblFUT2NNX3oxWDJiR3VxSnAwWGo5Z2ZrMUROazN4LXMySGVKZDZ6d3UyUlFjSUx0WXNZWE5PdHVhd1F4LS1hZ3U1dUNvMF9R?oc=5)
+
+## 【低】屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」
+- 類別：鼠患；地區：屯門
+- 摘要：屯門連鎖快餐店天花老鼠橫行 女食客喊「死喇走過嚟喇！」
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3JNbjFVVFBINXliTDE5QXBfc0NrTDdhVHJBQWp5OGJ4cDJJVERjMkxIT1JZMDBfQUQzdlctYXlMZmJQY3B1TldIM3hWdTZnVlpRZ3Y1RWJxRmUyakFoajRBWVJVQzRnWHZhcUt3R3FYc2VTZzZZS2xCeFdPbUZhdm1lU0Q5YmxhT3hn?oc=5)
 
 ## 【低】食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%
 - 類別：鼠患、政府政策及執法；地區：未註明
