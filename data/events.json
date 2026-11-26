@@ -29,7 +29,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T09:18:48.375103+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "2f7460178350",
@@ -59,7 +59,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "1f877521a400",
@@ -183,6 +183,36 @@
     "summary_method": "rule",
     "status": "published",
     "updated": "2026-11-25T15:17:55.516088+00:00"
+  },
+  {
+    "id": "c16cb4e158b3",
+    "title": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+    "description": "",
+    "first_seen": "2026-11-25T09:46:16+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QOXVBM2tMdHlhQXRDb2daajE0RVA2bXZ3UWUyMDR6enpZV1dNUHZoandkVUdOZ2EzYjVkejA2ZDVQQXVxS2w4WFMwLXMxWWpGQVlvUnFmZzk5Z9IBX0FVX3lxTE03V2w1YUlpdnZUd2txMVBjX05veF90ZHZHWGhDdjFOYmdIeC1pTTFZRVhfaE8wUlEtZ1dORE1UVWh4a0tEeFF0c2VBWVgwTVlDbTd6Vm85bllBV1U1a3Fn?oc=5",
+        "media": "經濟日報",
+        "published": "2026-11-25T09:46:16+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": "蚊患及病媒疾病",
+    "categories": [
+      "蚊患及病媒疾病"
+    ],
+    "districts": [],
+    "priority": "高",
+    "priority_reason": "登革熱",
+    "summary": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "1b85df682e64",
@@ -538,7 +568,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -575,7 +605,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -713,7 +743,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -743,7 +773,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -965,7 +995,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "6e19239669ce",
@@ -996,7 +1026,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -1135,7 +1165,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -1221,7 +1251,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1265,7 +1295,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2349,7 +2379,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2754,7 +2784,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -3541,7 +3571,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "15f79c166547",
@@ -5103,7 +5133,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T15:13:01.705745+00:00"
+    "updated": "2026-11-26T17:17:25.926629+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

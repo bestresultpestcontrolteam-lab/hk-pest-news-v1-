@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T15:13:01.705745+00:00",
-  "count": 152,
+  "generated": "2026-11-26T17:17:25.926629+00:00",
+  "count": 153,
   "items": [
     {
       "id": "d389c89ea846",
@@ -141,6 +141,29 @@
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rV1g1X2U4WE9pR1dYcU1TRWkzWlRvMXREQUhpSUZuaDhVeGFHWUVkQmR4MmdsaE45YnZnVjJ6THdJT1BsX3VMYi1yRGxxdkZFUWVSRW16UGUxUDdnamtEeXFn?oc=5",
           "media": "Now 新聞",
           "published": "2026-11-25T13:31:32+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "c16cb4e158b3",
+      "title": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+      "summary": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-25T09:46:16+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QOXVBM2tMdHlhQXRDb2daajE0RVA2bXZ3UWUyMDR6enpZV1dNUHZoandkVUdOZ2EzYjVkejA2ZDVQQXVxS2w4WFMwLXMxWWpGQVlvUnFmZzk5Z9IBX0FVX3lxTE03V2w1YUlpdnZUd2txMVBjX05veF90ZHZHWGhDdjFOYmdIeC1pTTFZRVhfaE8wUlEtZ1dORE1UVWh4a0tEeFF0c2VBWVgwTVlDbTd6Vm85bllBV1U1a3Fn?oc=5",
+          "media": "經濟日報",
+          "published": "2026-11-25T09:46:16+00:00",
           "tier": "media"
         }
       ]

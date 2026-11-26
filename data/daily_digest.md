@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-26）
+# 香港蟲害管理新聞每日摘要（2026-11-27）
 
-過去24小時共 28 個事件；高關注 9 個。
+過去24小時共 27 個事件；高關注 10 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -36,6 +36,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[信報網站](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdGFiN1hpSmRIanJHTjRwRnBjR05jMVpTc0JJMTA2OV8xemNGTHZhd0kwbVRUdERuc013TXd1UEM2dFJDNUxNRlRjTGJwQjdoS3R4M0FkTE9GbTh6aFJJT2Y3YWtNbXQyY0R1MXRyTGhaSnBCMVQ2TmJOdEYta0lMYlNnM294RHM4U2t0cWMwWEo1QVc4dVRGMTlnd2hxbl9sMnZwQmVhRGR4NV9PMlcxZmVWbTM4cG93VHVQQlVuNHpienMzeGhTY1F3OEFPVVZ2amFZUmpUQnJVaGRXMDlVWUc4Z05rWWd1WnhyRWR5VU5mT2VCWmRUNXVHS3RzZHNQeXlrREU5c2VZUldtZm1YVGdwNmlKVkpHWTE4SU1COHVTX2d6X09NOGI3RW9ET3pB?oc=5)；[i-CABLE](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcTFEN3pkRmdidjY0TzlWbXdMSlRHWUVxSFhxRV9HWVBic3pTZmpfb2w3Q3BaWnRGNGRNNXBXbGhLVDNVbFBUcFA4UkRWU25RdWpvek02dnpOZ2QzcWo0QmM0YTRKOXplRGhXTzUwakFBdlJFN2IxOF9ZNk9nNmJDZ3lVbktjSFQtRGlQSm5VbmRDNkRVLV9rLWtZTE83RTdRSjNfNFl5dFFnU1BIU01ET1FDN291SkRXbWx0NEoyelFNWlVQODZ6NGU3aHlueG1qeWhQdUZCdEpzNk9fc1VRcHJBVVEzbUhQX0NPRllqNlVDczVMRkhsN3czbHpYeWtMYldaMWplU0Vfa0lMeG9fbnpjcmZJOU1RaFoza3M5MXNtdFlZV1JaSzBXMUhVU0hEVDNkMS1MS2FpaUs3OERqUW1mcEZ4dy1va3B2TVpXb0NRMDRuWmpSenZXdElOMVVZOTZr?oc=5)
+
+## 【高】影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QOXVBM2tMdHlhQXRDb2daajE0RVA2bXZ3UWUyMDR6enpZV1dNUHZoandkVUdOZ2EzYjVkejA2ZDVQQXVxS2w4WFMwLXMxWWpGQVlvUnFmZzk5Z9IBX0FVX3lxTE03V2w1YUlpdnZUd2txMVBjX05veF90ZHZHWGhDdjFOYmdIeC1pTTFZRVhfaE8wUlEtZ1dORE1UVWh4a0tEeFF0c2VBWVgwTVlDbTd6Vm85bllBV1U1a3Fn?oc=5)
 
 ## 【高】香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控
 - 類別：鼠患、政府政策及執法；地區：南區
@@ -134,20 +141,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ3JNbjFVVFBINXliTDE5QXBfc0NrTDdhVHJBQWp5OGJ4cDJJVERjMkxIT1JZMDBfQUQzdlctYXlMZmJQY3B1TldIM3hWdTZnVlpRZ3Y1RWJxRmUyakFoajRBWVJVQzRnWHZhcUt3R3FYc2VTZzZZS2xCeFdPbUZhdm1lU0Q5YmxhT3hn?oc=5)
-
-## 【低】食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%
-- 類別：鼠患、政府政策及執法；地區：未註明
-- 摘要：食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[Now 新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rV1g1X2U4WE9pR1dYcU1TRWkzWlRvMXREQUhpSUZuaDhVeGFHWUVkQmR4MmdsaE45YnZnVjJ6THdJT1BsX3VMYi1yRGxxdkZFUWVSRW16UGUxUDdnamtEeXFn?oc=5)
-
-## 【低】港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物
-- 類別：鼠患；地區：未註明
-- 摘要：港人乘快運航班由東京返港遇「機艙老鼠」 損失近16萬元財物
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[TVB](https://news.google.com/rss/articles/CBMi6gJBVV95cUxPekJKZWNCajRBUjlwSkNBT2hhNVQtX3JONmltZkJhbEgtUmVUTWY5QXg0TFF0eGdRY1VBaS1wYW9nbFgtYm9UYVR6VVVOeGozcDYxS2xDeDdsMkJPWmNUMndtU1NxeFh3Si1oSHB6TXBKUFlYOVZzUWQxNXE5QU10a3JJY19qc2RxOWlCcnp5cHdacTN4MElyQk1Yc0VoMDJOckNuek5aV3ViWjVnbFJ1aXNVbm1WNmZOTThTMTJ0N01yenpIcU1XMVdwS2lUNFhCMW16eDh1WXctcC1TT3dTWGd0cnE3NkVvWTRORDV0dUNkdFFNY0pQVm95TFk2Y01DTUc1MUU0MmRZYVl4T2VYSVk5bS00Y21OLThRcF9MNzdBOTVEMUdXSk1MYWhGQ1pQNmtrcTBXTEVvQ0V6NF9fclozNzVFNFQ5V2J6SFc0NWkyWjhJTS1HcmNfeU1oY2FsdjdTbERXd2xrQQ?oc=5)
 
 ## 【低】鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠
 - 類別：鼠患、政府政策及執法；地區：未註明
