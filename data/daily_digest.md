@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-26）
 
-過去24小時共 34 個事件；高關注 10 個。
+過去24小時共 33 個事件；高關注 10 個。
 
 ## 【高】土瓜灣快餐店現兩老鼠｜食環：食物室衛生欠佳 已向負責人提檢控
 - 類別：鼠患、政府政策及執法；地區：九龍城
@@ -218,13 +218,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[TVBS新聞](https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Z2tZaURfUmIwV1hLdXlLQWdMNUNOZHV0M0dRTk9PYlZURnYxXzUyUjFtWXNNb1Byc2hOX2pYQnFqYlBLRUdLaDhmcVNkSW1zdUcxWDdsQWpJdzY3T2xPWU93?oc=5)
-
-## 【低】蟑螂「學」會如何救人
-- 類別：蟑螂及室內害蟲；地區：未註明
-- 摘要：蟑螂「學」會如何救人
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[信報財經月刊](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnRNQ3NsZVdsY0FPNlB3TkNBdmpxMVNvMENXcXNmODM1b1lNSTNuS2pzektmTU05Z01TdVNGNl9DWlBnZDEtdjh4eHhuTWdGTU5uU2thVlRZVDh0STFNMHY3UW1GNVJlLTZja2lLaEUyMUxwTUtENzVVbmViTkhmdkJULVM1RkdRV1Q4dEV0bW1xZXRObUdPdWYtYzZOTkwwZ3RtNGxHbnJNYnN2VUdJRWxMcWFlcG8xQW02VUQzZ2pvWElfU2loNklaMGt2UWNjM29UMEhFLWNWUQ?oc=5)
 
 ## 【低】食環署首三季捕近11萬活鼠超去年總數 專家指城市老鼠警覺性高須多管齊下
 - 類別：鼠患、政府政策及執法；地區：未註明
