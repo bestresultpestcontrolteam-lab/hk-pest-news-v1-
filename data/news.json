@@ -1,11 +1,59 @@
 {
-  "generated": "2026-11-26T23:06:34.162345+00:00",
-  "count": 154,
+  "generated": "2026-11-27T01:29:26.433707+00:00",
+  "count": 157,
   "items": [
+    {
+      "id": "2e73400f697e",
+      "title": "報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤",
+      "summary": "報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-27T00:35:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤",
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQUlo3N1RMZmZ2UzB4TlZrNDRvZWM3NGFycFpfTVgzV1NJaDVXdFlaLWV5YndodjdfVHRnRDhaY2FkQllzdlpXY0prSlI4bGhGR3I1RDVMMU16WEljeWdaeVZyQ2JwOXl3UWNhZE9Xb2Joa1F0bzBtNlFwVFpsdlhlZF9JR2l6WmZDSkhZNFY1X1pJTUwyQzRYWUZHTldqakd1Zm5hOVVHbllackJkRFNFaTBIb0E0RFdLX2FSVzVabVhxc0tfUDNsc1NJQmp1Ym9vUFBibDJqandHWTdjaUg4UzltTGhtOEN2dFBISHNOc1ZNLUhjWU9pRHMtSnpEMkg1Ujl4czhJOTlxdlJpV3dMYW9UYzRwTHNFQ1lUSm13Qm93ZzVic25rTHd4cUhNRzZPdWR5aEdzOXlrdldibFBaQ3piNDlfajFyZHlBOENiTG8tc0djLWRmcUNmSC1GVFNodzJHWEVjU0hIdk0zMnZrV2lBeTNXQUloYzQtcjRnal9mbWY0bVJMMldobU5TNFVhRjZiem1Udm5GV3dkZU5adjFwVnZBMlpKYW9Cd1JFQXA2d3hoWGlab3QwZw?oc=5",
+          "media": "TVB",
+          "published": "2026-11-27T00:35:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "95f9525f28b1",
+      "title": "鼠患｜指市民在社交平台反映助迅速跟進 食環署多招齊下改善鼠蹤",
+      "summary": "鼠患｜指市民在社交平台反映助迅速跟進 食環署多招齊下改善鼠蹤",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患",
+        "政府政策及執法"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-27T00:02:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "鼠患｜指市民在社交平台反映助迅速跟進 食環署多招齊下改善鼠蹤",
+          "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOTFVGUDNjanBPZWxYdUhQVk0zX19DejFGZ2dHMWdUV1QyRWRQSm5ZRW9sTTFUV1pPa0ptQVB2dHVxVzAyNU42VzlqT0tRQkxBaVV6ZVpLTVdHNUJvZ05heDRGemlYM3FtSlptbjBRSzlEeDYyRUFJbV80N0VMbnhoWGgtX2gtVmUzd3dLYXZrNnpMc1MwOWNVaVhNR3RVY1JZMkJsVmxLR2JjUXBxSUwtU2E2TjhwWlJ2NzhWTFNrQjdlRndkSVViWTkzZ1gxODRnSmlDQThOMDhpTi1WalIzMWc2anY5SGZsQmUyeEVvd1Ywa3FBWFI3TmhKWVNCb21wb092VklQMDNnWV9yWW81UlBuTlBkbnlHV2JYWE1Zc0JGdGdsYUg3TzViYnVoSGg0VGdPYmRpZXJmRDFSaFpoNWdKRVNoeXFrT0MwNmtwZk1GZVhRWVhqWXpfWTNVWmcxSzZ6cnRsaU5ORE5fZXVLMHhVMHBuc1R3ZUVzMl8zNUl5T0VqdGdESGVEb3lNamdtTFJ5UzB6NWpSeHZsVHBqM0RidWZFNDg?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-27T00:02:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "f8274a29e3af",
       "title": "食環署展開雷霆行動直搗巢穴精準滅鼠",
-      "summary": "食環署展開雷霆行動直搗巢穴精準滅鼠",
+      "summary": "食環署展開雷霆行動直搗巢穴精準滅鼠（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -22,6 +70,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa1hxUTN2ZE40UHAxeFpLYWVBbzc5MkExeUh0MTQzbWZiNWZoSmRydThxZTdKOGlKVV9uQjhySmlicWRHSHZ2LVpRUFlHQV9VV19SZjN1NUxTajROZGYyMkV0SU15TGJvMElTYzY3eVdXd3FiM3d2TG5jVEI2cUFmdGVTZWlOTVJXLU9ELWtSWnRabDQ2d0JwZHU2MXN3c05HUU9kMS0tVlRLemt2OFppVDBjeFEyMnRzeFRNa3ZuLUl1dEZtSmJnT0JUbXdsc1F1am04YUp3NXlIT2lBR0s5WElOV1NoLTNsOV9sR3FFTGRxXzUtZ1lidWo3anBVZ2kzS2JfUFdCQjlaQV9OMzRvWEpRYV9oVm5RMXBQVTZXTE9raHp5TU0ybTJvcw?oc=5",
           "media": "星島頭條",
           "published": "2026-11-26T19:00:00+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "鼠患｜今年首10月捕捉14.2萬隻老鼠破紀錄 食環署展開雷霆行動直搗巢穴精準滅鼠",
+          "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOcmY4VUJOOWxOZ1RMdmJJaHJLZV9NMVRRM3lzTkNieVZOa2hiWEdjSDBuS290RkpBRjRVNkVCaEdqTjZVbExucnBEbDB0SEhKdzM0VndYZU50MzhUZ3dhTlR2RFFjZjA2aElzYzhpbXVjQ3dVMnc1Y1RMS0dVZmhQbFNpOXBtbkF0bGFXcVM4R0lyWGZ0dVk0a2ZzVjdEQ3BJTlRDZDFZcUdKZklPblBoaG1PRGRLQkJOME1kY2k4eHdqWk9zQnFXZ2ZGbFZGSS04U0FCOGVGUm81VllzM1dHMXpRV29PR3lCRDJNZGFfVFQ4cmZnRm0tLUhrR19hcE92b0JMbmRJRzZSYVc1cDBxQnpPajZLYVFfMlkxOFp6VW5aSTIxY21xdHRLa3VvaWF6SW1JSGFCVXV1WWZqd3lmX1ZHaUxJaTdUcEZSQzVwZHhlVkRVX0NvUG8tVmJBeTd6Nk9sallYV1R6MlhLam04RzFabFA0Zmd5VzlzU3lKN0gxeVp6UzZjRWJKcDBKb2l3RGw0TnViY19mUFFNblRNSlFwczU5NlVWNlF4RW04dWtRaTR6SElNNXh6am54dllsUjZzMGdHc3VOeUtqN0w0T1EwalNUajZVYmZieUxR?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-27T00:00:00+00:00",
           "tier": "media"
         }
       ]
@@ -3265,6 +3320,29 @@
           "title": "陸「床蝨地圖」爆紅！600多家飯店被點名20萬網友圍觀",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03U2E3SDE5U2MxcGhRaEZoR3JzNFRheDZ3Mmo1T3JwMUdwVFZkUTZ6Y1E5VnJDV3BIeHoySTNtcWFKeUxITXo1UmVCLUZCcVlvaW1RcmZVc3VHQdIBX0FVX3lxTFBzOE4xVWFEdnZBR1d5ZWw0amRLSHBjWlBrS1BMZ1FNdlI3cklXUDNHRzdPV0p1RnJVUmxnQlJZeldjbWdKd0Q4UWRValQ2VUIwY25OclQ3VUZ4b09CRVo4?oc=5",
           "media": "經濟日報",
+          "published": "2026-11-03T08:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "fbc564408c3e",
+      "title": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
+      "summary": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蟑螂及室內害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-03T08:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "高海寧三姊弟躲蟑螂：站在書檯拿皮帶「對峙」",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMFc2aVNiTjFfbmNMYWNNOEJ3NXRXRkRWTG55QkRRcnp3enR1LVp4dFJzQnJ5NTJIUlN6bnlaQmdkQ2NKMHlySnE4Ui1YcU9SM241XzVXUFNoS3d4TE5LckdFYjJJYmNOVnQ1ekEyUkZpd0dGaktyWkNtWVpLa0F2SW1OYlBSam42S29SbE5QeG5YYlZqRG5fWTBPZERQSl9aM0NwUzdYQXRzWE5icGtuaElPQUtuTWsyY2I1bkhOaDZrZDRraFBaVHNhN3hXLUxPOEYwckgzZWtFUVhmV1h1WldIX0RmR292NVozdjJrMnBlZ0FZNHNGMVY0Y0VFSEo2bGJvNWJVM1FDUkJnMVUwTU0tR1p4dUhDS0VEaXpSMFJiSElqdlE?oc=5",
+          "media": "香港01",
           "published": "2026-11-03T08:00:00+00:00",
           "tier": "media"
         }
