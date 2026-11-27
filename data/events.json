@@ -1,5 +1,35 @@
 [
   {
+    "id": "2a96c1e6fc18",
+    "title": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+    "description": "",
+    "first_seen": "2026-11-27T01:30:42+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+        "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNal83eWpWcVdRS0lDNFZ1RlNxM0p4cklxdXI5dzRMXzhuRUo5VlNUeDBEZEdmVnJiekRhNUNBQVZ4WUpERHV0UHNQOHlJZWJBMjBrSV93cTRvUFZGSE5rcllJbVlBUUc2TzVmOGlkSXBGNzJTck52Q2d1LWpRY2pBWmlqTlZqZHBlMkdrOW1mMzdsTnkySWFJMTNFaFhkWTZaNmtKNExiSi11bVZIS3ozVUJkeVpKV21ZNkd5S3dETTBfUkZrSUhKVGR4d0pmYlR3TVFmQ202M3pMbkRRX05Bd19Xb3hQWDZUMDNFUS1JUFNRNXllT3htOXB1U2RiNml5LWUzaXBXclJ3Zmp6YUFEMll6bGxSSGZrSmRQNW1HWkx1WVVQSVFiVnNqbjNMX1ZYOEQwWXFkbWJKU1RfZ1VOTm1iUGZ4RTUtMkptTFhZSUJlcU9tSElOWWctZ0F1a0JSTzZQdWU5MjVuZU1rYi0wSGMtckNscnl1Zk1hRld3OTNfVjM1Mkc5ampYZkdsRlY2MFRjcXdTeGRYU1RqbDNSUFZyVXgzVE5Ec2ZpR09zLUJlODFnWXc?oc=5",
+        "media": "香港01",
+        "published": "2026-11-27T01:30:42+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "白蟻及木材害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-27T03:07:45.788079+00:00"
+  },
+  {
     "id": "2e73400f697e",
     "title": "報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤",
     "description": "",
@@ -129,7 +159,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "2f7460178350",
@@ -159,7 +189,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "1f877521a400",
@@ -448,6 +478,13 @@
         "media": "am730",
         "published": "2026-11-25T05:29:27+00:00",
         "tier": "media"
+      },
+      {
+        "title": "食環署今年首10個月捕獲達14.2萬隻老鼠 破同期紀錄",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UktFYW1NbGRuTThCQ0trdGh5enl1TFh2djRqdDlRVHRYUjljRG14Nm5HWUFKbEtCcVo4N1lyWW9oaUJJOWxnaFBkZ3Nfdk5CLTZ5NS01ckd0NGFhRk5XV1Bn?oc=5",
+        "media": "Now 新聞",
+        "published": "2026-11-27T02:36:33+00:00",
+        "tier": "media"
       }
     ],
     "needs_resummary": false,
@@ -460,11 +497,11 @@
     "districts": [],
     "priority": "低",
     "priority_reason": "一般資訊",
-    "summary": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
+    "summary": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠（共 2 個來源報道）",
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T23:06:34.162345+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "33f4cfd8934b",
@@ -668,7 +705,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -705,7 +742,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -843,7 +880,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "48fef14052ce",
@@ -873,7 +910,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -1126,7 +1163,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "5a8f981ab74d",
@@ -1265,7 +1302,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -1351,7 +1388,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1395,7 +1432,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2289,7 +2326,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-26T23:06:34.162345+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "f87f3a8aed6d",
@@ -2479,7 +2516,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -2884,7 +2921,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "954fa5129b41",
@@ -3671,7 +3708,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "15f79c166547",
@@ -4867,7 +4904,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "decead5eac4d",
@@ -5263,7 +5300,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T01:29:26.433707+00:00"
+    "updated": "2026-11-27T03:07:45.788079+00:00"
   },
   {
     "id": "ca1b7b4ae6aa",

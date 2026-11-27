@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-27T01:29:26.433707+00:00",
-  "count": 157,
+  "generated": "2026-11-27T03:07:45.788079+00:00",
+  "count": 158,
   "items": [
+    {
+      "id": "2a96c1e6fc18",
+      "title": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+      "summary": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "白蟻及木材害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-27T01:30:42+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
+          "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNal83eWpWcVdRS0lDNFZ1RlNxM0p4cklxdXI5dzRMXzhuRUo5VlNUeDBEZEdmVnJiekRhNUNBQVZ4WUpERHV0UHNQOHlJZWJBMjBrSV93cTRvUFZGSE5rcllJbVlBUUc2TzVmOGlkSXBGNzJTck52Q2d1LWpRY2pBWmlqTlZqZHBlMkdrOW1mMzdsTnkySWFJMTNFaFhkWTZaNmtKNExiSi11bVZIS3ozVUJkeVpKV21ZNkd5S3dETTBfUkZrSUhKVGR4d0pmYlR3TVFmQ202M3pMbkRRX05Bd19Xb3hQWDZUMDNFUS1JUFNRNXllT3htOXB1U2RiNml5LWUzaXBXclJ3Zmp6YUFEMll6bGxSSGZrSmRQNW1HWkx1WVVQSVFiVnNqbjNMX1ZYOEQwWXFkbWJKU1RfZ1VOTm1iUGZ4RTUtMkptTFhZSUJlcU9tSElOWWctZ0F1a0JSTzZQdWU5MjVuZU1rYi0wSGMtckNscnl1Zk1hRld3OTNfVjM1Mkc5ampYZkdsRlY2MFRjcXdTeGRYU1RqbDNSUFZyVXgzVE5Ec2ZpR09zLUJlODFnWXc?oc=5",
+          "media": "香港01",
+          "published": "2026-11-27T01:30:42+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "2e73400f697e",
       "title": "報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤",
@@ -343,7 +366,7 @@
     {
       "id": "d694b01ab80d",
       "title": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
-      "summary": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠",
+      "summary": "鼠蹤四現 食環署今年暫檢獲14.2萬隻老鼠（共 2 個來源報道）",
       "management_note": "資料不足，請參閱原文",
       "categories": [
         "鼠患",
@@ -360,6 +383,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQlg1bVVrNVNmd2djY1l2WEN2NUVUaHhZWFNNR2gyNmpMc0wxTWhKdkFMSjVFVDY0Z3RjSHZIaGxGX090Z1ZkT0ljUnBHX0V4c1FwRVdVZDh0WHFYS2FUTFNKczNiZUxRNS0ya2Y4SUkwMWZQNWI0MzQyeHVIcElMRDBETkUwVUM4QlE3a0k2dnN3OVVqZU1RN0ppLUNYaDBxMHJneWcyNGl1VTgzY2o0SFBnLXhnaEloMWRpMTBaWkVoMkwxbVpsaHctalNJQkVvQ281TU0yZGdvNGhiSUxYSnExVjBLamNxdVk4bEh4TnpVS3A2ZGpWeGo2b3NqcjRFR0J4QjNHNmVsUEd2dFhnekNGTEdMazhWdk1OOE55Y29KODNsNVhYUA?oc=5",
           "media": "am730",
           "published": "2026-11-25T05:29:27+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "食環署今年首10個月捕獲達14.2萬隻老鼠 破同期紀錄",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UktFYW1NbGRuTThCQ0trdGh5enl1TFh2djRqdDlRVHRYUjljRG14Nm5HWUFKbEtCcVo4N1lyWW9oaUJJOWxnaFBkZ3Nfdk5CLTZ5NS01ckd0NGFhRk5XV1Bn?oc=5",
+          "media": "Now 新聞",
+          "published": "2026-11-27T02:36:33+00:00",
           "tier": "media"
         }
       ]
