@@ -1,6 +1,6 @@
-# 香港蟲害管理新聞每日摘要（2026-11-27）
+# 香港蟲害管理新聞每日摘要（2026-11-28）
 
-過去24小時共 36 個事件；高關注 13 個。
+過去24小時共 35 個事件；高關注 12 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -50,13 +50,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVcxUy1ZeU5jSjhSczNpaXdxVFFIcXd5bkVRRzZrcjBFdUFxanBzeU0tY3gzbUQ4MFBTamFRMzhYZEk1bGlRWWlYd3ZFd0R2NEhsTTNScHE5QmFSdExXZGpuVUJLdzB4Y3RJdjgzeE03Z0RPc0pKalgtR2tnZkNxVW1wLWpkREdLaUFR?oc=5)
-
-## 【高】影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢
-- 類別：蚊患及病媒疾病；地區：未註明
-- 摘要：影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QOXVBM2tMdHlhQXRDb2daajE0RVA2bXZ3UWUyMDR6enpZV1dNUHZoandkVUdOZ2EzYjVkejA2ZDVQQXVxS2w4WFMwLXMxWWpGQVlvUnFmZzk5Z9IBX0FVX3lxTE03V2w1YUlpdnZUd2txMVBjX05veF90ZHZHWGhDdjFOYmdIeC1pTTFZRVhfaE8wUlEtZ1dORE1UVWh4a0tEeFF0c2VBWVgwTVlDbTd6Vm85bllBV1U1a3Fn?oc=5)
 
 ## 【高】香港仔商場現鼠蹤｜食環：發消除蟲鼠通知 已向涉事處所提檢控
 - 類別：鼠患、政府政策及執法；地區：南區
