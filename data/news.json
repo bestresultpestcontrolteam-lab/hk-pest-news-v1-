@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-27T03:07:45.788079+00:00",
-  "count": 158,
+  "generated": "2026-11-27T05:20:32.856780+00:00",
+  "count": 159,
   "items": [
+    {
+      "id": "b56b67a0e5b5",
+      "title": "白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4",
+      "summary": "白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "白蟻及木材害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-27T04:15:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "白蟻食禮金｜重慶父紙箱儲20萬遭蛀爛 銀行花5小時救回近3/4",
+          "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRFI0b0dRZDJ3bk9QTE9hNDQwMWphNFV0NjlVdno0N18zcHcxYUZnRXNVcTctQjRXWmE0NnlQZlBCeFZyOFNsRGNpbHZOYWJ0R3dqRHVhNm1CUVh0YjhRWFdfSjdOcGJoWDIzS3IySzEyOFJnc184OGhocE5FaGpQX25KU1lGQnhWamJ0TlRyNXFUNWI0UkJMbXQ2STh2cGZjTEhsVUQ3VHlCLUNTWnNVUVgxUFBLRUZhOF9BLUNWdFc1WFoya3hIOHRwbFVyZlRBRUVoQW12Q2w4MEY1MFBmaVduaGhVOUpqWlVsQkR3X0ZiM1FsV09FU3RLZGJRVGdJdmo3enRhZXNUTVpoOTFqQjkwd2R1NDB2T3JJbC1yR1UxUHJKTldUZ2gzOGdLMW92QVp2elp2a0doREhiOVFyUm1ONXJXVjJtYzJkSTJHYzFISVdTOXp6d0ZLUXZ1RzJOZXA1Z3Y4el9jS1A4aThXZkwycVF2Tld2UXlN?oc=5",
+          "media": "星島頭條",
+          "published": "2026-11-27T04:15:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "2a96c1e6fc18",
       "title": "重慶父為仔儲20萬禮金慘遭白蟻蛀爛 銀行耗5小時鑑別挽回近15萬",
