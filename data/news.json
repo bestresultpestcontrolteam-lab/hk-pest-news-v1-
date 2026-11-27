@@ -1,7 +1,91 @@
 {
-  "generated": "2026-11-27T09:19:46.087631+00:00",
-  "count": 153,
+  "generated": "2026-11-27T11:01:51.440125+00:00",
+  "count": 156,
   "items": [
+    {
+      "id": "aae9df9f67de",
+      "title": "51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國",
+      "summary": "51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱",
+      "districts": [],
+      "first_seen": "2026-11-27T10:17:10+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVcxUy1ZeU5jSjhSczNpaXdxVFFIcXd5bkVRRzZrcjBFdUFxanBzeU0tY3gzbUQ4MFBTamFRMzhYZEk1bGlRWWlYd3ZFd0R2NEhsTTNScHE5QmFSdExXZGpuVUJLdzB4Y3RJdjgzeE03Z0RPc0pKalgtR2tnZkNxVW1wLWpkREdLaUFR?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-27T10:17:10+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "c288845f45c0",
+      "title": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入",
+      "summary": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入（共 2 個來源報道）",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱、基孔肯雅熱",
+      "districts": [],
+      "first_seen": "2026-11-27T09:58:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWG1ndnNrSllEcjhQUF9JT2ZnODVfQzNHRzlrQXlweXVKMXFKNHNVWWZLNS1tTWhlZnVDcWVvMENYcGJmSzJqV25XTU5ETi02UFVCSG02Y0lVa3VySG4tZ0NPSTJZdExqVDdhaFYybw?oc=5",
+          "media": "香港電台新聞網",
+          "published": "2026-11-27T09:58:00+00:00",
+          "tier": "media"
+        },
+        {
+          "title": "過去一周增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入",
+          "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOd0U1WDJaVjVXVExkREFLODcwckpUOWFpV201WmRlTTJ6a1A2M252cC1qTnduTDhRWkRZOThpZDJxeV9xZGZ3Q2NMblBYWVBkNmloS1ZmN2xSelZzTHltSk5ZZnpHQWYwMHUzMnZ2XzJSeFlEcFNJanJPOHAtQUMtSVZfaXVzalFTMTI3RUs3R2xCd3NyTTBiT2ZjeHV2eWsyQ2FnUVFPSTB4dVhZT0ttczRNMGFVVU9oQTRxOHY4X0x1c0ZQWWdEOVU2MXpxaEpkdFYybXVqR0NYMS1GeG9XWnUzYTVNVFBJZWk5MW5OLTFmVUViRmpBbDRQS0YzWGxHa1NucWhsa3NnRWFWRkwxd2c4UnFoM2VXVlFaLW1WY3p2Rjh4S2tYaGhPS2gtcVZEaEF5QzhlUVJGMFVsdGxpYjdmTkNlejdqYVR4anJZNUg1T2NyMTNRc1RuUXpkUEpxZWVaMEtvWjRrTElEMHRPMFdRSkUxdU1jX2o3YWVMVU8wSU5aTEhGdi1HZHZlMGJwdzMtaktjOHQ2UzQ?oc=5",
+          "media": "am730",
+          "published": "2026-11-27T10:29:52+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "8d99d1709ab0",
+      "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+      "summary": "衞生署衞生防護中心（中心）今日（十一月二十七日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一…（共 2 個來源報道）",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "蚊患及病媒疾病",
+        "政府政策及執法"
+      ],
+      "priority": "高",
+      "priority_reason": "登革熱、基孔肯雅熱、本地個案",
+      "districts": [],
+      "first_seen": "2026-11-27T09:30:00+00:00",
+      "tier": "official",
+      "sources": [
+        {
+          "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+          "url": "https://www.info.gov.hk/gia/general/202611/27/P2026112700438.htm",
+          "media": "政府新聞公報 RSS",
+          "published": "2026-11-27T09:30:00+00:00",
+          "tier": "official"
+        },
+        {
+          "title": "蚊傳疾病登革熱和基孔肯雅熱的最新情況",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5paW52N1dSQW8xbVpFbnF2TWdFdFpkOWZVTXdFeEVpSk45aVJhcGVaa2NnZjlQSFo0WTdRM0lGVzN5Q190cU9lM0FMTzNmQ19CdEZPSUJ2QlNGMDl5RWZGSEpmOE81VkN5R2tNYmp4R1U3Zw?oc=5",
+          "media": "香港政府資訊中心",
+          "published": "2026-11-27T09:45:00+00:00",
+          "tier": "official"
+        }
+      ]
+    },
     {
       "id": "728000505d59",
       "title": "網上熱話｜女子街頭坑渠蓋放火龍果 掀餵老鼠疑雲(有片)",

@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-27）
 
-過去24小時共 31 個事件；高關注 9 個。
+過去24小時共 34 個事件；高關注 12 個。
 
 ## 【高】本港增兩宗登革熱及一宗基孔肯雅熱 均為外地輸入個案
 - 類別：蚊患及病媒疾病；地區：未註明
@@ -8,6 +8,20 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObF9oTkpJUUNWbTdpY2c3WUgxY1g4WE9fa1I0ZGYzdGJGSVBxZHJiX01MN2h5cnpYNkNZTGJFYUVPYVctRHhLazFpWmVIalJCOWdvR0N5NHJTclJqRUpMLVQzTmdzVzBPRVg3YjVneDBIZVlXTWJnZmpvOWxQNVFJZnJxV0dtLXp5TUo0?oc=5)；[RTHK News](https://news.google.com/rss/articles/CBMib0FVX3lxTE80eEstVm1BR1VvaFdGZjBvVmM0cXowNy1YU1FZNmNodEkwbmZqUTJ0T2pWUlFQWXJQWDFxN0N0X3ptQlZRMXRTMkR1SFIzQWZWZ3dwdy1aLXRoeWFlbUNqMkowWnlwN0xKMXg2UVZmQQ?oc=5)；[TVB](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPUzBreFlJM1B3YUdwU1NLaGoxRlN5dDVCRWs0YWNudVNCSkZiS2l1UEhCYTNUVVdSeVhMZG5objF4a0pxc0lzZ3c4c3VCUk5IbkpWUXNqS01KUXdqQllwUEJjbXVfcjU2T0tYME9lZm41RTE0UjdjUjNKYVpsT1lNMWExdHBxckppdXljb1F3WDJKREloZFFRMkxOS2l2NGNlVDhtRmtveXpLbThpa1BCZWhBLXNhdVU3TExJZHY4djdlT2htOWdlUG1seFQ1UEVQeG1SRXlod09aQXdEOHVxOTFaU1FFMzZDa1VRTkM3SlI3ZDY5YUhXRHVPSHQ3V0VfMGFZYVhjWXVwQzVyNEJBY2RhOEU2M01sRlZfS19PMTdjR2RWTGJpMWdqUDN5MVNoeFdndDVvYlpfUzRtUU12Unk0YjZRNnlWMGhCTFlsalBnSEpMc1FoMTVRSQ?oc=5)
+
+## 【高】過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：過去一周本港新增兩宗登革熱及一宗基孔肯雅熱個案 均屬外地傳入（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[香港電台新聞網](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNWG1ndnNrSllEcjhQUF9JT2ZnODVfQzNHRzlrQXlweXVKMXFKNHNVWWZLNS1tTWhlZnVDcWVvMENYcGJmSzJqV25XTU5ETi02UFVCSG02Y0lVa3VySG4tZ0NPSTJZdExqVDdhaFYybw?oc=5)；[am730](https://news.google.com/rss/articles/CBMimwNBVV95cUxOd0U1WDJaVjVXVExkREFLODcwckpUOWFpV201WmRlTTJ6a1A2M252cC1qTnduTDhRWkRZOThpZDJxeV9xZGZ3Q2NMblBYWVBkNmloS1ZmN2xSelZzTHltSk5ZZnpHQWYwMHUzMnZ2XzJSeFlEcFNJanJPOHAtQUMtSVZfaXVzalFTMTI3RUs3R2xCd3NyTTBiT2ZjeHV2eWsyQ2FnUVFPSTB4dVhZT0ttczRNMGFVVU9oQTRxOHY4X0x1c0ZQWWdEOVU2MXpxaEpkdFYybXVqR0NYMS1GeG9XWnUzYTVNVFBJZWk5MW5OLTFmVUViRmpBbDRQS0YzWGxHa1NucWhsa3NnRWFWRkwxd2c4UnFoM2VXVlFaLW1WY3p2Rjh4S2tYaGhPS2gtcVZEaEF5QzhlUVJGMFVsdGxpYjdmTkNlejdqYVR4anJZNUg1T2NyMTNRc1RuUXpkUEpxZWVaMEtvWjRrTElEMHRPMFdRSkUxdU1jX2o3YWVMVU8wSU5aTEhGdi1HZHZlMGJwdzMtaktjOHQ2UzQ?oc=5)
+
+## 【高】蚊傳疾病登革熱和基孔肯雅熱的最新情況
+- 類別：蚊患及病媒疾病、政府政策及執法；地區：未註明
+- 摘要：衞生署衞生防護中心（中心）今日（十一月二十七日）公布登革熱和基孔肯雅熱的最新情況。中心提醒市民不論是身處本港或前往受蚊傳疾病影響的地區，均應採取適當防蚊措施，避免被蚊叮咬，以預防感染蚊傳疾病。 登革熱 ——— 由十一…（共 2 個來源報道）
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[政府新聞公報 RSS](https://www.info.gov.hk/gia/general/202611/27/P2026112700438.htm)；[香港政府資訊中心](https://news.google.com/rss/articles/CBMickFVX3lxTE5paW52N1dSQW8xbVpFbnF2TWdFdFpkOWZVTXdFeEVpSk45aVJhcGVaa2NnZjlQSFo0WTdRM0lGVzN5Q190cU9lM0FMTzNmQ19CdEZPSUJ2QlNGMDl5RWZGSEpmOE81VkN5R2tNYmp4R1U3Zw?oc=5)
 
 ## 【高】土瓜灣食肆兩老鼠爬圍板依偎 目擊者：啱啱去完迪士尼樂園｜有片
 - 類別：鼠患；地區：九龍城
@@ -29,6 +43,13 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[信報網站](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdGFiN1hpSmRIanJHTjRwRnBjR05jMVpTc0JJMTA2OV8xemNGTHZhd0kwbVRUdERuc013TXd1UEM2dFJDNUxNRlRjTGJwQjdoS3R4M0FkTE9GbTh6aFJJT2Y3YWtNbXQyY0R1MXRyTGhaSnBCMVQ2TmJOdEYta0lMYlNnM294RHM4U2t0cWMwWEo1QVc4dVRGMTlnd2hxbl9sMnZwQmVhRGR4NV9PMlcxZmVWbTM4cG93VHVQQlVuNHpienMzeGhTY1F3OEFPVVZ2amFZUmpUQnJVaGRXMDlVWUc4Z05rWWd1WnhyRWR5VU5mT2VCWmRUNXVHS3RzZHNQeXlrREU5c2VZUldtZm1YVGdwNmlKVkpHWTE4SU1COHVTX2d6X09NOGI3RW9ET3pB?oc=5)；[i-CABLE](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcTFEN3pkRmdidjY0TzlWbXdMSlRHWUVxSFhxRV9HWVBic3pTZmpfb2w3Q3BaWnRGNGRNNXBXbGhLVDNVbFBUcFA4UkRWU25RdWpvek02dnpOZ2QzcWo0QmM0YTRKOXplRGhXTzUwakFBdlJFN2IxOF9ZNk9nNmJDZ3lVbktjSFQtRGlQSm5VbmRDNkRVLV9rLWtZTE83RTdRSjNfNFl5dFFnU1BIU01ET1FDN291SkRXbWx0NEoyelFNWlVQODZ6NGU3aHlueG1qeWhQdUZCdEpzNk9fc1VRcHJBVVEzbUhQX0NPRllqNlVDczVMRkhsN3czbHpYeWtMYldaMWplU0Vfa0lMeG9fbnpjcmZJOU1RaFoza3M5MXNtdFlZV1JaSzBXMUhVU0hEVDNkMS1MS2FpaUs3OERqUW1mcEZ4dy1va3B2TVpXb0NRMDRuWmpSenZXdElOMVVZOTZr?oc=5)
+
+## 【高】51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國
+- 類別：蚊患及病媒疾病；地區：未註明
+- 摘要：51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國
+- 管理提示：資料不足，請參閱原文
+- 狀態：已發布
+- 來源：[on.cc東網](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRVcxUy1ZeU5jSjhSczNpaXdxVFFIcXd5bkVRRzZrcjBFdUFxanBzeU0tY3gzbUQ4MFBTamFRMzhYZEk1bGlRWWlYd3ZFd0R2NEhsTTNScHE5QmFSdExXZGpuVUJLdzB4Y3RJdjgzeE03Z0RPc0pKalgtR2tnZkNxVW1wLWpkREdLaUFR?oc=5)
 
 ## 【高】影／高雄登革熱疫情燒不停 衛生局追「這天」起去過慶豐街快採檢
 - 類別：蚊患及病媒疾病；地區：未註明
