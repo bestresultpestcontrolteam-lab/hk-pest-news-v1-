@@ -1,7 +1,30 @@
 {
-  "generated": "2026-11-27T11:01:51.440125+00:00",
-  "count": 156,
+  "generated": "2026-11-27T13:26:34.665760+00:00",
+  "count": 158,
   "items": [
+    {
+      "id": "2e719d8d1243",
+      "title": "男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕",
+      "summary": "男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "白蟻及木材害蟲"
+      ],
+      "priority": "低",
+      "priority_reason": "一般資訊",
+      "districts": [],
+      "first_seen": "2026-11-27T11:18:41+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNE5oNVYzVnI5QW9Xb3I3OEpUalNWaUh1WUdWdkRWZnF6UHcydy1TcENHTTNCY2VFLTZscUtzbGtKTHRtMS1LcjFkWXRiOHFEaDI2empIWmpHbDBOVkk1MzlXS0lmeW51Nnc2SU92MzJ0UDd6Z1VFZ3BOT0hXNlREYVBWX09MYlp4TWxJ?oc=5",
+          "media": "on.cc東網",
+          "published": "2026-11-27T11:18:41+00:00",
+          "tier": "media"
+        }
+      ]
+    },
     {
       "id": "aae9df9f67de",
       "title": "51歲漢北上返港證染基孔 另2人染登革熱曾訪內地及泰國",
@@ -2809,6 +2832,31 @@
           "title": "台大女星寵物屍體做標本 閨房養蜘蛛、蟑螂：我覺得可愛",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Z2tZaURfUmIwV1hLdXlLQWdMNUNOZHV0M0dRTk9PYlZURnYxXzUyUjFtWXNNb1Byc2hOX2pYQnFqYlBLRUdLaDhmcVNkSW1zdUcxWDdsQWpJdzY3T2xPWU93?oc=5",
           "media": "TVBS新聞",
+          "published": "2026-11-09T08:00:00+00:00",
+          "tier": "media"
+        }
+      ]
+    },
+    {
+      "id": "dc1b05dfb47a",
+      "title": "黃大仙酒樓天降老鼠 茶客「嚇餐飽」親述擊中手臂遺血迹",
+      "summary": "黃大仙酒樓天降老鼠 茶客「嚇餐飽」親述擊中手臂遺血迹",
+      "management_note": "資料不足，請參閱原文",
+      "categories": [
+        "鼠患"
+      ],
+      "priority": "高",
+      "priority_reason": "酒樓",
+      "districts": [
+        "黃大仙"
+      ],
+      "first_seen": "2026-11-09T08:00:00+00:00",
+      "tier": "media",
+      "sources": [
+        {
+          "title": "黃大仙酒樓天降老鼠 茶客「嚇餐飽」親述擊中手臂遺血迹",
+          "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTUdJVE45dlN1RXk0LVVtNWdKc1V1WHppeVEyUkl1V0RIQm1zX3FnQkZXZW90ZS1CREowektwd3RDT0xZdENlQ3NkcktINlRGNnVhdkRUZHd4ZHJFX09tU1VUNHFJVTAwYWVySHE5cUd3NWNxYTk1MkllTFJOa0FHVUE2cFFfdU5WU1FqQkVqTGNIcWwwbEpUdlh0TUh5TlktSGQyZHJWc0tSSXVKT1N1LUF0Nk5mUzlNLW85bVd6c1BLaWZUclRJYTFzVWNLckctSEZlbDJUNWtSM1hpR0xkaHMyWDlsdEZIMjNPV0ZJSkFiY2E2elVpWFFvNC03MnVhNi1lMVI2VDEwMGdKdUpDTS1HSXprS2RvbUhhRHI2ZzVIX3NvYjZ2bHdOeXNPTXVkOUtpUDJGNkFWdEVncUFaWDA3Z2FYMFp0cXM0RlpYSUx6MW02N0pnSDl0Qi1XaTliT0g0UG1DT3JwSjEzekE0NXpScw?oc=5",
+          "media": "星島頭條",
           "published": "2026-11-09T08:00:00+00:00",
           "tier": "media"
         }
