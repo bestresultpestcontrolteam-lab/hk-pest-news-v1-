@@ -1,6 +1,6 @@
 # 香港蟲害管理新聞每日摘要（2026-11-28）
 
-過去24小時共 30 個事件；高關注 12 個。
+過去24小時共 29 個事件；高關注 12 個。
 
 ## 【高】​食環署持續推展「雷霆行動」和「天羅行動」打擊鼠患 （附圖）
 - 類別：鼠患、政府政策及執法；地區：油尖旺、九龍城、元朗
@@ -148,13 +148,6 @@
 - 管理提示：資料不足，請參閱原文
 - 狀態：已發布
 - 來源：[am730](https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNFlWNGpHZnNBZGgxRXE5Z05Kd1BoeG9Gemx4OG83SWNYZmdxeXQ1YnVVNkdldjItbHBoNldzUHEyMUx4UklhbnFhUnQwemRRSHZzNzIwODRXdTJtR1FiUVF4UzJLUGtqZXFMYXMxU0g5cUVHaHI2dkU0SDdEYjlBRDlBN2E5YXpHMWlZeWwyeWNJdDliZEV1Z3dURUFCMmVNYmRjQWNoUmpxTmFOSkpKVUpaZl9jQU9pYlNyRVV5UDJPOGRjb1VBRjZ6THZ5aHpzY3dVZkVVMFgxdkhCY2trWHRxazEzeTFYX21XeFpFTnp1TWd4VGY3cDdzRTdYRHNqTUpHaDF1Vl9FU2lHMDBUWnVZMUxhMjNsNk5OSkU3dzdUT3pxNDM5UTF2LXFVVDc0S016MEZEM20xMUZoSFNHQmkwbENlUlU0VVpBRVE5cmpjQTc0UDNGbGltTXZ0SDIyeHZOZGcybHVKNFIyWG5fVGJzVWxveGNTM1Rj?oc=5)
-
-## 【低】老鼠鑽褲強裝鎮定 「敬業老師」帳號突轉私密被疑擺拍
-- 類別：鼠患；地區：未註明
-- 摘要：老鼠鑽褲強裝鎮定 「敬業老師」帳號突轉私密被疑擺拍
-- 管理提示：資料不足，請參閱原文
-- 狀態：已發布
-- 來源：[星島頭條](https://news.google.com/rss/articles/CBMi6AJBVV95cUxNLXI4c2lzMFRHSVhEMkVacWtoRTZ0UDFCcmNGa1lwOHVNSHdBVDVzeGtvU1A5U2ZGNzl6QS1WRmpMY1gyOHA3cWhMZlFjZWp4VzBkTkVlT0FOeXlVSnFkekZWWWZjZUFWUmFrT19XcFVWd1FGWXFvWlRJYVJlMzhlTWtFcV9MaEE0bUs5eTBDamhLLUxrTzV1LVJLVDZNTXd6NVpKSHpYOTQ1MzFOYjdPWUhBc1ZkZHNOQWxPd0hJY1FxNFRsY0pnQ090Umx2bi1ETjZrSUhQdWZMb2NMd0ZoMUhqRUFqNk8tejBFR2c0UEpGN09DVjg0Tk5jZERuMUd4ZUFKTGlpb3Z1bXNIdUJqRlRYXzMtX2phVWhTZC15NDhmWFBmNy1fV21nYmVmM1dOS0JJQTNWa2FVTVFVcVhqd2hlaWg3OFZEZ3NlQk1Lb05VTGNhLWh4SDJIVDVpR0psNGt6UHItY2g?oc=5)
 
 ## 【低】報章要聞｜星島：食環署雷霆行動滅鼠／大公：國醫大師推動中西醫協作治腫瘤
 - 類別：鼠患、政府政策及執法；地區：未註明
