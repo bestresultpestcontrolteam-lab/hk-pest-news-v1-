@@ -1,5 +1,35 @@
 [
   {
+    "id": "f1c7e02a6cd0",
+    "title": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+    "description": "",
+    "first_seen": "2026-11-28T00:10:23+00:00",
+    "tier": "media",
+    "sources": [
+      {
+        "title": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3BiOWdudTNNZkVKUUhtQUFxZXZhbjJ6Yk44MEhQdDdCU1VLQUZHZDdYRlRVbU9JaWZDbkt0dVJnTmlUZE04V0RuejZhbmVWdU81WEZkZWxUZXNPeWZNdEZyWFVOVklHQXpiN3JPSWhabTFfQkNxcFNMU1UyUDVWeXgya2RpRHdnV3REV2o5aEZZTHdYUm5oV3R0VklqV014SlZtMmQ0Uk5fbmx0MGx3ZEhfSkZqUjRsSVFvSU9lZXAzcmU0czQ0SjVVbkdNRm5rWFRlNnhCWkNkbC1DMmpnMmdWY2xiaEw2NzRHWW9jMGp6SUIxdjFFQXI4TVg1R3RCZk1xc2JhVlZ3U3VTUXlSRHhMOVhEeHFxRGkwdkN2SF9ybWlJUGJZS21TNHYxdVhEazBHOEdnM05oQTVDeHNVVGpiTVA?oc=5",
+        "media": "東方日報",
+        "published": "2026-11-28T00:10:23+00:00",
+        "tier": "media"
+      }
+    ],
+    "needs_resummary": false,
+    "relevance": 3,
+    "topic": null,
+    "categories": [
+      "白蟻及木材害蟲"
+    ],
+    "districts": [],
+    "priority": "低",
+    "priority_reason": "一般資訊",
+    "summary": "父為子儲逾23萬現金 遭白蟻蛀蝕",
+    "management_note": "資料不足，請參閱原文",
+    "summary_method": "rule",
+    "status": "published",
+    "updated": "2026-11-28T01:26:18.914845+00:00"
+  },
+  {
     "id": "2e719d8d1243",
     "title": "男子替兒存結婚積蓄 紙幣慘遭白蟻蛀蝕",
     "description": "",
@@ -162,7 +192,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "beb69d8b3423",
@@ -283,7 +313,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "95f9525f28b1",
@@ -384,7 +414,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "2f7460178350",
@@ -597,7 +627,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "b275ba94590d",
@@ -726,7 +756,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T15:07:02.418270+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "33f4cfd8934b",
@@ -930,7 +960,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "3aa74d8d93e3",
@@ -967,7 +997,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "520aafce1b9a",
@@ -1135,7 +1165,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "a7bf1f4720aa",
@@ -1527,7 +1557,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T15:07:02.418270+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "6f1a150bdad0",
@@ -1613,7 +1643,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "e0fb8bf3ce30",
@@ -1657,7 +1687,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "8d99d1709ab0",
@@ -2741,7 +2771,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "cd3b3ab7fb8e",
@@ -3242,7 +3272,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T21:06:06.909077+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "ffc4b8f52068",
@@ -3499,7 +3529,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "714e47d43198",
@@ -3965,7 +3995,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T23:05:49.484973+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "15f79c166547",
@@ -5161,7 +5191,7 @@
     "management_note": "資料不足，請參閱原文",
     "summary_method": "rule",
     "status": "published",
-    "updated": "2026-11-27T17:18:39.518544+00:00"
+    "updated": "2026-11-28T01:26:18.914845+00:00"
   },
   {
     "id": "decead5eac4d",
